@@ -1,0 +1,26 @@
+---
+baseURL: https://blog.barrera.dev
+languageCode: es-ES
+title: Barrera.dev
+theme: hello-friend
+
+paginate: 9999 # Let's call it infinite
+
+params:
+  rssFullText: true
+
+  rss:
+    authorName: Ángel Barrera
+    authorEmail: angelbarrerasanchez+blog@gmail.com
+
+  defaultTheme: light
+  showReadingTime: true
+
+languages:
+  en:
+    dateFormatSingle: "02-01-2006" 
+    dateFormatList: "02-01-2006"
+
+    params:
+      logo:
+        logoText: "@ Barrera.dev"
