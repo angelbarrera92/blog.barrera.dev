@@ -31,3 +31,4 @@ jobs:
           publish_branch: main
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          cname: blog.barrera.dev
