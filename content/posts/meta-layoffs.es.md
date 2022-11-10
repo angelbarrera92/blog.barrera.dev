@@ -11,6 +11,8 @@ cover: images/meta-layoffs.jpg
 
 Hoy se ha conocido uno de los [mayores despidos en la historia de la tecnología](https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/); en este caso el afortunado, por llamarlo de alguna forma, ha sido [meta](https://about.meta.com/es/meta/), comúnmente conocido como: **Facebook**.
 
+<!--more-->
+
 Es una noticia realmente dura, son más de once mil empleados, o lo que es lo mismo, casi **once mil familias** en todo el mundo. En las últimas semanas, hemos visto otros despidos en Stripe, Uber, Twitter...
 *[fuente](https://layoffs.fyi/)*.
 

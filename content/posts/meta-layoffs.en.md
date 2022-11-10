@@ -11,6 +11,8 @@ cover: images/meta-layoffs.jpg
 
 Today has been known as one of the [biggest layoffs in the history of technology]((https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/)); in this case, the lucky one, to call it somehow, has been [meta](https://about.meta.com/es/meta/), commonly known as **Facebook**.
 
+<!--more-->
+
 It is really hard news, it is more than eleven thousand employees, or what is the same, almost **eleven thousand families** around the world. In recent weeks, we have seen other layoffs at Stripe, Uber, Twitter... [source](https://layoffs.fyi/).
 
 The reasons for these layoffs are motivated by the *post-pandemic?* era. Let's remember that during the pandemic, these services *(Twitter, Facebook, Instagram, Whatsapp, Twitch...)* gained a lot of customers and relevance as they were one of the few entertainments we had during the confinements.
