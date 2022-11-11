@@ -45,7 +45,7 @@ languages:
         url: /about
         weight: 2
       - identifier: lang
-        name: "en"
+        name: "🇺🇸"
         url: /en/
         weight: 3
   en:
@@ -73,6 +73,6 @@ languages:
         url: /en/about
         weight: 2
       - identifier: lang
-        name: "es"
+        name: "🇪🇸"
         url: /
         weight: 3
