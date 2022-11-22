@@ -64,4 +64,24 @@ La razón
 Contacto
 &lt;a href="#contacto" class="h-anchor" aria-hidden="true">#&lt;/a>
 &lt;/h3>
-&lt;p>&lt;code>TODO&lt;/code>: Añadir aquí algún tipo de formulario de contacto/calendly para que puedan contactar conmigo.&lt;/p></description></item></channel></rss>
+&lt;p>Si quieres contactar conmigo, puedes hacerlo a través del siguiente formulario de contacto.&lt;/p>
+&lt;div class="container">
+&lt;form action="https://getform.io/f/77b72e9e-22aa-4661-9ada-b1e3dc255c6a" method="POST">
+&lt;div class="container">
+&lt;input type="text" id="name" name="name" placeholder="Name" required>
+&lt;/div>
+&lt;div class="container">
+&lt;input type="email" id="email" name="email" placeholder="Email" required>
+&lt;/div>
+&lt;div class="container">
+&lt;input type="text" id="subject" name="subject" placeholder="Subject" required>
+&lt;/div>
+&lt;div class="container">
+&lt;textarea id="message" name="message" rows="3" placeholder="Message" required>&lt;/textarea>
+&lt;/div>
+&lt;br />
+&lt;div class="container">
+&lt;button type="submit">Send&lt;/button>
+&lt;/div>
+&lt;/form>
+&lt;/div></description></item></channel></rss>
