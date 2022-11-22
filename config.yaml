@@ -2,7 +2,7 @@
 title: Barrera.dev
 baseURL: https://blog.barrera.dev
 languageCode: es-ES
-copyright: © 2022, Ángel Barrera
+copyright: <p>© 2022, Ángel Barrera</p><p><a href="https://github.com/angelbarrera92"><i class="fa-brands fa-github"></i></a></p>|<p><a rel="me" href="https://fosstodon.org/@angelbarrera92"><i class="fa-brands fa-mastodon"></i></a></p>|<p><a href="https://twitter/angelbarrera92"><i class="fa-brands fa-twitter"></i></a></p>|<p><a href="https://www.linkedin.com/in/angelbarrerasanchez/"><i class="fa-brands fa-linkedin"></i></a></p>
 
 theme: hello-friend
 defaultContentLanguage: es
