@@ -14,4 +14,6 @@ No one, I mean, no one who stands out, neither for one thing or another. I recom
 
 ### Contact
 
-`TODO`: Add here some kind of contact/calendly form so they can contact me.
+If you want to contact me, feel free to fill out and send the following form:
+
+{{< contact form="77b72e9e-22aa-4661-9ada-b1e3dc255c6a" >}}

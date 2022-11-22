@@ -1,0 +1,24 @@
+{{ if .Get "form" }}
+<div class="container">
+    <form action="https://getform.io/f/{{ .Get "form" }}" method="POST">
+        <div class="container">
+            <input type="text" id="name" name="name" placeholder="Name" required>
+        </div>
+        <div class="container">
+            <input type="email" id="email" name="email" placeholder="Email" required>
+        </div>
+        <div class="container">
+            <input type="text" id="subject" name="subject" placeholder="Subject" required>
+        </div>
+        <div class="container">
+            <textarea id="message" name="message" rows="3" placeholder="Message" required></textarea>
+        </div>
+        <br />
+        <div class="container">
+            <button type="submit">Send</button>
+        </div>
+    </form>
+</div>
+{{ else }}
+{{ errorf "If you want to use the \"contact\" shortcode, you need to pass a mandatory \"form\" param. The issue occured in %q (%q)" .Page.File .Page.Permalink }}
+{{ end }}

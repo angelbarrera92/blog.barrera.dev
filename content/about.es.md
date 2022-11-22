@@ -16,4 +16,6 @@ Nadie, quiero decir, nadie que sobresalga, ni por una cosa ni por otra. Te recom
 
 ### Contacto
 
-`TODO`: Añadir aquí algún tipo de formulario de contacto/calendly para que puedan contactar conmigo.
+Si quieres contactar conmigo, puedes hacerlo a través del siguiente formulario de contacto.
+
+{{< contact form="77b72e9e-22aa-4661-9ada-b1e3dc255c6a" >}}
