@@ -1,4 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Barrera.dev Blog</title><link>https://blog.barrera.dev/posts/</link><description>Recent content in Posts on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><copyright>&lt;p>© 2022, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a rel="me" href="https://fosstodon.org/@angelbarrera92">&lt;i class="fa-brands fa-mastodon">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-twitter">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Redes sociales y sociedad</title><link>https://blog.barrera.dev/posts/social-networks-and-society/</link><pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/social-networks-and-society/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Barrera.dev Blog</title><link>https://blog.barrera.dev/posts/</link><description>Recent content in Posts on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><copyright>&lt;p>© 2022, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a rel="me" href="https://fosstodon.org/@angelbarrera92">&lt;i class="fa-brands fa-mastodon">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-twitter">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>IOT - Dispositivos Inteligentes</title><link>https://blog.barrera.dev/posts/iot-intelligent-devices/</link><pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/iot-intelligent-devices/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/iot-intelligent-devices.jpg"/>
+&lt;p>Hace poco descubrí que mi robot aspirador dejó de funcionar durante más de tres días.&lt;/p>
+&lt;p>No podía configurar el programa de aspirado, es decir, no podía modificar el plan de limpieza para definir las habitaciones a limpiar ni modificar la potencia de succión que la aplicación te permite configurar &lt;strong>y no puedes hacerlo de ninguna otra forma&lt;/strong>.&lt;/p>
+&lt;h4 id="entonces">
+¿Entonces?
+&lt;a href="#entonces" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>En realidad, puedes encender el robot con el botón que trae el propio aparato y este realizará el último recorrido con el que fue configurado. Con suerte será la casa completa a una potencia de succión suficiente.&lt;/p>
+&lt;p>Pasados unos días, la aplicación volvió a funcionar&amp;hellip; pero esto me hizo reflexionar. Dependemos de servicios de terceros cuando compramos ciertos productos, como robots aspirador, enchufes inteligentes, cámaras de vigilancia, etc.&lt;/p>
+&lt;p>Ante esta situación hay &lt;em>(principalmente)&lt;/em> dos grupos de personas:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Gente común&lt;/strong> que no tiene por qué conocer estos detalles y compra este tipo de dispositivos porque les gusta o los necesitan.
+Creen que pueden ser una buena solución para ellos, pero que ante este tipo de situaciones, lo único que pueden hacer es llamar al comercio donde lo compró o llamar al fabricante para gestionar la garantía.&lt;/li>
+&lt;li>&lt;strong>Informáticos&lt;/strong> o a los que nos gusta resolver problemas tecnológicos y entendemos cómo funciona este tipo de dispositivos, es decir, sabemos que estos se conectan a un servidor remoto para enviar/recibir datos &lt;em>(cosa que no nos suele gustar)&lt;/em> y que necesitamos para interactuar con ellos desde dentro y fuera de casa a través de una aplicación.&lt;/li>
+&lt;/ul>
+&lt;h4 id="cámaras-de-vigilancia">
+Cámaras de vigilancia
+&lt;a href="#c%c3%a1maras-de-vigilancia" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>Estos aplica también a cámaras de vigilancia. El uso común de una cámara de vigilancia es ser capaz de ver lo que pasa en la vivienda en tiempo real desde cualquier lugar. Además, ante cualquier evento/movimiento recibir notificaciones de seguridad. Para esto confiamos, de forma implícita, en servicios externos.&lt;/p>
+&lt;p>¿Son conscientes los usuarios de como funciona esto? Si supieran que las imágenes pasan por un servidor de una empresa &lt;em>(que puede ser o no la fabricante del producto)&lt;/em>, se analiza el contenido y se almacena en la nube, ¿Lo comprarían? ¿Lo usarían? ¿Lo instalarían en su casa?&lt;/p>
+&lt;p>El público general no tiene por qué conocer este detalle, para la mayoría solo se trata de una aplicación la cual configura la cámara de vigilancia y mágicamente puede ver lo que pasa en su casa desde cualquier parte del mundo.&lt;/p>
+&lt;p>Pero &lt;strong>la magia no existe&lt;/strong>, en esto estamos todos de acuerdo.&lt;/p>
+&lt;h4 id="alternativas">
+Alternativas
+&lt;a href="#alternativas" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>Encontré un grupo de afectados &lt;em>(en telegram)&lt;/em> y resulta que no era el único&amp;hellip; El motivo fue que los servidores de esta marca se cayeron y estuvo fuera de servicio durante ese fin de semana por completo.
+En este grupo de telegram descubrí que existía una forma por la cual montar un servidor compatible por cuenta propia. De esta forma, yo sería el único responsable de mantener el servicio funcionando para poder usar mi robot aspirador y poder configurarlo sin necesidad de depender de esa tercera empresa.&lt;/p>
+&lt;p>Tras varias horas de leer información y tras estudiar &lt;em>(no es trivial)&lt;/em> cómo se podía acceder y re-configurar &lt;em>(rootear)&lt;/em> el robot para que usara este nuevo método, finalmente lo hice funcionar.
+Todo esto solo es viable si eres informático y te gustan este tipo de cosas.&lt;/p>
+&lt;h4 id="futuro">
+Futuro
+&lt;a href="#futuro" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>Para el público general preveo problemas legales con las garantías, es decir:&lt;/p>
+&lt;ul>
+&lt;li>¿Qué pasa si tu robot aspirador deja de funcionar?&lt;/li>
+&lt;li>¿Qué pasa si te deja de dar cierta funcionalidad si un servidor de una empresa deja de funcionar?&lt;/li>
+&lt;li>¿Qué pasa si la empresa quiebra?&lt;/li>
+&lt;li>o&amp;hellip; cualquier otro motivo que haga que no puedas utilizar esa aplicación para configurar tu dispositivo&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>¿Existe algún tipo de ley que obligue tener que soportar y proveer servicios durante al menos la vida útil del dispositivo?&lt;/em>&lt;/p>
+&lt;p>Si no es así&amp;hellip;&lt;/p>
+&lt;p>&lt;em>¿Qué responsabilidad tiene la empresa de mantener el servidor o ese servicio más allá de un año o dos años desde la venta del producto?&lt;/em>&lt;/p>
+&lt;p>Es decir, podíamos llegar a un punto en el que tu dispositivo sea un pisapapeles. ¿Verdad? &lt;strong>Incluso estando en buen estado&lt;/strong>.
+Puede llegar el momento en que no puedas usar tu dispositivo para nada porque la empresa ha dejado de dar servicio y todo eso va directamente
+al chatarrero.&lt;/p>
+&lt;p>Preveo las siguientes situaciones:&lt;/p>
+&lt;ul>
+&lt;li>Legislar para evitar estas situaciones. Tiene lagunas:
+&lt;ul>
+&lt;li>¿Cómo se puede obligar a una empresa fuera de la unión europea a dar un servicio durante la vida útil de un dispositivo?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Vuelta a los dispositivos no inteligentes.
+&lt;ul>
+&lt;li>El consumidor preferirá gastarse más dinero y que su dispositivo funcione independientemente de si la empresa quiebra y así poder disfrutar plenamente de su dispositivo.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Empresas que se dediquen a dar servicio de mantenimiento de estos dispositivos
+&lt;ul>
+&lt;li>&lt;em>No suele ser económicamente viable&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Redes sociales y sociedad</title><link>https://blog.barrera.dev/posts/social-networks-and-society/</link><pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/social-networks-and-society/</guid><description>
 &lt;img src="https://blog.barrera.dev/images/social-networks-and-society.jpg"/>
 &lt;p>&lt;a href="https://www.bbc.com/mundo/noticias-48558989">Las redes sociales están con nosotros desde hace ya mas de &lt;strong>dos décadas&lt;/strong>&lt;/a>. Sin embargo, se está brindando poca educación a nuestros jóvenes para hacer un uso responsable de las mismas.
 No es solo un &lt;em>¿potencial?&lt;/em> problema de la gente joven; la población adulta se enfrentará a un cambio de trabajo, a solicitar una hipoteca o un préstamo en una entidad bancaria, o a pedir una beca para sus hijos&amp;hellip; todo esto puede verse afectado por el empleo de las redes sociales.&lt;/p>
