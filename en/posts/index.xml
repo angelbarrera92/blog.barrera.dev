@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Barrera.dev Blog</title><link>https://blog.barrera.dev/en/posts/</link><description>Recent content in Posts on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><copyright>&lt;p>© 2022, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a rel="me" href="https://fosstodon.org/@angelbarrera92">&lt;i class="fa-brands fa-mastodon">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-twitter">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/en/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Social Networks and Society</title><link>https://blog.barrera.dev/en/posts/social-networks-and-society/</link><pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/en/posts/social-networks-and-society/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Barrera.dev Blog</title><link>https://blog.barrera.dev/en/posts/</link><description>Recent content in Posts on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><copyright>&lt;p>© 2022, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a rel="me" href="https://fosstodon.org/@angelbarrera92">&lt;i class="fa-brands fa-mastodon">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-twitter">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/en/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>IOT - Intelligent Devices</title><link>https://blog.barrera.dev/en/posts/iot-intelligent-devices/</link><pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/en/posts/iot-intelligent-devices/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/iot-intelligent-devices.jpg"/>
+&lt;p>I recently discovered that my vacuum robot stopped working for more than three days.&lt;/p>
+&lt;p>I could not configure the vacuuming program, that is, I could not modify the cleaning plan to define the rooms to be cleaned nor modify the suction power that the application allows you to set &lt;strong>and you cannot do it in any other way&lt;/strong>.&lt;/p>
+&lt;h4 id="then">
+Then?
+&lt;a href="#then" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>Actually, you can turn the robot on with the button on the device itself and it will perform the last run it was configured to do. Hopefully it will be the entire house at sufficient suction power.&lt;/p>
+&lt;p>After a few days, the app started working again&amp;hellip; but this gave me pause. We rely on third-party services when we buy certain products, such as robot vacuums, smart plugs, surveillance cameras, etc.&lt;/p>
+&lt;p>In this situation there are &lt;em>(mainly)&lt;/em> two groups of people:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Common people&lt;/strong> who do not have to know these details and buy this kind of devices because they like or need them.
+They think they can be a good solution for them, but in this kind of situations, the only thing they can do is to call the store where they bought it or call the manufacturer to manage the warranty.&lt;/li>
+&lt;li>&lt;strong>Computer scientists&lt;/strong> or those of us who like to solve technological problems and understand how this type of devices work, i.e. we know that they connect to a remote server to send/receive data &lt;em>(which we don&amp;rsquo;t usually like)&lt;/em> and that we need to interact with them from inside and outside the home through an application.&lt;/li>
+&lt;/ul>
+&lt;h4 id="surveillance-cameras">
+Surveillance cameras
+&lt;a href="#surveillance-cameras" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>These also apply to surveillance cameras. The common use of a surveillance camera is to be able to see what is happening in the house in real time from anywhere. In addition, upon any event/movement to receive security notifications. For this we rely, implicitly, on external services.&lt;/p>
+&lt;p>Are users aware of how this works? If they knew that the images pass through a server of a company &lt;em>(which may or may not be the manufacturer of the product)&lt;/em>, the content is analyzed and stored in the cloud, would they buy it? Would they use it? Would they install it at home?&lt;/p>
+&lt;p>The general public does not have to know this detail, for most it is just an application which configures the surveillance camera and magically you can see what happens in your home from anywhere in the world.&lt;/p>
+&lt;p>But &lt;strong>magic does not exist&lt;/strong>, on this we all agree.&lt;/p>
+&lt;h4 id="alternatives">
+Alternatives
+&lt;a href="#alternatives" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>I found a group of affected &lt;em>(on telegram)&lt;/em> and it turns out I wasn&amp;rsquo;t the only one&amp;hellip;. The reason was that the servers of this brand went down and was out of service during that weekend completely.
+In this telegram group I discovered that there was a way by which to set up a compatible server on my own. This way, I would be the only one responsible for keeping the service running so I could use my robot vacuum cleaner and be able to configure it without having to depend on that third party company.&lt;/p>
+&lt;p>After several hours of reading information and after studying &lt;em>(not trivial)&lt;/em> how to access and re-configure &lt;em>(root)&lt;/em> the robot to use this new method, I finally got it working.
+All this is only feasible if you are a computer scientist and like this kind of stuff.&lt;/p>
+&lt;h4 id="future">
+Future
+&lt;a href="#future" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>For the general public I foresee legal problems with warranties, ie:&lt;/p>
+&lt;ul>
+&lt;li>What if your robot vacuum cleaner stops working?&lt;/li>
+&lt;li>What if it stops giving you certain functionality if a company&amp;rsquo;s server stops working?&lt;/li>
+&lt;li>What if the company goes bankrupt?&lt;/li>
+&lt;li>o&amp;hellip; any other reason that makes you unable to use that application to configure your device?&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Is there some kind of law that mandates that you have to support and provide services for at least the life of the device?&lt;/em>&lt;/p>
+&lt;p>If not&amp;hellip;&lt;/p>
+&lt;p>&lt;em>What responsibility does the company have to maintain the server or that service beyond a year or two years from the sale of the product?&lt;/em>&lt;/p>
+&lt;p>I mean, we could get to a point where your device is a paperweight, right? &lt;strong>Even if it&amp;rsquo;s in good shape&lt;/strong>.
+There may come a time when you can&amp;rsquo;t use your device at all because the company has stopped providing services and it all goes straight to the junkyard.&lt;/p>
+&lt;p>I foresee the following situations:&lt;/p>
+&lt;ul>
+&lt;li>Legislate to avoid these situations. It has loopholes:
+&lt;ul>
+&lt;li>How can you force a company outside the EU to provide service for the lifetime of a device?&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Return to non-intelligent devices.
+&lt;ul>
+&lt;li>Consumers will prefer to spend more money and have their device work regardless of whether the company goes bankrupt so they can fully enjoy their device.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Companies dedicated to servicing these devices.
+&lt;ul>
+&lt;li>&lt;em>Not usually economically viable/profitable&lt;/em>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Social Networks and Society</title><link>https://blog.barrera.dev/en/posts/social-networks-and-society/</link><pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/en/posts/social-networks-and-society/</guid><description>
 &lt;img src="https://blog.barrera.dev/images/social-networks-and-society.jpg"/>
 &lt;p>Social networks have been with us for more than &lt;strong>two decades&lt;/strong>. However, little education is being provided to our young people on how to use them responsibly. It is not just a &lt;em>potential?&lt;/em> problem for young people; the adult population will be faced with changing jobs, applying for a mortgage or a loan at a bank, or applying for a scholarship for their children&amp;hellip; all of these can be affected by the use of social networks.&lt;/p>
 &lt;p>&lt;strong>We are not aware&lt;/strong> of the amount of information we are sending, beyond a photo that may be innocent, to a social network that a priori should not share this information outside the platform, right?&lt;/p>
