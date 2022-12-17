@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Barrera.dev Blog</title><link>https://blog.barrera.dev/posts/</link><description>Recent content in Posts on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><copyright>&lt;p>© 2022, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a rel="me" href="https://fosstodon.org/@angelbarrera92">&lt;i class="fa-brands fa-mastodon">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-twitter">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>VE - España</title><link>https://blog.barrera.dev/posts/ev-in-spain/</link><pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/ev-in-spain/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Barrera.dev Blog</title><link>https://blog.barrera.dev/posts/</link><description>Recent content in Posts on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><copyright>&lt;p>© 2022, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a rel="me" href="https://fosstodon.org/@angelbarrera92">&lt;i class="fa-brands fa-mastodon">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-twitter">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>IDP en la empresa</title><link>https://blog.barrera.dev/posts/idp-in-the-enterprise/</link><pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/idp-in-the-enterprise/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/idp-in-the-enterprise.jpg"/>
+&lt;p>Hace unas semanas, dediqué algún tiempo a entender cómo se podía implantar un IDP en la empresa. Encontré algunos artículos y vídeos útiles, pero aún me quedaban algunas preguntas sin resolver. En particular, quería saber &lt;strong>cómo debe implantarse un IDP en un entorno político y lleno de silos&lt;/strong>. También quería saber cómo hacer frente a la inevitable resistencia al cambio de los distintos departamentos.&lt;/p>
+&lt;blockquote>
+&lt;p>IDP significa &lt;strong>Plataforma de Desarrollo Interno&lt;/strong>.&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a href="https://github.com/angelbarrera92/idp-enterprise-research/blob/main/outcome.md">Aquí encontrarás el enfoque optimista de cómo implantar un IDP&lt;/a>, por desgracia, supone que la organización está bien estructurada y que &lt;strong>las personas están dispuestas a cambiar&lt;/strong>, incluidos los mandos intermedios, los directores y los equipos de desarrollo.&lt;/p>
+&lt;p>Desgraciadamente, este no es el caso en la mayoría de las organizaciones. La realidad es que &lt;strong>la mayoría de las organizaciones están compartimentadas y son políticas&lt;/strong>, y la gente no está dispuesta a cambiar, peor aún en tiempos de crisis económica. Por eso decidí escribir este artículo, para compartir mi punto de vista después de hablar con algunas personas del sector en la misma situación.&lt;/p>
+&lt;h4 id="la-situación">
+La situación
+&lt;a href="#la-situaci%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>Es casi &lt;em>2023&lt;/em>, y todas las industrias están digitalizadas, desde la venta al por menor a los bancos, comercios, y gobiernos por lo que es un hecho que &lt;strong>necesitamos ingenieros para dirigir una sociedad moderna.&lt;/strong>&lt;/p>
+&lt;p>La mayoría de estas empresas &lt;em>tienen éxito&lt;/em> en la adopción de la nube. Algunas de ellas están &lt;a href="https://www.channelpronetwork.com/article/return-prem">volviendo a on-prem&lt;/a>, pero ese es un tema que me gustaría tratar en otro post.&lt;/p>
+&lt;p>Las empresas pasaron de &lt;em>on-premises&lt;/em> al &lt;em>cloud&lt;/em>. Algunas de ellas intentaron seguir los mismos procedimientos y procesos que seguían antes en sus centros de datos. Eso no funcionó, los ingenieros tenían dificultades para desarrollar e implementar los proyectos para los que estaban contratados, lo que provocó que los directivos y mandos intermedios no vieran ninguna mejora al pasar a la nube.&lt;/p>
+&lt;p>Llegados a este punto, tenían dos opciones:&lt;/p>
+&lt;ul>
+&lt;li>Seguir operando como lo estaban haciendo asumiendo que la nube no les iba a proporcionar mayores beneficios.&lt;/li>
+&lt;li>Cambiar la forma de trabajar adoptando la flexibilidad de la nube.&lt;/li>
+&lt;/ul>
+&lt;p>Aquellas empresas que adoptaron el segundo punto, tuvieron que sustituir ciertos roles y procesos en la empresa.
+Esto podría conllevar cambios significativos en la estructura de gestión de la empresa:&lt;/p>
+&lt;ul>
+&lt;li>¿Quién gestiona el acceso a la nube?&lt;/li>
+&lt;li>¿Quién se ocupa de las cuentas en la nube?&lt;/li>
+&lt;li>¿Pueden los empleados utilizar cualquier servicio en la nube?&lt;/li>
+&lt;li>¿Quién se encarga de gestionar el cortafuegos de las instancias en la nube?&lt;/li>
+&lt;li>¿Y la facturación?&lt;/li>
+&lt;/ul>
+&lt;p>Como puedes imaginar, esto ha causado muchas dificultades a las empresas. Estos cambios &lt;em>sólo&lt;/em> afectan a algunos departamentos de TI que adoptan procesos de automatización y prestan servicios a los desarrolladores.&lt;/p>
+&lt;h5 id="desarrolladores">
+Desarrolladores
+&lt;a href="#desarrolladores" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h5>
+&lt;p>Los desarrolladores, &lt;em>en su día&lt;/em>, se centraban en desarrollar los requisitos del negocio. Luego, empujan el código a otro lugar, &lt;strong>trabajo hecho&lt;/strong>.&lt;/p>
+&lt;p>Todos estamos de acuerdo en que &lt;strong>eso no es suficiente&lt;/strong>. Desafortunadamente, &lt;strong>no hay consenso sobre lo que es suficiente&lt;/strong> para un desarrollador.&lt;/p>
+&lt;ul>
+&lt;li>¿Debe un desarrollador ocuparse de un pipeline?&lt;/li>
+&lt;li>¿Es consciente el desarrollador de los pasos que debe seguir el pipeline?&lt;/li>
+&lt;li>¿Debe el desarrollador ser consciente de la seguridad del &lt;em>pipeline/código/infraestructura/datos&lt;/em>?&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Los desarrolladores quieren centrarse en escribir código y ofrecer valor de negocio&lt;/strong>, en lugar de preocuparse por la infraestructura y el despliegue.&lt;/p>
+&lt;p>Es casi 2023, &lt;em>en la nube&lt;/em>, con &lt;em>contenedores&lt;/em>, con &lt;em>APIs&lt;/em>, con &lt;em>vulnerabilidades&lt;/em>, &lt;em>contratistas&lt;/em>, &lt;em>equipos de desarrollo internos&lt;/em>, y la &lt;em>CNCF&lt;/em>.&lt;/p>
+&lt;h5 id="cncf">
+CNCF
+&lt;a href="#cncf" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h5>
+&lt;p>Nos trajo muchas herramientas y mucha confusión. Quiero decir, &lt;em>Kubernetes&lt;/em>, &lt;em>Prometheus&lt;/em>, &lt;em>linkerd&lt;/em>, y otros proyectos son &lt;strong>maravillosos&lt;/strong>. Desafortunadamente, cada proyecto alojado en el CNCF es una pieza de software que no hace nada por sí sola. Así que, &lt;strong>necesitas entender cómo usarlos, y necesitas saber cómo integrarlos.&lt;/strong>&lt;/p>
+&lt;p>Esto no es fácil, &lt;strong>¿Es algo de lo que debe ocuparse el desarrollador?&lt;/strong>.&lt;/p>
+&lt;p>La CNCF es la principal razón por la que las empresas invierten hoy en equipos de plataforma.&lt;/p>
+&lt;h4 id="consecuencias">
+Consecuencias
+&lt;a href="#consecuencias" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>La incorporación a la empresa/proyecto es un coñazo, tanto para el empleado como para el empresario:&lt;/p>
+&lt;ul>
+&lt;li>El empleado tiene que entender un montón de tecnologías diferentes y cómo se han implementado en la empresa/proyecto.&lt;/li>
+&lt;li>Para el empleador, intentar encontrar un buen ingeniero en el mercado actual es una quimera. Tendrías que pagarles mucho ya que exiges del ingeniero muchos conocimientos. Sin olvidar que estamos en plena crisis económica.&lt;/li>
+&lt;/ul>
+&lt;p>No olvides el offboarding. &lt;strong>Los ingenieros quieren ser ingenieros, ¿verdad?&lt;/strong> Así que si encuentran mejores oportunidades dentro de la misma empresa o fuera de ella, un ingeniero perseguirá esas oportunidades, por lo que acabarás con proyectos/productos inacabados.&lt;/p>
+&lt;p>Entonces, quita los permisos para ese ingeniero en particular, e &lt;strong>intenta incorporar a un nuevo empleado&lt;/strong> en el proyecto/producto estos días&amp;hellip;&lt;/p>
+&lt;h5 id="microplataformas">
+microplataformas
+&lt;a href="#microplataformas" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h5>
+&lt;p>Encontrarás &lt;strong>microplataformas&lt;/strong> en diferentes equipos. &lt;em>¿Qué es esto?&lt;/em>&lt;/p>
+&lt;p>Son frameworks que los desarrolladores avanzados del equipo desarrollan para &lt;strong>estandarizar la forma de trabajar&lt;/strong> de su equipo, ya se están dando cuenta de que hay un problema de estandarización en la empresa en la que están trabajando.&lt;/p>
+&lt;p>&lt;em>¿Cuál es el problema inevitable?&lt;/em>&lt;/p>
+&lt;p>No tienen suficiente contexto para implementar correctamente la &lt;em>(micro)&lt;/em> plataforma, y probablemente podrían estar ligados a ciertos servicios que la empresa podría estar dando &lt;em>(sistema de tickets, alertas, ejecución, métricas&amp;hellip;)&lt;/em> y causará mucha fricción con los equipos de TI &lt;em>(infra, plataforma, nube, seguridad&amp;hellip;.)&lt;/em>.&lt;/p>
+&lt;p>Me parece claro; los equipos están desarrollando su forma de desarrollar. &lt;strong>Entonces significa que hay un requerimiento potencial en la empresa&lt;/strong>, y esto es estandarizar la forma de desarrollar &lt;em>(IDP)&lt;/em>.&lt;/p>
+&lt;h4 id="la-fea-verdad">
+La fea verdad
+&lt;a href="#la-fea-verdad" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>La razón principal por la que no existe una única plataforma de desarrollo interno no tiene que ver con la tecnología, hay un número ingente de tecnologías listas para integrarse y cubrir la mayoría de los casos de uso que puedes ver en tu empresa.&lt;/p>
+&lt;p>&lt;em>Entonces, ¿cuál es el problema?&lt;/em> &lt;strong>The middle management.&lt;/strong>&lt;/p>
+&lt;p>En una empresa tradicional, verá una estructura organizativa bien definida con múltiples niveles de gestión. Desde el nivel C hasta abajo puedes encontrar 3-4-5 niveles de gestión &lt;em>(incluso más; cuanto más grande sea la empresa, más niveles encontrarás)&lt;/em>.&lt;/p>
+&lt;p>Cada directivo se preocupa por X empleados y/o directivos.
+&lt;strong>Cuantos más informes recibe el directivo, más &amp;ldquo;importante&amp;rdquo; es para la empresa&lt;/strong>, al menos, esto es lo que podemos ver en este tipo de grandes empresas. Además, están acostumbrados a trabajar por proyectos, prestando servicios a distintas áreas. Así que es de esperar que interactúen dentro de las áreas a través de tickets/formularios&amp;hellip;&lt;/p>
+&lt;p>Entonces&amp;hellip; ¿Qué pasaría si alguien intenta implementar un IDP que involucra a muchos departamentos diferentes?&lt;/p>
+&lt;img src="https://blog.barrera.dev/images/IDPCapabilities.png" alt="Capacidades IDP" class="center" style="border-radius: 8px;" />
+&lt;p>Los mandos intermedios podrían tomarse esto &lt;em>(y lo hacen)&lt;/em> como un ataque a sus responsabilidades.&lt;/p>
+&lt;h4 id="conclusión">
+Conclusión
+&lt;a href="#conclusi%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>No tengo una bala de plata, pero tengo algunas ideas que podrían ayudarte a empezar a pensar en este tema.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Eche un vistazo a su entorno&lt;/strong>; ¿Su jefe es consciente de la situación actual? Si no es así, intenta explicar la situación a tu jefe.&lt;/li>
+&lt;li>&lt;strong>Empieza por los desarrolladores&lt;/strong>. Los desarrolladores son los que van a utilizar la plataforma, por lo que deben ser ellos los que definan los requisitos y las capacidades de la plataforma. **Trátelos como a sus clientes.&lt;/li>
+&lt;li>&lt;strong>Empezar poco a poco&lt;/strong>. Empieza con un equipo pequeño e intenta implantar una microplataforma que puedan utilizar unos pocos equipos. Después, intenta ampliar la plataforma a otros equipos presentando las ventajas de utilizar esta plataforma a tu jefe.&lt;/li>
+&lt;li>&lt;strong>Empieza por lo básico&lt;/strong>. Empieza por lo básico e intenta implantar una plataforma que puedan utilizar todos los equipos de la empresa.&lt;/li>
+&lt;/ul>
+&lt;p>Deberías presentar junto con tu jefe las ventajas de utilizar la plataforma a los demás jefes.
+Deberías ser capaz de mostrarles cómo la plataforma puede ayudarles a mejorar sus procesos y cómo puede ayudarles a mejorar su forma de trabajar.&lt;/p>
+&lt;p>&lt;strong>Implementada con éxito, ahorrará mucho dinero a la empresa&lt;/strong>.&lt;/p></description></item><item><title>VE - España</title><link>https://blog.barrera.dev/posts/ev-in-spain/</link><pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/ev-in-spain/</guid><description>
 &lt;img src="https://blog.barrera.dev/images/ev-in-spain.jpg"/>
 &lt;p>El uso de vehículos eléctricos &lt;em>(VE)&lt;/em> es cada vez más popular en todo el mundo, y España no es una excepción. A medida que más y más personas recurren a los VE para reducir su huella de carbono y ahorrar en costes de combustible, es importante comprender los retos y oportunidades que conlleva el uso de estos vehículos en entornos urbanos.&lt;/p>
 &lt;h4 id="retos">
