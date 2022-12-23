@@ -109,7 +109,7 @@ Los mandos intermedios podrían tomarse esto *(y lo hacen)* como un ataque a sus
 No tengo una bala de plata, pero tengo algunas ideas que podrían ayudarte a empezar a pensar en este tema.
 
 - **Eche un vistazo a su entorno**; ¿Su jefe es consciente de la situación actual? Si no es así, intenta explicar la situación a tu jefe.
-- **Empieza por los desarrolladores**. Los desarrolladores son los que van a utilizar la plataforma, por lo que deben ser ellos los que definan los requisitos y las capacidades de la plataforma. **Trátelos como a sus clientes.
+- **Empieza por los desarrolladores**. Los desarrolladores son los que van a utilizar la plataforma, por lo que deben ser ellos los que definan los requisitos y las capacidades de la plataforma. **Trátelos como a sus clientes.**
 - **Empezar poco a poco**. Empieza con un equipo pequeño e intenta implantar una microplataforma que puedan utilizar unos pocos equipos. Después, intenta ampliar la plataforma a otros equipos presentando las ventajas de utilizar esta plataforma a tu jefe.
 - **Empieza por lo básico**. Empieza por lo básico e intenta implantar una plataforma que puedan utilizar todos los equipos de la empresa.
 
