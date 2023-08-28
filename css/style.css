@@ -448,7 +448,7 @@ code, kbd {
   padding: 1px 6px;
   margin: 0 2px;
   border-radius: 5px;
-  font-size: .9rem;
+  font-size: .9em;
   font-weight: normal;
   font-feature-settings: normal; }
   code code, code kbd, kbd code, kbd kbd {
@@ -523,8 +523,7 @@ ol ol {
 .container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  text-align: center; }
+  justify-content: center; }
 
 .content {
   display: flex;
@@ -546,11 +545,18 @@ hr {
   display: none; }
 
 .framed {
-  padding: 20px;
+  padding: 50px;
+  margin: 0 -50px 40px;
   border-radius: 10px;
   border: 1px solid var(--border-color);
-  max-width: 800px; }
-
+  width: 100%;
+  max-width: 860px; }
+  @media (max-width: 900px) {
+    .framed {
+      width: auto;
+      max-width: 680px;
+      margin: 20px 20px 40px;
+      padding: 30px; } }
 blockquote.twitter-tweet {
   background: rgba(44, 124, 186, 0.1);
   border: none;
