@@ -9,7 +9,7 @@ tags:
 cover: images/meta-layoffs.jpg
 ---
 
-Today has been known as one of the [biggest layoffs in the history of technology]((https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/)); in this case, the lucky one, to call it somehow, has been [meta](https://about.meta.com/es/meta/), commonly known as **Facebook**.
+Today has been known as one of the [biggest layoffs in the history of technology](https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/); in this case, the lucky one, to call it somehow, has been [meta](https://about.meta.com/es/meta/), commonly known as **Facebook**.
 
 <!--more-->
 
