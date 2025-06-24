@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technology on Barrera.dev Blog</title><link>https://blog.barrera.dev/en/tags/technology/</link><description>Recent content in Technology on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;p>© 2024, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-x">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/en/tags/technology/index.xml" rel="self" type="application/rss+xml"/><item><title>Social Media Addictions</title><link>https://blog.barrera.dev/en/posts/addictions-to-social-networks/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/en/posts/addictions-to-social-networks/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technology on Barrera.dev Blog</title><link>https://blog.barrera.dev/en/tags/technology/</link><description>Recent content in Technology on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;p>© 2024, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-x">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/en/tags/technology/index.xml" rel="self" type="application/rss+xml"/><item><title>AI. Already Among Us</title><link>https://blog.barrera.dev/en/posts/ai-already-among-us/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/en/posts/ai-already-among-us/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/googledeepmind.jpg"/>
+&lt;p>Yes, AI is already part of our daily lives, either explicitly or implicitly.&lt;/p>
+&lt;p>Let&amp;rsquo;s start with the obvious: &lt;strong>ChatGPT&lt;/strong>. It has been a massive boom. It is surprising how much it has evolved over these last three years. But there comes a point where the least expected person pulls out their smartphone &lt;em>(likely with AI included, whatever that means&amp;hellip;)&lt;/em> and directly asks their trusted app, ChatGPT, instead of using Google.&lt;/p>
+&lt;p>Although I am not an AI expert, I understand well how technology works. One cannot or should not blindly trust what a screen responds to.&lt;/p>
+&lt;h4 id="internet">
+Internet
+&lt;a href="#internet" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>In general, we understand that on the internet you can find a statement about a topic and its opposite: Is the Earth flat? Where does the knowledge for these AI &lt;em>(LLMs, large language models)&lt;/em> come from? From the internet. That is why we cannot firmly trust an AI &lt;em>(at least not today)&lt;/em>.&lt;/p>
+&lt;p>So, why do people trust AI more than Google? And mind you&amp;hellip; I am not saying that Google provides reliable information: Google gives you what you are looking for and, of course, what it deems relevant within its framework &lt;em>(advertisers paying to position their responses at the top of the results)&lt;/em>.&lt;/p>
+&lt;h4 id="personification">
+Personification
+&lt;a href="#personification" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>Without being a psychologist, an immediate response with a human-like tone and personalization makes these answers seem fully truthful. But what many people do not understand is that these language models are very good at &amp;ldquo;inventing,&amp;rdquo; not so much in reasoning &lt;em>(for now)&lt;/em>. Additionally, there is the possibility of having conversational AI where you no longer need to write anything, just keep a button pressed and speak. The Speech-to-Text or Text-to-Speech models have been around for years, thanks to Google and Amazon&amp;rsquo;s famous assistants.&lt;/p>
+&lt;h4 id="ia-implicitas">
+IA implicitas
+&lt;a href="#ia-implicitas" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>Many people realize that AI has been part of our lives for some time: recommendation systems &lt;em>(the famous algorithm)&lt;/em>, virtual conversational agents on websites to answer certain questions about products or services, autonomous social media profiles&amp;hellip;&lt;/p>
+&lt;p>And all this leads me to think about two new areas I might discuss in another post:&lt;/p>
+&lt;ul>
+&lt;li>The Theory of the Death of the Internet&lt;/li>
+&lt;li>Social Media 2.0&lt;/li>
+&lt;/ul>
+&lt;p>Lack of awareness is often an error, at least from an engineer&amp;rsquo;s perspective. It is usually said that ignorance is bliss, and if I ever felt tempted to disconnect from the world and flow with it, perhaps I am not capable due to my nature: as an engineer, my mind always wants to solve problems or answer doubts.&lt;/p>
+&lt;h4 id="tools">
+Tools
+&lt;a href="#tools" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>I won&amp;rsquo;t say anything you aren&amp;rsquo;t already imagining: AI remains a tool. Tools that are used correctly can be incredibly powerful. For example:&lt;/p>
+&lt;ul>
+&lt;li>Text review, not just orthographically but also syntax checking and even suggesting alternative approaches. Who reviewed this text?&lt;/li>
+&lt;li>Instant translation, linked to the previous point. If you work in a language different from your native one, it might be easier to write your ideas in your native language and then ask AI to maintain the tone and style of language for adapting to another language.&lt;/li>
+&lt;li>Contract analysis. We live in an era where we sign contracts without reading them. Yes, it sounds strange, but it is the truth. For example&amp;hellip; I opened an online account with a well-known bank, this second account being shared, and the other person wanted the contract printed. I decided to print it out, and there were over 200 pages. Who has time to read through those 200 pages of banking jargon in detail? No one. But&amp;hellip; AI is here to help: you can attach the PDF to an AI, which will read it in milliseconds/seconds, and you can ask if the account has any hidden fees.&lt;/li>
+&lt;/ul>
+&lt;h4 id="conclusions">
+Conclusions
+&lt;a href="#conclusions" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>All this said, I can see that AI is already among us. This means we need to get our act together and learn how to use it as a tool. Otherwise, those who learn faster and are more productive with it will eventually take away our jobs. Embrace AI, dedicate time to understand how it works and its advantages and limitations. AI isn&amp;rsquo;t just &amp;ldquo;rounding an object in a photo to delete it.&amp;rdquo; It&amp;rsquo;s much more and adds value to many businesses and areas.&lt;/p>
+&lt;p>And remember, if AI is free, you are the product :).&lt;/p></description></item><item><title>Social Media Addictions</title><link>https://blog.barrera.dev/en/posts/addictions-to-social-networks/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/en/posts/addictions-to-social-networks/</guid><description>
 &lt;img src="https://blog.barrera.dev/images/addictions-to-social-networks.jpg"/>
 &lt;p>In today&amp;rsquo;s society, the use of mobile devices has become so common that even young children are increasingly exposed to them, posing a significant challenge for families.&lt;/p>
 &lt;p>As someone who works in the technology industry, it is frustrating to observe how our close-knit families are becoming increasingly absorbed by their mobile devices, without fully understanding the issues this can bring not only to themselves but also to those around them.&lt;/p>
