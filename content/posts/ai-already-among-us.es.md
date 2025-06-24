@@ -1,6 +1,6 @@
 ---
 title: IA. Ya entre nosotros
-date: 2023-08-28
+date: 2025-06-24
 tags:
     - society
     - technology
