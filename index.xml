@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Barrera.dev Blog</title><link>https://blog.barrera.dev/</link><description>Recent content on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>&lt;p>© 2024, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-x">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Las consecuencias de no enseñar a los niños la paciencia</title><link>https://blog.barrera.dev/posts/consequences-not-teaching-about-delayed-gratification/</link><pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/consequences-not-teaching-about-delayed-gratification/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Barrera.dev Blog</title><link>https://blog.barrera.dev/</link><description>Recent content on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>&lt;p>© 2024, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-x">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>IA. Ya entre nosotros</title><link>https://blog.barrera.dev/posts/ai-already-among-us/</link><pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/ai-already-among-us/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/googledeepmind.jpg"/>
+&lt;p>Sí, la IA ya es parte de nuestro día a día, sea explícita o implícitamente.&lt;/p>
+&lt;p>Empecemos por lo obvio: &lt;strong>ChatGPT&lt;/strong>. Ha sido un mega boom. Es sorprendente cómo todo ha ido evolucionando en estos últimos tres años. Pero ha llegado un punto en el que la persona menos esperada saca su smartphone &lt;em>(probablemente con IA incluida, sea lo que esto signifique&amp;hellip;)&lt;/em> y pregunta directamente a su app de confianza, ChatGPT, en lugar de usar Google.&lt;/p>
+&lt;p>Aunque no soy un experto en IA, entiendo bien cómo funciona el mundo tecnológico. No se puede ni debe fiarse ciegamente de lo que una pantalla responde.&lt;/p>
+&lt;h4 id="internet">
+Internet
+&lt;a href="#internet" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>En general, entendemos que en internet puedes encontrar una sentencia sobre un tema y su contraria: ¿La tierra es plana? ¿De dónde sacan el conocimiento las IAs &lt;em>(LLMs, modelos grandes de lenguaje)&lt;/em>? De internet. Es por ello que no podemos confiar firmemente en una IA &lt;em>(al menos, a día de hoy)&lt;/em>.&lt;/p>
+&lt;p>Dicho esto, ¿por qué la gente confía más en una IA que en Google? Y ojo&amp;hellip; no digo que Google reporte información confiable: Google te ofrece lo que buscas y, por supuesto, dentro de ellos, lo que a Google le interesa &lt;em>(anunciantes pagando para posicionar sus respuestas en los primeros resultados)&lt;/em>.&lt;/p>
+&lt;h4 id="personificación">
+Personificación
+&lt;a href="#personificaci%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>Sin ser psicólogo, la respuesta inmediata con un tono humano y personalizable te hace aceptar estas respuestas como plenamente verídicas. Pero lo que muchas personas no entienden es que estos modelos de lenguaje son muy buenos &amp;ldquo;inventando&amp;rdquo;, no tanto razonando &lt;em>(por ahora)&lt;/em>. Además, a todo esto se suma la posibilidad de tener IAs conversacionales donde ya no necesitas ni escribir, solo mantener pulsado un botón y hablar. Los modelos &lt;em>Speech-to-Text&lt;/em> o &lt;em>Text-to-Speech&lt;/em> han estado con nosotros por años, gracias a los famosos asistentes de Google y Amazon.&lt;/p>
+&lt;h4 id="ia-implicitas">
+IA implicitas
+&lt;a href="#ia-implicitas" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>Muchas personas se han dado cuenta que la IA lleva tiempo entre nosotros: sistemas de recomendación &lt;em>(el famoso algoritmo)&lt;/em>, agentes conversacionales virtuales en las webs para preguntar ciertas dudas sobre productos o servicios, perfiles en redes sociales totalmente autónomos&amp;hellip;&lt;/p>
+&lt;p>Y todo esto me lleva a pensar en dos nuevas ramas que probablemente hablaré en otro post:&lt;/p>
+&lt;ul>
+&lt;li>La teoría del Internet muerto&lt;/li>
+&lt;li>Redes sociales 2.0&lt;/li>
+&lt;/ul>
+&lt;p>No ser consciente siempre es un error, al menos desde el punto de vista de un ingeniero. Se suele decir que en la ignorancia se vive mejor, y si alguna vez he estado tentado a desconectar del mundo y fluir, quizás no sea capaz por mi propia naturaleza: ingeniero y, por ello, mi mente siempre quiere resolver problemas o dudas.&lt;/p>
+&lt;h4 id="herramientas">
+Herramientas
+&lt;a href="#herramientas" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>No voy a decir nada que no estés imaginando ya: las IAs no dejan de ser herramientas. Herramientas que con un uso correcto son increíblemente potentes. Por ejemplo:&lt;/p>
+&lt;ul>
+&lt;li>Revisión de textos, no solo ortográficamente, sino también comprobando la sintaxis y hasta sugerir otros acercamientos. ¿Adivina quién ha revisado este texto?&lt;/li>
+&lt;li>Traducción instantánea, ligada al punto anterior. Si trabajas en un idioma diferente al materno, quizás sea más sencillo escribir tus ideas en tu lengua materna y luego pedir a la IA que mantenga el tono y el uso del lenguaje para adaptarlo a otro idioma.&lt;/li>
+&lt;li>Análisis de contratos. Vivimos en una época en la que firmamos contratos sin leerlos. Sí, suena raro, pero es la verdad. Por ejemplo&amp;hellip; abrí una cuenta online en un banco muy conocido con una cuenta existente; esta segunda cuenta era compartida y la otra persona quería tener el contrato impreso. Decidí imprimirlo y fueron algo más de 200 páginas. ¿Quién tiene tiempo para leer detalladamente esas 200 hojas de terminología bancaria? Nadie. Pero&amp;hellip; la IA está aquí para ayudar: puedes adjuntar el PDF a la IA, que lo leerá en milisegundos/segundos y podrás preguntarle si la cuenta tiene algún tipo de comisión oculta.&lt;/li>
+&lt;/ul>
+&lt;h4 id="conclusiones">
+Conclusiones
+&lt;a href="#conclusiones" class="h-anchor" aria-hidden="true">#&lt;/a>
+&lt;/h4>
+&lt;p>Dicho todo esto, puedo ver cómo la IA ya está entre nosotros. Esto significa que tenemos que ponernos las pilas y aprender a usarla como herramienta. De cualquier otra forma, aquel que aprenda antes y sea más productivo con ella nos quitará eventualmente el trabajo. Abraza la IA, dedícale tiempo para entender cómo funciona y sus ventajas y limitaciones. La IA no es solo &amp;ldquo;redondear un objeto de una foto para eliminarlo&amp;rdquo;. Es mucho más y da valor a un montón de negocios y áreas diferentes.&lt;/p>
+&lt;p>Y recuerda, si la IA es gratis, el producto eres tú :)&lt;/p></description></item><item><title>Las consecuencias de no enseñar a los niños la paciencia</title><link>https://blog.barrera.dev/posts/consequences-not-teaching-about-delayed-gratification/</link><pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/consequences-not-teaching-about-delayed-gratification/</guid><description>
 &lt;img src="https://blog.barrera.dev/images/patient.jpg"/>
 &lt;p>Mientras vivimos en un mundo cada vez más complejo y rápido, es fácil caer en la trampa de la cultura de la inmediatez que nos rodea. Con solo unos pocos clicks en nuestros moviles, podemos acceder a cualquier cosa, desde entretenimiento hasta educación. Pero ¿Qué será de nuestros hijos? ¿Se les enseña la importancia de la paciencia?&lt;/p>
 &lt;p>&lt;strong>No&lt;/strong>, muchos padres no les están enseñando a sus hijos &lt;strong>el valor del ahorro y de esperar por las cosas que desean&lt;/strong>. Esta falta de educación financiera puede tener consecuencias a largo plazo, haciendo de la sociedad una sociedad que valora el placer inmediato sobre la planificación a largo plazo.&lt;/p>
@@ -54,49 +96,7 @@ Psicología
 Conclusiones
 &lt;a href="#conclusiones" class="h-anchor" aria-hidden="true">#&lt;/a>
 &lt;/h4>
-&lt;p>En resumen, la adicción a las redes sociales y la dependencia de los dispositivos móviles están afectando a las familias de manera significativa. Como sociedad, debemos abordar estos problemas y, al mismo tiempo, la industria tecnológica debe asumir la responsabilidad de garantizar que sus productos no sean adictivos. El futuro de nuestras familias y el equilibrio en la relación con la tecnología dependen de ello.&lt;/p></description></item><item><title>IA. Ya entre nosotros</title><link>https://blog.barrera.dev/posts/ai-already-among-us/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/ai-already-among-us/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/googledeepmind.jpg"/>
-&lt;p>Sí, la IA ya es parte de nuestro día a día, sea explícita o implícitamente.&lt;/p>
-&lt;p>Empecemos por lo obvio: &lt;strong>ChatGPT&lt;/strong>. Ha sido un mega boom. Es sorprendente cómo todo ha ido evolucionando en estos últimos tres años. Pero ha llegado un punto en el que la persona menos esperada saca su smartphone &lt;em>(probablemente con IA incluida, sea lo que esto signifique&amp;hellip;)&lt;/em> y pregunta directamente a su app de confianza, ChatGPT, en lugar de usar Google.&lt;/p>
-&lt;p>Aunque no soy un experto en IA, entiendo bien cómo funciona el mundo tecnológico. No se puede ni debe fiarse ciegamente de lo que una pantalla responde.&lt;/p>
-&lt;h4 id="internet">
-Internet
-&lt;a href="#internet" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>En general, entendemos que en internet puedes encontrar una sentencia sobre un tema y su contraria: ¿La tierra es plana? ¿De dónde sacan el conocimiento las IAs &lt;em>(LLMs, modelos grandes de lenguaje)&lt;/em>? De internet. Es por ello que no podemos confiar firmemente en una IA &lt;em>(al menos, a día de hoy)&lt;/em>.&lt;/p>
-&lt;p>Dicho esto, ¿por qué la gente confía más en una IA que en Google? Y ojo&amp;hellip; no digo que Google reporte información confiable: Google te ofrece lo que buscas y, por supuesto, dentro de ellos, lo que a Google le interesa &lt;em>(anunciantes pagando para posicionar sus respuestas en los primeros resultados)&lt;/em>.&lt;/p>
-&lt;h4 id="personificación">
-Personificación
-&lt;a href="#personificaci%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Sin ser psicólogo, la respuesta inmediata con un tono humano y personalizable te hace aceptar estas respuestas como plenamente verídicas. Pero lo que muchas personas no entienden es que estos modelos de lenguaje son muy buenos &amp;ldquo;inventando&amp;rdquo;, no tanto razonando &lt;em>(por ahora)&lt;/em>. Además, a todo esto se suma la posibilidad de tener IAs conversacionales donde ya no necesitas ni escribir, solo mantener pulsado un botón y hablar. Los modelos &lt;em>Speech-to-Text&lt;/em> o &lt;em>Text-to-Speech&lt;/em> han estado con nosotros por años, gracias a los famosos asistentes de Google y Amazon.&lt;/p>
-&lt;h4 id="ia-implicitas">
-IA implicitas
-&lt;a href="#ia-implicitas" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Muchas personas se han dado cuenta que la IA lleva tiempo entre nosotros: sistemas de recomendación &lt;em>(el famoso algoritmo)&lt;/em>, agentes conversacionales virtuales en las webs para preguntar ciertas dudas sobre productos o servicios, perfiles en redes sociales totalmente autónomos&amp;hellip;&lt;/p>
-&lt;p>Y todo esto me lleva a pensar en dos nuevas ramas que probablemente hablaré en otro post:&lt;/p>
-&lt;ul>
-&lt;li>La teoría del Internet muerto&lt;/li>
-&lt;li>Redes sociales 2.0&lt;/li>
-&lt;/ul>
-&lt;p>No ser consciente siempre es un error, al menos desde el punto de vista de un ingeniero. Se suele decir que en la ignorancia se vive mejor, y si alguna vez he estado tentado a desconectar del mundo y fluir, quizás no sea capaz por mi propia naturaleza: ingeniero y, por ello, mi mente siempre quiere resolver problemas o dudas.&lt;/p>
-&lt;h4 id="herramientas">
-Herramientas
-&lt;a href="#herramientas" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>No voy a decir nada que no estés imaginando ya: las IAs no dejan de ser herramientas. Herramientas que con un uso correcto son increíblemente potentes. Por ejemplo:&lt;/p>
-&lt;ul>
-&lt;li>Revisión de textos, no solo ortográficamente, sino también comprobando la sintaxis y hasta sugerir otros acercamientos. ¿Adivina quién ha revisado este texto?&lt;/li>
-&lt;li>Traducción instantánea, ligada al punto anterior. Si trabajas en un idioma diferente al materno, quizás sea más sencillo escribir tus ideas en tu lengua materna y luego pedir a la IA que mantenga el tono y el uso del lenguaje para adaptarlo a otro idioma.&lt;/li>
-&lt;li>Análisis de contratos. Vivimos en una época en la que firmamos contratos sin leerlos. Sí, suena raro, pero es la verdad. Por ejemplo&amp;hellip; abrí una cuenta online en un banco muy conocido con una cuenta existente; esta segunda cuenta era compartida y la otra persona quería tener el contrato impreso. Decidí imprimirlo y fueron algo más de 200 páginas. ¿Quién tiene tiempo para leer detalladamente esas 200 hojas de terminología bancaria? Nadie. Pero&amp;hellip; la IA está aquí para ayudar: puedes adjuntar el PDF a la IA, que lo leerá en milisegundos/segundos y podrás preguntarle si la cuenta tiene algún tipo de comisión oculta.&lt;/li>
-&lt;/ul>
-&lt;h4 id="conclusiones">
-Conclusiones
-&lt;a href="#conclusiones" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Dicho todo esto, puedo ver cómo la IA ya está entre nosotros. Esto significa que tenemos que ponernos las pilas y aprender a usarla como herramienta. De cualquier otra forma, aquel que aprenda antes y sea más productivo con ella nos quitará eventualmente el trabajo. Abraza la IA, dedícale tiempo para entender cómo funciona y sus ventajas y limitaciones. La IA no es solo &amp;ldquo;redondear un objeto de una foto para eliminarlo&amp;rdquo;. Es mucho más y da valor a un montón de negocios y áreas diferentes.&lt;/p>
-&lt;p>Y recuerda, si la IA es gratis, el producto eres tú :)&lt;/p></description></item><item><title>IDP en la empresa</title><link>https://blog.barrera.dev/posts/idp-in-the-enterprise/</link><pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/idp-in-the-enterprise/</guid><description>
+&lt;p>En resumen, la adicción a las redes sociales y la dependencia de los dispositivos móviles están afectando a las familias de manera significativa. Como sociedad, debemos abordar estos problemas y, al mismo tiempo, la industria tecnológica debe asumir la responsabilidad de garantizar que sus productos no sean adictivos. El futuro de nuestras familias y el equilibrio en la relación con la tecnología dependen de ello.&lt;/p></description></item><item><title>IDP en la empresa</title><link>https://blog.barrera.dev/posts/idp-in-the-enterprise/</link><pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/idp-in-the-enterprise/</guid><description>
 &lt;img src="https://blog.barrera.dev/images/idp-in-the-enterprise.jpg"/>
 &lt;p>Hace unas semanas, dediqué algún tiempo a entender cómo se podía implantar un IDP en la empresa. Encontré algunos artículos y vídeos útiles, pero aún me quedaban algunas preguntas sin resolver. En particular, quería saber &lt;strong>cómo debe implantarse un IDP en un entorno político y lleno de silos&lt;/strong>. También quería saber cómo hacer frente a la inevitable resistencia al cambio de los distintos departamentos.&lt;/p>
 &lt;blockquote>
