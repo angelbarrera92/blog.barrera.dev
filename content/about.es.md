@@ -18,4 +18,4 @@ Nadie, quiero decir, nadie que sobresalga, ni por una cosa ni por otra. Te recom
 
 Si quieres contactar conmigo, puedes hacerlo a través del siguiente formulario de contacto.
 
-{{< contact form="77b72e9e-22aa-4661-9ada-b1e3dc255c6a" >}}
+{{< contact form="angelbarrerasanchez+blog@gmail.com" >}}

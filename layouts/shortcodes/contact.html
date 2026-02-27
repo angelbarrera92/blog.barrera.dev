@@ -1,24 +1,65 @@
 {{ if .Get "form" }}
-<div class="container">
-    <form action="https://getform.io/f/{{ .Get "form" }}" method="POST">
-        <div class="container">
-            <input type="text" id="name" name="name" placeholder="Name" required>
+{{ $lang := .Page.Lang }}
+{{ $subject := .Get "subject" | default (cond (eq $lang "es") "Nuevo contacto desde el blog" "New contact from blog") }}
+
+{{/* Language-specific labels */}}
+{{ $labels := dict
+  "es" (dict
+    "name" "Nombre"
+    "name_placeholder" "Tu nombre"
+    "email" "Correo electrónico"
+    "email_placeholder" "tu@correo.com"
+    "subject" "Asunto"
+    "subject_placeholder" "¿De qué se trata?"
+    "message" "Mensaje"
+    "message_placeholder" "Cuéntame más..."
+    "submit" "Enviar mensaje"
+  )
+  "en" (dict
+    "name" "Name"
+    "name_placeholder" "Your name"
+    "email" "Email"
+    "email_placeholder" "you@email.com"
+    "subject" "Subject"
+    "subject_placeholder" "What's this about?"
+    "message" "Message"
+    "message_placeholder" "Tell me more..."
+    "submit" "Send message"
+  )
+}}
+
+{{ $strings := index $labels (cond (eq $lang "es") "es" "en") }}
+
+<div class="contact-form-wrapper">
+    <form class="contact-form" action="https://formsubmit.co/{{ .Get "form" }}" method="POST">
+        <input type="hidden" name="_subject" value="{{ $subject }}">
+        <input type="hidden" name="_captcha" value="false">
+        {{ with .Get "next" }}
+        <input type="hidden" name="_next" value="{{ . }}">
+        {{ end }}
+        <div class="contact-grid">
+            <div class="contact-field">
+                <label for="name">{{ index $strings "name" }}</label>
+                <input type="text" id="name" name="name" placeholder="{{ index $strings "name_placeholder" }}" autocomplete="name" required>
+            </div>
+            <div class="contact-field">
+                <label for="email">{{ index $strings "email" }}</label>
+                <input type="email" id="email" name="email" placeholder="{{ index $strings "email_placeholder" }}" autocomplete="email" required>
+            </div>
+            <div class="contact-field contact-field-full">
+                <label for="subject">{{ index $strings "subject" }}</label>
+                <input type="text" id="subject" name="subject" placeholder="{{ index $strings "subject_placeholder" }}" required>
+            </div>
+            <div class="contact-field contact-field-full">
+                <label for="message">{{ index $strings "message" }}</label>
+                <textarea id="message" name="message" rows="5" placeholder="{{ index $strings "message_placeholder" }}" required></textarea>
+            </div>
         </div>
-        <div class="container">
-            <input type="email" id="email" name="email" placeholder="Email" required>
-        </div>
-        <div class="container">
-            <input type="text" id="subject" name="subject" placeholder="Subject" required>
-        </div>
-        <div class="container">
-            <textarea id="message" name="message" rows="3" placeholder="Message" required></textarea>
-        </div>
-        <br />
-        <div class="container">
-            <button type="submit">Send</button>
+        <div class="contact-actions">
+            <button class="contact-submit" type="submit">{{ index $strings "submit" }}</button>
         </div>
     </form>
 </div>
 {{ else }}
-{{ errorf "If you want to use the \"contact\" shortcode, you need to pass a mandatory \"form\" param. The issue occured in %q (%q)" .Page.File .Page.Permalink }}
+{{ errorf "If you want to use the \"contact\" shortcode, you need to pass a mandatory \"form\" param (FormSubmit recipient email). The issue occured in %q (%q)" .Page.File .Page.Permalink }}
 {{ end }}

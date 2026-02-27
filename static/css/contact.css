@@ -1,0 +1,121 @@
+.contact-form-wrapper {
+  margin: 2rem 0;
+}
+
+.contact-form {
+  background: var(--background-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem 1.25rem;
+}
+
+.contact-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-field-full {
+  grid-column: 1 / -1;
+}
+
+.contact-field label {
+  font-size: 0.9rem;
+  color: var(--color-secondary);
+  margin-bottom: 0.4rem;
+}
+
+.contact-field input,
+.contact-field textarea {
+  width: 100%;
+  background: var(--background);
+  color: var(--color);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 0.75rem 0.9rem;
+  font-size: 1rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.contact-field textarea {
+  resize: vertical;
+  min-height: 140px;
+}
+
+.contact-field input:focus,
+.contact-field textarea:focus {
+  outline: none;
+  border-color: var(--color);
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.08);
+}
+
+body.dark-theme .contact-field input:focus,
+body.dark-theme .contact-field textarea:focus {
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.12);
+}
+
+.contact-actions {
+  margin-top: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.contact-submit {
+  background: var(--color);
+  color: var(--background);
+  border: none;
+  border-radius: 8px;
+  padding: 0.75rem 1.4rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+}
+
+.contact-submit:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+}
+
+.contact-submit:active {
+  transform: translateY(0);
+  opacity: 0.9;
+}
+
+.contact-note {
+  font-size: 0.85rem;
+  color: var(--color-secondary);
+}
+
+.contact-note a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+@media (max-width: 684px) {
+  .contact-form {
+    padding: 1.25rem;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Footer disclaimer */
+.footer-disclaimer {
+  font-size: 0.85rem;
+  color: var(--color-secondary);
+  display: block;
+  width: 100%;
+  margin-top: 0.5rem;
+  text-align: center;
+}

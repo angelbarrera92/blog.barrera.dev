@@ -16,4 +16,4 @@ No one, I mean, no one who stands out, neither for one thing or another. I recom
 
 If you want to contact me, feel free to fill out and send the following form:
 
-{{< contact form="77b72e9e-22aa-4661-9ada-b1e3dc255c6a" >}}
+{{< contact form="angelbarrerasanchez+blog@gmail.com" >}}

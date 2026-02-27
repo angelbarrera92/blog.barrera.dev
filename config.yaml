@@ -2,11 +2,12 @@
 title: Barrera.dev
 baseURL: https://blog.barrera.dev
 languageCode: es-ES
-copyright: <p>© 2024, Ángel Barrera</p><p><a href="https://github.com/angelbarrera92"><i class="fa-brands fa-github"></i></a></p>|<p><a href="https://twitter/angelbarrera92"><i class="fa-brands fa-x"></i></a></p>|<p><a href="https://www.linkedin.com/in/angelbarrerasanchez/"><i class="fa-brands fa-linkedin"></i></a></p>
+copyright: <p>© 2026, Ángel Barrera</p><p><a href="https://github.com/angelbarrera92"><i class="fa-brands fa-github"></i></a></p>|<p><a href="https://x.com/angelbarrera92"><i class="fa-brands fa-x"></i></a></p>|<p><a href="https://www.linkedin.com/in/angelbarrerasanchez/"><i class="fa-brands fa-linkedin"></i></a></p>
 
 theme: hello-friend
 defaultContentLanguage: es
-paginate: 9999 # Let's call it infinite
+pagination:
+  pagerSize: 9999 # Let's call it infinite
 enableEmoji: true
 
 params:
