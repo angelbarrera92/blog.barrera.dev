@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ai on Barrera.dev Blog</title><link>https://blog.barrera.dev/en/tags/ai/</link><description>Recent content in Ai on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;p&gt;© 2026, Ángel Barrera&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-github"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://x.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/"&gt;&lt;i class="fa-brands fa-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</copyright><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/en/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>AI. Already Among Us</title><link>https://blog.barrera.dev/en/posts/ai-already-among-us/</link><pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/en/posts/ai-already-among-us/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ai on Barrera.dev Blog</title><link>https://blog.barrera.dev/en/tags/ai/</link><description>Recent content in Ai on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;p&gt;© 2026, Ángel Barrera&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-github"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://x.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/"&gt;&lt;i class="fa-brands fa-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</copyright><lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/en/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>The age of hyper-personalization</title><link>https://blog.barrera.dev/en/posts/hyper-personalization/</link><pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/en/posts/hyper-personalization/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/hyper-personalization.png"/&gt;
+&lt;p&gt;We’ve talked about this before: AI isn’t a future promise, it’s our current reality. In previous posts we explored how it’s landing in our day-to-day (see &lt;a href="https://blog.barrera.dev/en/posts/en/ai-already-among-us/"&gt;AI. Already Among Us&lt;/a&gt;), but today I want to take it one step further. We’re entering the age of hyper-personalized software, and this is going to blow up the rules of the game as we know them.&lt;/p&gt;
+&lt;h2 id="generic-software"&gt;
+Generic software
+&lt;a href="#generic-software" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;For decades, we’ve adapted to software. We’ve built entire businesses around massive, generic tools: Jira, SAP, Salesforce, Stripe, or Trello. They’re engineering wonders, yes, but they have an intrinsic problem: one size fits all.&lt;/p&gt;
+&lt;p&gt;For them to work in your business, you have to adapt to them. And that doesn’t just create operational friction, it also carries a huge cost. These platforms maintain massive infrastructures to be useful to millions of users, and that cost —direct and indirect— ends up landing on you.&lt;/p&gt;
+&lt;h2 id="bespoke-consulting"&gt;
+Bespoke consulting
+&lt;a href="#bespoke-consulting" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;And this is where AI moves the pieces. Until now, bespoke software was a slow and expensive luxury. But AI allows mid-sized companies and boutique consultancies to build specific solutions at a speed that was unthinkable before.&lt;/p&gt;
+&lt;p&gt;Why fight with the configuration of a generic CRM if you can have one designed exactly for your workflow in a fraction of the time? Software will no longer be a concrete block you have to adapt to, but a glove that’s woven &lt;strong&gt;in real time&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id="developer-role"&gt;
+Developer role
+&lt;a href="#developer-role" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This shift brings a mutation in roles that, personally, makes me a bit uneasy.&lt;/p&gt;
+&lt;p&gt;For years, we’ve valued developers for their technical specialization: the React expert, the COBOL “guru” who fixes impossible bugs, the database architect. But that “technical problem” is starting to disappear. If AI can find and fix a COBOL bug faster and cheaper than any expert consultant, what is the human’s value in the equation?&lt;/p&gt;
+&lt;p&gt;The value is no longer in the how (the code), but in the what and the why. The developer of the near future will have to stop looking only at syntax and start looking at product, service, and business impact.&lt;/p&gt;
+&lt;h2 id="new-bottleneck"&gt;
+New bottleneck
+&lt;a href="#new-bottleneck" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;In classic structures, there were layers of middle management dedicated to defining what to build, while the technical layers executed. It worked because cycles were long.&lt;/p&gt;
+&lt;p&gt;But if execution (development) becomes almost instantaneous thanks to AI, the bottleneck is no longer writing code, but definition. I foresee a drastic reduction of those middle layers. Management work will be optimized —or absorbed— by AI itself, forcing those who remain to be far more strategic and faster at validating ideas.&lt;/p&gt;
+&lt;h2 id="customer-dilemma"&gt;
+Customer dilemma
+&lt;a href="#customer-dilemma" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;If we move one step further and reach the end customer, we find a paradox. If it’s now easier, faster, and cheaper to create software, the market will be flooded with hyper-personalized options.&lt;/p&gt;
+&lt;p&gt;As customers, are we prepared to receive that many inputs? How will we decide between one product and another when technical differentiation is minimal and the supply is infinite? Business validation will be faster than ever, but capturing the customer’s attention will be the ultimate challenge.&lt;/p&gt;
+&lt;h2 id="conclusion"&gt;
+Conclusion
+&lt;a href="#conclusion" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;We’re moving from a world where software was a rigid tool to one where it’s something far more flexible and moldable. Code is losing its value as an “asset” and becoming a “commodity”.&lt;/p&gt;
+&lt;p&gt;The question I’m asking today is: if your professional value was based on solving technical problems that AI already solves in seconds, &lt;strong&gt;what’s your next move?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>AI. Already Among Us</title><link>https://blog.barrera.dev/en/posts/ai-already-among-us/</link><pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/en/posts/ai-already-among-us/</guid><description>
 &lt;img src="https://blog.barrera.dev/images/googledeepmind.jpg"/&gt;
 &lt;p&gt;Yes, AI is already part of our daily lives, either explicitly or implicitly.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s start with the obvious: &lt;strong&gt;ChatGPT&lt;/strong&gt;. It has been a massive boom. It is surprising how much it has evolved over these last three years. But there comes a point where the least expected person pulls out their smartphone &lt;em&gt;(likely with AI included, whatever that means&amp;hellip;)&lt;/em&gt; and directly asks their trusted app, ChatGPT, instead of using Google.&lt;/p&gt;

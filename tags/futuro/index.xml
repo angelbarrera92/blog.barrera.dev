@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Futuro on Barrera.dev Blog</title><link>https://blog.barrera.dev/tags/futuro/</link><description>Recent content in Futuro on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>&lt;p&gt;© 2026, Ángel Barrera&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-github"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://x.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/"&gt;&lt;i class="fa-brands fa-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</copyright><lastBuildDate>Fri, 02 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/tags/futuro/index.xml" rel="self" type="application/rss+xml"/><item><title>IOT - Dispositivos Inteligentes</title><link>https://blog.barrera.dev/posts/iot-intelligent-devices/</link><pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/iot-intelligent-devices/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Futuro on Barrera.dev Blog</title><link>https://blog.barrera.dev/tags/futuro/</link><description>Recent content in Futuro on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>&lt;p&gt;© 2026, Ángel Barrera&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-github"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://x.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/"&gt;&lt;i class="fa-brands fa-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</copyright><lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/tags/futuro/index.xml" rel="self" type="application/rss+xml"/><item><title>La era de la hiper-personalización</title><link>https://blog.barrera.dev/posts/hyper-personalization/</link><pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/hyper-personalization/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/hyper-personalization.png"/&gt;
+&lt;p&gt;Ya lo hemos hablado antes: la IA no es una promesa de futuro, es nuestra realidad actual. En posts anteriores exploramos cómo está aterrizando en nuestro día a día &lt;em&gt;(ver &lt;a href="https://blog.barrera.dev/posts/ai-already-among-us/"&gt;IA. Ya entre nosotros&lt;/a&gt;)&lt;/em&gt;, pero hoy quiero ir un paso más allá. Estamos entrando en la era de la hiper-personalización del software, y esto va a dinamitar las reglas del juego tal como las conocemos.&lt;/p&gt;
+&lt;h2 id="software-genérico"&gt;
+Software genérico
+&lt;a href="#software-gen%c3%a9rico" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Durante décadas, nos hemos adaptado al software. Hemos construido negocios enteros alrededor de herramientas gigantescas y genéricas: Jira, SAP, Salesforce, Stripe o Trello. Son prodigios de la ingeniería, sí, pero tienen un problema intrínseco: son café para todos.&lt;/p&gt;
+&lt;p&gt;Para que funcionen en tu negocio, tú tienes que adaptarte a ellos. Y eso no solo genera fricción operativa, sino un coste elevadísimo. Estas plataformas mantienen infraestructuras masivas para ser útiles a millones de usuarios, y ese coste —directo e indirecto— lo acabas pagando tú.&lt;/p&gt;
+&lt;h2 id="consultoría-a-medida"&gt;
+Consultoría a medida
+&lt;a href="#consultor%c3%ada-a-medida" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Y aquí es donde la IA mueve las piezas. Hasta ahora, el software &amp;ldquo;a medida&amp;rdquo; era un lujo lento y caro. Pero la IA permite a las empresas medianas y a las consultoras boutique crear soluciones específicas a una velocidad antes impensable.&lt;/p&gt;
+&lt;p&gt;¿Por qué pelearte con la configuración de un CRM genérico si puedes tener uno diseñado exactamente para tu flujo de trabajo en una fracción del tiempo? El software ya no será un bloque de cemento al que te amoldas, sino un guante que se teje &lt;strong&gt;en tiempo real&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id="rol-del-desarrollador"&gt;
+Rol del desarrollador
+&lt;a href="#rol-del-desarrollador" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Este cambio trae consigo una mutación en los roles que, a título personal, me genera cierta inquietud.&lt;/p&gt;
+&lt;p&gt;Durante años, hemos valorado al desarrollador por su especialización técnica: el experto en React, el &amp;ldquo;gurú&amp;rdquo; de COBOL que soluciona bugs imposibles, el arquitecto de bases de datos. Pero ese &amp;ldquo;problema técnico&amp;rdquo; está dejando de existir. Si la IA puede encontrar y arreglar un bug en COBOL más rápido y barato que cualquier consultor experto, ¿cuál es el valor del humano en la ecuación?&lt;/p&gt;
+&lt;p&gt;El valor ya no está en el cómo &lt;em&gt;(el código)&lt;/em&gt;, sino en el qué y el para qué. El desarrollador del futuro cercano tendrá que dejar de mirar solo la sintaxis para empezar a mirar el producto, el servicio y el impacto en el negocio.&lt;/p&gt;
+&lt;h2 id="nuevo-cuello-de-botella"&gt;
+Nuevo cuello de botella
+&lt;a href="#nuevo-cuello-de-botella" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;En las estructuras clásicas, existían capas de middle management dedicadas a definir qué desarrollar, mientras las capas técnicas ejecutaban. Funcionaba porque los ciclos eran largos.&lt;/p&gt;
+&lt;p&gt;Pero si la ejecución &lt;em&gt;(el desarrollo)&lt;/em&gt; se vuelve casi instantánea gracias a la IA, el cuello de botella ya no es picar código, sino la definición. Preveo una reducción drástica de estas capas intermedias. El trabajo de gestión se optimizará —o será absorbido— por la propia IA, obligando a los que se queden a ser mucho más estratégicos y rápidos en la validación de ideas.&lt;/p&gt;
+&lt;h2 id="dilema-del-cliente"&gt;
+Dilema del cliente
+&lt;a href="#dilema-del-cliente" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Si subimos un peldaño más y llegamos al cliente final, nos encontramos con una paradoja. Si ahora es más fácil, rápido y barato crear software, el mercado se va a inundar de opciones hiper-personalizadas.&lt;/p&gt;
+&lt;p&gt;Como clientes, ¿estamos preparados para recibir tal cantidad de inputs? ¿Cómo vamos a decidir entre un producto u otro cuando la diferenciación técnica sea mínima y la oferta sea infinita? La validación de negocio será más rápida que nunca, pero captar la atención del cliente será el reto definitivo.&lt;/p&gt;
+&lt;h2 id="conclusión"&gt;
+Conclusión
+&lt;a href="#conclusi%c3%b3n" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Estamos pasando de un mundo donde el software era una herramienta rígida a otro donde es algo mucho más flexible y moldeable. El código está perdiendo su valor como &amp;ldquo;activo&amp;rdquo; para convertirse en un &amp;ldquo;commodity&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;La pregunta que lanzo hoy es: si tu valor profesional se basaba en resolver problemas técnicos que la IA ya resuelve en segundos, &lt;strong&gt;¿cuál es tu siguiente movimiento?&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>IOT - Dispositivos Inteligentes</title><link>https://blog.barrera.dev/posts/iot-intelligent-devices/</link><pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/iot-intelligent-devices/</guid><description>
 &lt;img src="https://blog.barrera.dev/images/iot-intelligent-devices.jpg"/&gt;
 &lt;p&gt;Hace poco descubrí que mi robot aspirador dejó de funcionar durante más de tres días.&lt;/p&gt;
 &lt;p&gt;No podía configurar el programa de aspirado, es decir, no podía modificar el plan de limpieza para definir las habitaciones a limpiar ni modificar la potencia de succión que la aplicación te permite configurar &lt;strong&gt;y no puedes hacerlo de ninguna otra forma&lt;/strong&gt;.&lt;/p&gt;
