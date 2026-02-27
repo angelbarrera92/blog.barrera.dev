@@ -1,346 +1,353 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Barrera.dev Blog</title><link>https://blog.barrera.dev/</link><description>Recent content on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>&lt;p>© 2024, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-x">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>IA. Ya entre nosotros</title><link>https://blog.barrera.dev/posts/ai-already-among-us/</link><pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/ai-already-among-us/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/googledeepmind.jpg"/>
-&lt;p>Sí, la IA ya es parte de nuestro día a día, sea explícita o implícitamente.&lt;/p>
-&lt;p>Empecemos por lo obvio: &lt;strong>ChatGPT&lt;/strong>. Ha sido un mega boom. Es sorprendente cómo todo ha ido evolucionando en estos últimos tres años. Pero ha llegado un punto en el que la persona menos esperada saca su smartphone &lt;em>(probablemente con IA incluida, sea lo que esto signifique&amp;hellip;)&lt;/em> y pregunta directamente a su app de confianza, ChatGPT, en lugar de usar Google.&lt;/p>
-&lt;p>Aunque no soy un experto en IA, entiendo bien cómo funciona el mundo tecnológico. No se puede ni debe fiarse ciegamente de lo que una pantalla responde.&lt;/p>
-&lt;h4 id="internet">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Barrera.dev Blog</title><link>https://blog.barrera.dev/</link><description>Recent content on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>&lt;p&gt;© 2026, Ángel Barrera&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-github"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://x.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/"&gt;&lt;i class="fa-brands fa-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</copyright><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>IA. Ya entre nosotros</title><link>https://blog.barrera.dev/posts/ai-already-among-us/</link><pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/ai-already-among-us/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/googledeepmind.jpg"/&gt;
+&lt;p&gt;Sí, la IA ya es parte de nuestro día a día, sea explícita o implícitamente.&lt;/p&gt;
+&lt;p&gt;Empecemos por lo obvio: &lt;strong&gt;ChatGPT&lt;/strong&gt;. Ha sido un mega boom. Es sorprendente cómo todo ha ido evolucionando en estos últimos tres años. Pero ha llegado un punto en el que la persona menos esperada saca su smartphone &lt;em&gt;(probablemente con IA incluida, sea lo que esto signifique&amp;hellip;)&lt;/em&gt; y pregunta directamente a su app de confianza, ChatGPT, en lugar de usar Google.&lt;/p&gt;
+&lt;p&gt;Aunque no soy un experto en IA, entiendo bien cómo funciona el mundo tecnológico. No se puede ni debe fiarse ciegamente de lo que una pantalla responde.&lt;/p&gt;
+&lt;h4 id="internet"&gt;
 Internet
-&lt;a href="#internet" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>En general, entendemos que en internet puedes encontrar una sentencia sobre un tema y su contraria: ¿La tierra es plana? ¿De dónde sacan el conocimiento las IAs &lt;em>(LLMs, modelos grandes de lenguaje)&lt;/em>? De internet. Es por ello que no podemos confiar firmemente en una IA &lt;em>(al menos, a día de hoy)&lt;/em>.&lt;/p>
-&lt;p>Dicho esto, ¿por qué la gente confía más en una IA que en Google? Y ojo&amp;hellip; no digo que Google reporte información confiable: Google te ofrece lo que buscas y, por supuesto, dentro de ellos, lo que a Google le interesa &lt;em>(anunciantes pagando para posicionar sus respuestas en los primeros resultados)&lt;/em>.&lt;/p>
-&lt;h4 id="personificación">
+&lt;a href="#internet" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;En general, entendemos que en internet puedes encontrar una sentencia sobre un tema y su contraria: ¿La tierra es plana? ¿De dónde sacan el conocimiento las IAs &lt;em&gt;(LLMs, modelos grandes de lenguaje)&lt;/em&gt;? De internet. Es por ello que no podemos confiar firmemente en una IA &lt;em&gt;(al menos, a día de hoy)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Dicho esto, ¿por qué la gente confía más en una IA que en Google? Y ojo&amp;hellip; no digo que Google reporte información confiable: Google te ofrece lo que buscas y, por supuesto, dentro de ellos, lo que a Google le interesa &lt;em&gt;(anunciantes pagando para posicionar sus respuestas en los primeros resultados)&lt;/em&gt;.&lt;/p&gt;
+&lt;h4 id="personificación"&gt;
 Personificación
-&lt;a href="#personificaci%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Sin ser psicólogo, la respuesta inmediata con un tono humano y personalizable te hace aceptar estas respuestas como plenamente verídicas. Pero lo que muchas personas no entienden es que estos modelos de lenguaje son muy buenos &amp;ldquo;inventando&amp;rdquo;, no tanto razonando &lt;em>(por ahora)&lt;/em>. Además, a todo esto se suma la posibilidad de tener IAs conversacionales donde ya no necesitas ni escribir, solo mantener pulsado un botón y hablar. Los modelos &lt;em>Speech-to-Text&lt;/em> o &lt;em>Text-to-Speech&lt;/em> han estado con nosotros por años, gracias a los famosos asistentes de Google y Amazon.&lt;/p>
-&lt;h4 id="ia-implicitas">
+&lt;a href="#personificaci%c3%b3n" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Sin ser psicólogo, la respuesta inmediata con un tono humano y personalizable te hace aceptar estas respuestas como plenamente verídicas. Pero lo que muchas personas no entienden es que estos modelos de lenguaje son muy buenos &amp;ldquo;inventando&amp;rdquo;, no tanto razonando &lt;em&gt;(por ahora)&lt;/em&gt;. Además, a todo esto se suma la posibilidad de tener IAs conversacionales donde ya no necesitas ni escribir, solo mantener pulsado un botón y hablar. Los modelos &lt;em&gt;Speech-to-Text&lt;/em&gt; o &lt;em&gt;Text-to-Speech&lt;/em&gt; han estado con nosotros por años, gracias a los famosos asistentes de Google y Amazon.&lt;/p&gt;
+&lt;h4 id="ia-implicitas"&gt;
 IA implicitas
-&lt;a href="#ia-implicitas" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Muchas personas se han dado cuenta que la IA lleva tiempo entre nosotros: sistemas de recomendación &lt;em>(el famoso algoritmo)&lt;/em>, agentes conversacionales virtuales en las webs para preguntar ciertas dudas sobre productos o servicios, perfiles en redes sociales totalmente autónomos&amp;hellip;&lt;/p>
-&lt;p>Y todo esto me lleva a pensar en dos nuevas ramas que probablemente hablaré en otro post:&lt;/p>
-&lt;ul>
-&lt;li>La teoría del Internet muerto&lt;/li>
-&lt;li>Redes sociales 2.0&lt;/li>
-&lt;/ul>
-&lt;p>No ser consciente siempre es un error, al menos desde el punto de vista de un ingeniero. Se suele decir que en la ignorancia se vive mejor, y si alguna vez he estado tentado a desconectar del mundo y fluir, quizás no sea capaz por mi propia naturaleza: ingeniero y, por ello, mi mente siempre quiere resolver problemas o dudas.&lt;/p>
-&lt;h4 id="herramientas">
+&lt;a href="#ia-implicitas" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Muchas personas se han dado cuenta que la IA lleva tiempo entre nosotros: sistemas de recomendación &lt;em&gt;(el famoso algoritmo)&lt;/em&gt;, agentes conversacionales virtuales en las webs para preguntar ciertas dudas sobre productos o servicios, perfiles en redes sociales totalmente autónomos&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Y todo esto me lleva a pensar en dos nuevas ramas que probablemente hablaré en otro post:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La teoría del Internet muerto&lt;/li&gt;
+&lt;li&gt;Redes sociales 2.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No ser consciente siempre es un error, al menos desde el punto de vista de un ingeniero. Se suele decir que en la ignorancia se vive mejor, y si alguna vez he estado tentado a desconectar del mundo y fluir, quizás no sea capaz por mi propia naturaleza: ingeniero y, por ello, mi mente siempre quiere resolver problemas o dudas.&lt;/p&gt;
+&lt;h4 id="herramientas"&gt;
 Herramientas
-&lt;a href="#herramientas" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>No voy a decir nada que no estés imaginando ya: las IAs no dejan de ser herramientas. Herramientas que con un uso correcto son increíblemente potentes. Por ejemplo:&lt;/p>
-&lt;ul>
-&lt;li>Revisión de textos, no solo ortográficamente, sino también comprobando la sintaxis y hasta sugerir otros acercamientos. ¿Adivina quién ha revisado este texto?&lt;/li>
-&lt;li>Traducción instantánea, ligada al punto anterior. Si trabajas en un idioma diferente al materno, quizás sea más sencillo escribir tus ideas en tu lengua materna y luego pedir a la IA que mantenga el tono y el uso del lenguaje para adaptarlo a otro idioma.&lt;/li>
-&lt;li>Análisis de contratos. Vivimos en una época en la que firmamos contratos sin leerlos. Sí, suena raro, pero es la verdad. Por ejemplo&amp;hellip; abrí una cuenta online en un banco muy conocido con una cuenta existente; esta segunda cuenta era compartida y la otra persona quería tener el contrato impreso. Decidí imprimirlo y fueron algo más de 200 páginas. ¿Quién tiene tiempo para leer detalladamente esas 200 hojas de terminología bancaria? Nadie. Pero&amp;hellip; la IA está aquí para ayudar: puedes adjuntar el PDF a la IA, que lo leerá en milisegundos/segundos y podrás preguntarle si la cuenta tiene algún tipo de comisión oculta.&lt;/li>
-&lt;/ul>
-&lt;h4 id="conclusiones">
+&lt;a href="#herramientas" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;No voy a decir nada que no estés imaginando ya: las IAs no dejan de ser herramientas. Herramientas que con un uso correcto son increíblemente potentes. Por ejemplo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Revisión de textos, no solo ortográficamente, sino también comprobando la sintaxis y hasta sugerir otros acercamientos. ¿Adivina quién ha revisado este texto?&lt;/li&gt;
+&lt;li&gt;Traducción instantánea, ligada al punto anterior. Si trabajas en un idioma diferente al materno, quizás sea más sencillo escribir tus ideas en tu lengua materna y luego pedir a la IA que mantenga el tono y el uso del lenguaje para adaptarlo a otro idioma.&lt;/li&gt;
+&lt;li&gt;Análisis de contratos. Vivimos en una época en la que firmamos contratos sin leerlos. Sí, suena raro, pero es la verdad. Por ejemplo&amp;hellip; abrí una cuenta online en un banco muy conocido con una cuenta existente; esta segunda cuenta era compartida y la otra persona quería tener el contrato impreso. Decidí imprimirlo y fueron algo más de 200 páginas. ¿Quién tiene tiempo para leer detalladamente esas 200 hojas de terminología bancaria? Nadie. Pero&amp;hellip; la IA está aquí para ayudar: puedes adjuntar el PDF a la IA, que lo leerá en milisegundos/segundos y podrás preguntarle si la cuenta tiene algún tipo de comisión oculta.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="conclusiones"&gt;
 Conclusiones
-&lt;a href="#conclusiones" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Dicho todo esto, puedo ver cómo la IA ya está entre nosotros. Esto significa que tenemos que ponernos las pilas y aprender a usarla como herramienta. De cualquier otra forma, aquel que aprenda antes y sea más productivo con ella nos quitará eventualmente el trabajo. Abraza la IA, dedícale tiempo para entender cómo funciona y sus ventajas y limitaciones. La IA no es solo &amp;ldquo;redondear un objeto de una foto para eliminarlo&amp;rdquo;. Es mucho más y da valor a un montón de negocios y áreas diferentes.&lt;/p>
-&lt;p>Y recuerda, si la IA es gratis, el producto eres tú :)&lt;/p></description></item><item><title>Las consecuencias de no enseñar a los niños la paciencia</title><link>https://blog.barrera.dev/posts/consequences-not-teaching-about-delayed-gratification/</link><pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/consequences-not-teaching-about-delayed-gratification/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/patient.jpg"/>
-&lt;p>Mientras vivimos en un mundo cada vez más complejo y rápido, es fácil caer en la trampa de la cultura de la inmediatez que nos rodea. Con solo unos pocos clicks en nuestros moviles, podemos acceder a cualquier cosa, desde entretenimiento hasta educación. Pero ¿Qué será de nuestros hijos? ¿Se les enseña la importancia de la paciencia?&lt;/p>
-&lt;p>&lt;strong>No&lt;/strong>, muchos padres no les están enseñando a sus hijos &lt;strong>el valor del ahorro y de esperar por las cosas que desean&lt;/strong>. Esta falta de educación financiera puede tener consecuencias a largo plazo, haciendo de la sociedad una sociedad que valora el placer inmediato sobre la planificación a largo plazo.&lt;/p>
-&lt;h4 id="compra-ahora-consume-más-tarde">
+&lt;a href="#conclusiones" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Dicho todo esto, puedo ver cómo la IA ya está entre nosotros. Esto significa que tenemos que ponernos las pilas y aprender a usarla como herramienta. De cualquier otra forma, aquel que aprenda antes y sea más productivo con ella nos quitará eventualmente el trabajo. Abraza la IA, dedícale tiempo para entender cómo funciona y sus ventajas y limitaciones. La IA no es solo &amp;ldquo;redondear un objeto de una foto para eliminarlo&amp;rdquo;. Es mucho más y da valor a un montón de negocios y áreas diferentes.&lt;/p&gt;
+&lt;p&gt;Y recuerda, si la IA es gratis, el producto eres tú :)&lt;/p&gt;</description></item><item><title>Las consecuencias de no enseñar a los niños la paciencia</title><link>https://blog.barrera.dev/posts/consequences-not-teaching-about-delayed-gratification/</link><pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/consequences-not-teaching-about-delayed-gratification/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/patient.jpg"/&gt;
+&lt;p&gt;Mientras vivimos en un mundo cada vez más complejo y rápido, es fácil caer en la trampa de la cultura de la inmediatez que nos rodea. Con solo unos pocos clicks en nuestros moviles, podemos acceder a cualquier cosa, desde entretenimiento hasta educación. Pero ¿Qué será de nuestros hijos? ¿Se les enseña la importancia de la paciencia?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No&lt;/strong&gt;, muchos padres no les están enseñando a sus hijos &lt;strong&gt;el valor del ahorro y de esperar por las cosas que desean&lt;/strong&gt;. Esta falta de educación financiera puede tener consecuencias a largo plazo, haciendo de la sociedad una sociedad que valora el placer inmediato sobre la planificación a largo plazo.&lt;/p&gt;
+&lt;h4 id="compra-ahora-consume-más-tarde"&gt;
 Compra ahora, consume más tarde
-&lt;a href="#compra-ahora-consume-m%c3%a1s-tarde" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>En la era digital actual, es más importante que nunca enseñar a los niños sobre la gratificación tardía. Con el auge de los servicios por suscripción y los modelos de pago por uso, &lt;strong>nuestros hijos están constantemente bombardeados con ofertas para comprar ahora y consumir después&lt;/strong>. Esto puede llevar a una cultura de consumismo instantáneo, donde se pierde el valor de ahorrar y planificar para el futuro.&lt;/p>
-&lt;p>Las consecuencias de no enseñar a los niños sobre la gratificación tardía pueden llegar a ser muy graves. Cuando los niños aprenden que pueden tener cualquier cosa que quieran al instante, pueden volverse impacientes o desarrollar &lt;strong>expectativas poco realistas&lt;/strong>. Esto puede conducir a problemas con el autocontrol, la toma de decisiones y la responsabilidad financiera.&lt;/p>
-&lt;h4 id="economía-y-finanzas">
+&lt;a href="#compra-ahora-consume-m%c3%a1s-tarde" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;En la era digital actual, es más importante que nunca enseñar a los niños sobre la gratificación tardía. Con el auge de los servicios por suscripción y los modelos de pago por uso, &lt;strong&gt;nuestros hijos están constantemente bombardeados con ofertas para comprar ahora y consumir después&lt;/strong&gt;. Esto puede llevar a una cultura de consumismo instantáneo, donde se pierde el valor de ahorrar y planificar para el futuro.&lt;/p&gt;
+&lt;p&gt;Las consecuencias de no enseñar a los niños sobre la gratificación tardía pueden llegar a ser muy graves. Cuando los niños aprenden que pueden tener cualquier cosa que quieran al instante, pueden volverse impacientes o desarrollar &lt;strong&gt;expectativas poco realistas&lt;/strong&gt;. Esto puede conducir a problemas con el autocontrol, la toma de decisiones y la responsabilidad financiera.&lt;/p&gt;
+&lt;h4 id="economía-y-finanzas"&gt;
 Economía y finanzas
-&lt;a href="#econom%c3%ada-y-finanzas" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Además, la falta de educación financiera entre los niños puede tener &lt;strong>efectos graves a largo plazo en su bienestar socio-económico&lt;/strong>. Los estudios han demostrado que las personas que &lt;strong>no&lt;/strong> se han educado financieramente tienen más probabilidades de tener dificultades con las deudas, el ahorro y la planificación de la jubilación. Estos problemas pueden tener un impacto significativo en su calidad de vida y en su capacidad de alcanzar sus metas.&lt;/p>
-&lt;h4 id="qué-podemos-hacer">
+&lt;a href="#econom%c3%ada-y-finanzas" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Además, la falta de educación financiera entre los niños puede tener &lt;strong&gt;efectos graves a largo plazo en su bienestar socio-económico&lt;/strong&gt;. Los estudios han demostrado que las personas que &lt;strong&gt;no&lt;/strong&gt; se han educado financieramente tienen más probabilidades de tener dificultades con las deudas, el ahorro y la planificación de la jubilación. Estos problemas pueden tener un impacto significativo en su calidad de vida y en su capacidad de alcanzar sus metas.&lt;/p&gt;
+&lt;h4 id="qué-podemos-hacer"&gt;
 ¿Qué podemos hacer?
-&lt;a href="#qu%c3%a9-podemos-hacer" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Entonces, ¿qué pueden hacer los padres para enseñar a los niños sobre la gratificación tardía? Aquí doy algunos consejos:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Establecer expectativas claras&lt;/strong>: Establece reglas y consecuencias claras para el comportamiento de tu hijo, incluyendo la importancia de ahorrar y esperar por las cosas que realmente desean.&lt;/li>
-&lt;li>&lt;strong>Modelar un buen comportamiento&lt;/strong>: Muestra a tu hijo que también valoras la gratificación tardía &lt;strong>practicándola&lt;/strong>. Demuestra los beneficios de ahorrar y planificar para el futuro estableciendo metas y alcanzándolas.&lt;/li>
-&lt;li>&lt;strong>Fomentar el establecimiento de metas&lt;/strong>: Ayuda a tu hijo a establecer metas a corto y largo plazo, y anímalo a trabajar para lograr esas metas a través del ahorro y la planificación.&lt;/li>
-&lt;li>&lt;strong>Enseñar el valor del dinero&lt;/strong>: Enseña a tu hijo el valor del dinero y la importancia de ganarlo. Anímalo a buscar oportunidades para obtener ingresos y enséñale cómo administrarlo siendo consciente de sus gastos.&lt;/li>
-&lt;li>&lt;strong>Promover la paciencia y el autocontrol&lt;/strong>: Enseña a tu hijo la importancia de esperar y retrasar la gratificación para alcanzar metas a largo plazo. Anímalo a practicar el autocontrol y a tomar decisiones inteligentes sobre sus gasto.&lt;/li>
-&lt;/ul>
-&lt;h4 id="conclusión">
+&lt;a href="#qu%c3%a9-podemos-hacer" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Entonces, ¿qué pueden hacer los padres para enseñar a los niños sobre la gratificación tardía? Aquí doy algunos consejos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Establecer expectativas claras&lt;/strong&gt;: Establece reglas y consecuencias claras para el comportamiento de tu hijo, incluyendo la importancia de ahorrar y esperar por las cosas que realmente desean.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Modelar un buen comportamiento&lt;/strong&gt;: Muestra a tu hijo que también valoras la gratificación tardía &lt;strong&gt;practicándola&lt;/strong&gt;. Demuestra los beneficios de ahorrar y planificar para el futuro estableciendo metas y alcanzándolas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fomentar el establecimiento de metas&lt;/strong&gt;: Ayuda a tu hijo a establecer metas a corto y largo plazo, y anímalo a trabajar para lograr esas metas a través del ahorro y la planificación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enseñar el valor del dinero&lt;/strong&gt;: Enseña a tu hijo el valor del dinero y la importancia de ganarlo. Anímalo a buscar oportunidades para obtener ingresos y enséñale cómo administrarlo siendo consciente de sus gastos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Promover la paciencia y el autocontrol&lt;/strong&gt;: Enseña a tu hijo la importancia de esperar y retrasar la gratificación para alcanzar metas a largo plazo. Anímalo a practicar el autocontrol y a tomar decisiones inteligentes sobre sus gasto.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="conclusión"&gt;
 Conclusión
-&lt;a href="#conclusi%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Al enseñar a los niños sobre la gratificación tardía, podemos ayudarlos a desarrollar habilidades esenciales para la vida que les servirán cuando sean adultos. Al modelar un buen comportamiento, establecer expectativas claras, fomentar el establecimiento de metas, enseñar el valor del dinero y promover la paciencia y el autocontrol, podemos criar una generación de chicos y chicas financieramente responsables que estén mejor equipados para enfrentar los desafíos del mundo moderno.&lt;/p></description></item><item><title>Adicciones a las Redes Sociales</title><link>https://blog.barrera.dev/posts/addictions-to-social-networks/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/addictions-to-social-networks/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/addictions-to-social-networks.jpg"/>
-&lt;p>En la sociedad actual, el uso de dispositivos móviles se ha vuelto tan común que incluso los niños pequeños están cada vez más expuestos a ellos, lo que plantea un desafío importante para las familias.&lt;/p>
-&lt;p>Como alguien que trabaja en la industria tecnológica, &lt;strong>me resulta frustrante&lt;/strong> observar cómo nuestras familias cercanas están cada vez más absorbidas por sus dispositivos móviles, sin comprender plenamente los problemas que esto puede traer no solo a ellos mismos, sino también a quienes los rodean.&lt;/p>
-&lt;h4 id="negación">
+&lt;a href="#conclusi%c3%b3n" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Al enseñar a los niños sobre la gratificación tardía, podemos ayudarlos a desarrollar habilidades esenciales para la vida que les servirán cuando sean adultos. Al modelar un buen comportamiento, establecer expectativas claras, fomentar el establecimiento de metas, enseñar el valor del dinero y promover la paciencia y el autocontrol, podemos criar una generación de chicos y chicas financieramente responsables que estén mejor equipados para enfrentar los desafíos del mundo moderno.&lt;/p&gt;</description></item><item><title>Adicciones a las Redes Sociales</title><link>https://blog.barrera.dev/posts/addictions-to-social-networks/</link><pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/addictions-to-social-networks/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/addictions-to-social-networks.jpg"/&gt;
+&lt;p&gt;En la sociedad actual, el uso de dispositivos móviles se ha vuelto tan común que incluso los niños pequeños están cada vez más expuestos a ellos, lo que plantea un desafío importante para las familias.&lt;/p&gt;
+&lt;p&gt;Como alguien que trabaja en la industria tecnológica, &lt;strong&gt;me resulta frustrante&lt;/strong&gt; observar cómo nuestras familias cercanas están cada vez más absorbidas por sus dispositivos móviles, sin comprender plenamente los problemas que esto puede traer no solo a ellos mismos, sino también a quienes los rodean.&lt;/p&gt;
+&lt;h4 id="negación"&gt;
 Negación
-&lt;a href="#negaci%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Lo que a menudo pasa desapercibido es que el contenido que consumimos en nuestras pantallas está cuidadosamente diseñado para mantenernos enganchados. Desde los videos de YouTube hasta los resultados de búsqueda en Google, la música en Spotify y las recomendaciones de Netflix, &lt;strong>todo está diseñado para capturar nuestra atención&lt;/strong> y retenernos.&lt;/p>
-&lt;p>Lo más preocupante es que, en muchos casos, &lt;strong>las personas no reconocen este problema&lt;/strong> o no quieren verlo como tal. A pesar de nuestros intentos de explicar y ofrecer ejemplos, a menudo se encuentran en un &lt;strong>estado de negación&lt;/strong>. La recompensa inmediata que obtienen de sus pantallas parece superar la necesidad de reflexionar sobre la calidad de lo que están consumiendo.&lt;/p>
-&lt;h4 id="familia-y-futuro">
+&lt;a href="#negaci%c3%b3n" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Lo que a menudo pasa desapercibido es que el contenido que consumimos en nuestras pantallas está cuidadosamente diseñado para mantenernos enganchados. Desde los videos de YouTube hasta los resultados de búsqueda en Google, la música en Spotify y las recomendaciones de Netflix, &lt;strong&gt;todo está diseñado para capturar nuestra atención&lt;/strong&gt; y retenernos.&lt;/p&gt;
+&lt;p&gt;Lo más preocupante es que, en muchos casos, &lt;strong&gt;las personas no reconocen este problema&lt;/strong&gt; o no quieren verlo como tal. A pesar de nuestros intentos de explicar y ofrecer ejemplos, a menudo se encuentran en un &lt;strong&gt;estado de negación&lt;/strong&gt;. La recompensa inmediata que obtienen de sus pantallas parece superar la necesidad de reflexionar sobre la calidad de lo que están consumiendo.&lt;/p&gt;
+&lt;h4 id="familia-y-futuro"&gt;
 Familia y futuro
-&lt;a href="#familia-y-futuro" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Este dilema también nos hace pensar en el futuro y cómo educaremos a las generaciones venideras. En Silicon Valley, incluso hay un movimiento &lt;em>(metodo waldorf)&lt;/em> entre los trabajadores de la tecnología que prohíben el acceso de sus hijos a pantallas y dispositivos móviles hasta cierta edad, una práctica que difiere de lo que generalmente vemos en las calles. Mientras trabajamos para crear un mundo tecnológico lleno de recomendaciones y comodidades, también debemos ser conscientes de los peligros que conlleva y proteger a nuestros hijos de ellos.&lt;/p>
-&lt;p>&lt;strong>Es desolador ver a niños de tan solo 2 o 3 años caminando con un teléfono en la mano&lt;/strong>, viendo dibujos animados en la pantalla. Peor aún, ¿qué ejemplo están dando los padres y madres que usan TikTok, Instagram u otras redes sociales frente a sus hijos pequeños?&lt;/p>
-&lt;h4 id="psicología">
+&lt;a href="#familia-y-futuro" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Este dilema también nos hace pensar en el futuro y cómo educaremos a las generaciones venideras. En Silicon Valley, incluso hay un movimiento &lt;em&gt;(metodo waldorf)&lt;/em&gt; entre los trabajadores de la tecnología que prohíben el acceso de sus hijos a pantallas y dispositivos móviles hasta cierta edad, una práctica que difiere de lo que generalmente vemos en las calles. Mientras trabajamos para crear un mundo tecnológico lleno de recomendaciones y comodidades, también debemos ser conscientes de los peligros que conlleva y proteger a nuestros hijos de ellos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Es desolador ver a niños de tan solo 2 o 3 años caminando con un teléfono en la mano&lt;/strong&gt;, viendo dibujos animados en la pantalla. Peor aún, ¿qué ejemplo están dando los padres y madres que usan TikTok, Instagram u otras redes sociales frente a sus hijos pequeños?&lt;/p&gt;
+&lt;h4 id="psicología"&gt;
 Psicología
-&lt;a href="#psicolog%c3%ada" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Las grandes empresas tecnológicas cuentan con equipos gigantescos de psicólogos que diseñan interfaces adictivas para sus aplicaciones. Por ejemplo, la interfaz de Tinder es un ejemplo de diseño excepcional que permite encontrar una pareja en cuestión de segundos. &lt;strong>Las aplicaciones con scroll infinito, como Twitter y TikTok, también son notables por su capacidad de mantener al cerebro absorto en una corriente constante de información personalizada.&lt;/strong>&lt;/p>
-&lt;h4 id="conclusiones">
+&lt;a href="#psicolog%c3%ada" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Las grandes empresas tecnológicas cuentan con equipos gigantescos de psicólogos que diseñan interfaces adictivas para sus aplicaciones. Por ejemplo, la interfaz de Tinder es un ejemplo de diseño excepcional que permite encontrar una pareja en cuestión de segundos. &lt;strong&gt;Las aplicaciones con scroll infinito, como Twitter y TikTok, también son notables por su capacidad de mantener al cerebro absorto en una corriente constante de información personalizada.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id="conclusiones"&gt;
 Conclusiones
-&lt;a href="#conclusiones" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>En resumen, la adicción a las redes sociales y la dependencia de los dispositivos móviles están afectando a las familias de manera significativa. Como sociedad, debemos abordar estos problemas y, al mismo tiempo, la industria tecnológica debe asumir la responsabilidad de garantizar que sus productos no sean adictivos. El futuro de nuestras familias y el equilibrio en la relación con la tecnología dependen de ello.&lt;/p></description></item><item><title>IDP en la empresa</title><link>https://blog.barrera.dev/posts/idp-in-the-enterprise/</link><pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/idp-in-the-enterprise/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/idp-in-the-enterprise.jpg"/>
-&lt;p>Hace unas semanas, dediqué algún tiempo a entender cómo se podía implantar un IDP en la empresa. Encontré algunos artículos y vídeos útiles, pero aún me quedaban algunas preguntas sin resolver. En particular, quería saber &lt;strong>cómo debe implantarse un IDP en un entorno político y lleno de silos&lt;/strong>. También quería saber cómo hacer frente a la inevitable resistencia al cambio de los distintos departamentos.&lt;/p>
-&lt;blockquote>
-&lt;p>IDP significa &lt;strong>Plataforma de Desarrollo Interno&lt;/strong>.&lt;/p>
-&lt;/blockquote>
-&lt;p>&lt;a href="https://github.com/angelbarrera92/idp-enterprise-research/blob/main/outcome.md">Aquí encontrarás el enfoque optimista de cómo implantar un IDP&lt;/a>, por desgracia, supone que la organización está bien estructurada y que &lt;strong>las personas están dispuestas a cambiar&lt;/strong>, incluidos los mandos intermedios, los directores y los equipos de desarrollo.&lt;/p>
-&lt;p>Desgraciadamente, este no es el caso en la mayoría de las organizaciones. La realidad es que &lt;strong>la mayoría de las organizaciones están compartimentadas y son políticas&lt;/strong>, y la gente no está dispuesta a cambiar, peor aún en tiempos de crisis económica. Por eso decidí escribir este artículo, para compartir mi punto de vista después de hablar con algunas personas del sector en la misma situación.&lt;/p>
-&lt;h4 id="la-situación">
+&lt;a href="#conclusiones" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;En resumen, la adicción a las redes sociales y la dependencia de los dispositivos móviles están afectando a las familias de manera significativa. Como sociedad, debemos abordar estos problemas y, al mismo tiempo, la industria tecnológica debe asumir la responsabilidad de garantizar que sus productos no sean adictivos. El futuro de nuestras familias y el equilibrio en la relación con la tecnología dependen de ello.&lt;/p&gt;</description></item><item><title>IDP en la empresa</title><link>https://blog.barrera.dev/posts/idp-in-the-enterprise/</link><pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/idp-in-the-enterprise/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/idp-in-the-enterprise.jpg"/&gt;
+&lt;p&gt;Hace unas semanas, dediqué algún tiempo a entender cómo se podía implantar un IDP en la empresa. Encontré algunos artículos y vídeos útiles, pero aún me quedaban algunas preguntas sin resolver. En particular, quería saber &lt;strong&gt;cómo debe implantarse un IDP en un entorno político y lleno de silos&lt;/strong&gt;. También quería saber cómo hacer frente a la inevitable resistencia al cambio de los distintos departamentos.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;IDP significa &lt;strong&gt;Plataforma de Desarrollo Interno&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="https://github.com/angelbarrera92/idp-enterprise-research/blob/main/outcome.md"&gt;Aquí encontrarás el enfoque optimista de cómo implantar un IDP&lt;/a&gt;, por desgracia, supone que la organización está bien estructurada y que &lt;strong&gt;las personas están dispuestas a cambiar&lt;/strong&gt;, incluidos los mandos intermedios, los directores y los equipos de desarrollo.&lt;/p&gt;
+&lt;p&gt;Desgraciadamente, este no es el caso en la mayoría de las organizaciones. La realidad es que &lt;strong&gt;la mayoría de las organizaciones están compartimentadas y son políticas&lt;/strong&gt;, y la gente no está dispuesta a cambiar, peor aún en tiempos de crisis económica. Por eso decidí escribir este artículo, para compartir mi punto de vista después de hablar con algunas personas del sector en la misma situación.&lt;/p&gt;
+&lt;h4 id="la-situación"&gt;
 La situación
-&lt;a href="#la-situaci%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Es casi &lt;em>2023&lt;/em>, y todas las industrias están digitalizadas, desde la venta al por menor a los bancos, comercios, y gobiernos por lo que es un hecho que &lt;strong>necesitamos ingenieros para dirigir una sociedad moderna.&lt;/strong>&lt;/p>
-&lt;p>La mayoría de estas empresas &lt;em>tienen éxito&lt;/em> en la adopción de la nube. Algunas de ellas están &lt;a href="https://www.channelpronetwork.com/article/return-prem">volviendo a on-prem&lt;/a>, pero ese es un tema que me gustaría tratar en otro post.&lt;/p>
-&lt;p>Las empresas pasaron de &lt;em>on-premises&lt;/em> al &lt;em>cloud&lt;/em>. Algunas de ellas intentaron seguir los mismos procedimientos y procesos que seguían antes en sus centros de datos. Eso no funcionó, los ingenieros tenían dificultades para desarrollar e implementar los proyectos para los que estaban contratados, lo que provocó que los directivos y mandos intermedios no vieran ninguna mejora al pasar a la nube.&lt;/p>
-&lt;p>Llegados a este punto, tenían dos opciones:&lt;/p>
-&lt;ul>
-&lt;li>Seguir operando como lo estaban haciendo asumiendo que la nube no les iba a proporcionar mayores beneficios.&lt;/li>
-&lt;li>Cambiar la forma de trabajar adoptando la flexibilidad de la nube.&lt;/li>
-&lt;/ul>
-&lt;p>Aquellas empresas que adoptaron el segundo punto, tuvieron que sustituir ciertos roles y procesos en la empresa.
-Esto podría conllevar cambios significativos en la estructura de gestión de la empresa:&lt;/p>
-&lt;ul>
-&lt;li>¿Quién gestiona el acceso a la nube?&lt;/li>
-&lt;li>¿Quién se ocupa de las cuentas en la nube?&lt;/li>
-&lt;li>¿Pueden los empleados utilizar cualquier servicio en la nube?&lt;/li>
-&lt;li>¿Quién se encarga de gestionar el cortafuegos de las instancias en la nube?&lt;/li>
-&lt;li>¿Y la facturación?&lt;/li>
-&lt;/ul>
-&lt;p>Como puedes imaginar, esto ha causado muchas dificultades a las empresas. Estos cambios &lt;em>sólo&lt;/em> afectan a algunos departamentos de TI que adoptan procesos de automatización y prestan servicios a los desarrolladores.&lt;/p>
-&lt;h5 id="desarrolladores">
+&lt;a href="#la-situaci%c3%b3n" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Es casi &lt;em&gt;2023&lt;/em&gt;, y todas las industrias están digitalizadas, desde la venta al por menor a los bancos, comercios, y gobiernos por lo que es un hecho que &lt;strong&gt;necesitamos ingenieros para dirigir una sociedad moderna.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La mayoría de estas empresas &lt;em&gt;tienen éxito&lt;/em&gt; en la adopción de la nube. Algunas de ellas están &lt;a href="https://www.channelpronetwork.com/article/return-prem"&gt;volviendo a on-prem&lt;/a&gt;, pero ese es un tema que me gustaría tratar en otro post.&lt;/p&gt;
+&lt;p&gt;Las empresas pasaron de &lt;em&gt;on-premises&lt;/em&gt; al &lt;em&gt;cloud&lt;/em&gt;. Algunas de ellas intentaron seguir los mismos procedimientos y procesos que seguían antes en sus centros de datos. Eso no funcionó, los ingenieros tenían dificultades para desarrollar e implementar los proyectos para los que estaban contratados, lo que provocó que los directivos y mandos intermedios no vieran ninguna mejora al pasar a la nube.&lt;/p&gt;
+&lt;p&gt;Llegados a este punto, tenían dos opciones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Seguir operando como lo estaban haciendo asumiendo que la nube no les iba a proporcionar mayores beneficios.&lt;/li&gt;
+&lt;li&gt;Cambiar la forma de trabajar adoptando la flexibilidad de la nube.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aquellas empresas que adoptaron el segundo punto, tuvieron que sustituir ciertos roles y procesos en la empresa.
+Esto podría conllevar cambios significativos en la estructura de gestión de la empresa:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Quién gestiona el acceso a la nube?&lt;/li&gt;
+&lt;li&gt;¿Quién se ocupa de las cuentas en la nube?&lt;/li&gt;
+&lt;li&gt;¿Pueden los empleados utilizar cualquier servicio en la nube?&lt;/li&gt;
+&lt;li&gt;¿Quién se encarga de gestionar el cortafuegos de las instancias en la nube?&lt;/li&gt;
+&lt;li&gt;¿Y la facturación?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Como puedes imaginar, esto ha causado muchas dificultades a las empresas. Estos cambios &lt;em&gt;sólo&lt;/em&gt; afectan a algunos departamentos de TI que adoptan procesos de automatización y prestan servicios a los desarrolladores.&lt;/p&gt;
+&lt;h5 id="desarrolladores"&gt;
 Desarrolladores
-&lt;a href="#desarrolladores" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h5>
-&lt;p>Los desarrolladores, &lt;em>en su día&lt;/em>, se centraban en desarrollar los requisitos del negocio. Luego, empujan el código a otro lugar, &lt;strong>trabajo hecho&lt;/strong>.&lt;/p>
-&lt;p>Todos estamos de acuerdo en que &lt;strong>eso no es suficiente&lt;/strong>. Desafortunadamente, &lt;strong>no hay consenso sobre lo que es suficiente&lt;/strong> para un desarrollador.&lt;/p>
-&lt;ul>
-&lt;li>¿Debe un desarrollador ocuparse de un pipeline?&lt;/li>
-&lt;li>¿Es consciente el desarrollador de los pasos que debe seguir el pipeline?&lt;/li>
-&lt;li>¿Debe el desarrollador ser consciente de la seguridad del &lt;em>pipeline/código/infraestructura/datos&lt;/em>?&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Los desarrolladores quieren centrarse en escribir código y ofrecer valor de negocio&lt;/strong>, en lugar de preocuparse por la infraestructura y el despliegue.&lt;/p>
-&lt;p>Es casi 2023, &lt;em>en la nube&lt;/em>, con &lt;em>contenedores&lt;/em>, con &lt;em>APIs&lt;/em>, con &lt;em>vulnerabilidades&lt;/em>, &lt;em>contratistas&lt;/em>, &lt;em>equipos de desarrollo internos&lt;/em>, y la &lt;em>CNCF&lt;/em>.&lt;/p>
-&lt;h5 id="cncf">
+&lt;a href="#desarrolladores" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;Los desarrolladores, &lt;em&gt;en su día&lt;/em&gt;, se centraban en desarrollar los requisitos del negocio. Luego, empujan el código a otro lugar, &lt;strong&gt;trabajo hecho&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Todos estamos de acuerdo en que &lt;strong&gt;eso no es suficiente&lt;/strong&gt;. Desafortunadamente, &lt;strong&gt;no hay consenso sobre lo que es suficiente&lt;/strong&gt; para un desarrollador.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Debe un desarrollador ocuparse de un pipeline?&lt;/li&gt;
+&lt;li&gt;¿Es consciente el desarrollador de los pasos que debe seguir el pipeline?&lt;/li&gt;
+&lt;li&gt;¿Debe el desarrollador ser consciente de la seguridad del &lt;em&gt;pipeline/código/infraestructura/datos&lt;/em&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Los desarrolladores quieren centrarse en escribir código y ofrecer valor de negocio&lt;/strong&gt;, en lugar de preocuparse por la infraestructura y el despliegue.&lt;/p&gt;
+&lt;p&gt;Es casi 2023, &lt;em&gt;en la nube&lt;/em&gt;, con &lt;em&gt;contenedores&lt;/em&gt;, con &lt;em&gt;APIs&lt;/em&gt;, con &lt;em&gt;vulnerabilidades&lt;/em&gt;, &lt;em&gt;contratistas&lt;/em&gt;, &lt;em&gt;equipos de desarrollo internos&lt;/em&gt;, y la &lt;em&gt;CNCF&lt;/em&gt;.&lt;/p&gt;
+&lt;h5 id="cncf"&gt;
 CNCF
-&lt;a href="#cncf" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h5>
-&lt;p>Nos trajo muchas herramientas y mucha confusión. Quiero decir, &lt;em>Kubernetes&lt;/em>, &lt;em>Prometheus&lt;/em>, &lt;em>linkerd&lt;/em>, y otros proyectos son &lt;strong>maravillosos&lt;/strong>. Desafortunadamente, cada proyecto alojado en el CNCF es una pieza de software que no hace nada por sí sola. Así que, &lt;strong>necesitas entender cómo usarlos, y necesitas saber cómo integrarlos.&lt;/strong>&lt;/p>
-&lt;p>Esto no es fácil, &lt;strong>¿Es algo de lo que debe ocuparse el desarrollador?&lt;/strong>.&lt;/p>
-&lt;p>La CNCF es la principal razón por la que las empresas invierten hoy en equipos de plataforma.&lt;/p>
-&lt;h4 id="consecuencias">
+&lt;a href="#cncf" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;Nos trajo muchas herramientas y mucha confusión. Quiero decir, &lt;em&gt;Kubernetes&lt;/em&gt;, &lt;em&gt;Prometheus&lt;/em&gt;, &lt;em&gt;linkerd&lt;/em&gt;, y otros proyectos son &lt;strong&gt;maravillosos&lt;/strong&gt;. Desafortunadamente, cada proyecto alojado en el CNCF es una pieza de software que no hace nada por sí sola. Así que, &lt;strong&gt;necesitas entender cómo usarlos, y necesitas saber cómo integrarlos.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Esto no es fácil, &lt;strong&gt;¿Es algo de lo que debe ocuparse el desarrollador?&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;La CNCF es la principal razón por la que las empresas invierten hoy en equipos de plataforma.&lt;/p&gt;
+&lt;h4 id="consecuencias"&gt;
 Consecuencias
-&lt;a href="#consecuencias" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>La incorporación a la empresa/proyecto es un coñazo, tanto para el empleado como para el empresario:&lt;/p>
-&lt;ul>
-&lt;li>El empleado tiene que entender un montón de tecnologías diferentes y cómo se han implementado en la empresa/proyecto.&lt;/li>
-&lt;li>Para el empleador, intentar encontrar un buen ingeniero en el mercado actual es una quimera. Tendrías que pagarles mucho ya que exiges del ingeniero muchos conocimientos. Sin olvidar que estamos en plena crisis económica.&lt;/li>
-&lt;/ul>
-&lt;p>No olvides el offboarding. &lt;strong>Los ingenieros quieren ser ingenieros, ¿verdad?&lt;/strong> Así que si encuentran mejores oportunidades dentro de la misma empresa o fuera de ella, un ingeniero perseguirá esas oportunidades, por lo que acabarás con proyectos/productos inacabados.&lt;/p>
-&lt;p>Entonces, quita los permisos para ese ingeniero en particular, e &lt;strong>intenta incorporar a un nuevo empleado&lt;/strong> en el proyecto/producto estos días&amp;hellip;&lt;/p>
-&lt;h5 id="microplataformas">
+&lt;a href="#consecuencias" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;La incorporación a la empresa/proyecto es un coñazo, tanto para el empleado como para el empresario:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El empleado tiene que entender un montón de tecnologías diferentes y cómo se han implementado en la empresa/proyecto.&lt;/li&gt;
+&lt;li&gt;Para el empleador, intentar encontrar un buen ingeniero en el mercado actual es una quimera. Tendrías que pagarles mucho ya que exiges del ingeniero muchos conocimientos. Sin olvidar que estamos en plena crisis económica.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No olvides el offboarding. &lt;strong&gt;Los ingenieros quieren ser ingenieros, ¿verdad?&lt;/strong&gt; Así que si encuentran mejores oportunidades dentro de la misma empresa o fuera de ella, un ingeniero perseguirá esas oportunidades, por lo que acabarás con proyectos/productos inacabados.&lt;/p&gt;
+&lt;p&gt;Entonces, quita los permisos para ese ingeniero en particular, e &lt;strong&gt;intenta incorporar a un nuevo empleado&lt;/strong&gt; en el proyecto/producto estos días&amp;hellip;&lt;/p&gt;
+&lt;h5 id="microplataformas"&gt;
 microplataformas
-&lt;a href="#microplataformas" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h5>
-&lt;p>Encontrarás &lt;strong>microplataformas&lt;/strong> en diferentes equipos. &lt;em>¿Qué es esto?&lt;/em>&lt;/p>
-&lt;p>Son frameworks que los desarrolladores avanzados del equipo desarrollan para &lt;strong>estandarizar la forma de trabajar&lt;/strong> de su equipo, ya se están dando cuenta de que hay un problema de estandarización en la empresa en la que están trabajando.&lt;/p>
-&lt;p>&lt;em>¿Cuál es el problema inevitable?&lt;/em>&lt;/p>
-&lt;p>No tienen suficiente contexto para implementar correctamente la &lt;em>(micro)&lt;/em> plataforma, y probablemente podrían estar ligados a ciertos servicios que la empresa podría estar dando &lt;em>(sistema de tickets, alertas, ejecución, métricas&amp;hellip;)&lt;/em> y causará mucha fricción con los equipos de TI &lt;em>(infra, plataforma, nube, seguridad&amp;hellip;.)&lt;/em>.&lt;/p>
-&lt;p>Me parece claro; los equipos están desarrollando su forma de desarrollar. &lt;strong>Entonces significa que hay un requerimiento potencial en la empresa&lt;/strong>, y esto es estandarizar la forma de desarrollar &lt;em>(IDP)&lt;/em>.&lt;/p>
-&lt;h4 id="la-fea-verdad">
+&lt;a href="#microplataformas" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;Encontrarás &lt;strong&gt;microplataformas&lt;/strong&gt; en diferentes equipos. &lt;em&gt;¿Qué es esto?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Son frameworks que los desarrolladores avanzados del equipo desarrollan para &lt;strong&gt;estandarizar la forma de trabajar&lt;/strong&gt; de su equipo, ya se están dando cuenta de que hay un problema de estandarización en la empresa en la que están trabajando.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;¿Cuál es el problema inevitable?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;No tienen suficiente contexto para implementar correctamente la &lt;em&gt;(micro)&lt;/em&gt; plataforma, y probablemente podrían estar ligados a ciertos servicios que la empresa podría estar dando &lt;em&gt;(sistema de tickets, alertas, ejecución, métricas&amp;hellip;)&lt;/em&gt; y causará mucha fricción con los equipos de TI &lt;em&gt;(infra, plataforma, nube, seguridad&amp;hellip;.)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Me parece claro; los equipos están desarrollando su forma de desarrollar. &lt;strong&gt;Entonces significa que hay un requerimiento potencial en la empresa&lt;/strong&gt;, y esto es estandarizar la forma de desarrollar &lt;em&gt;(IDP)&lt;/em&gt;.&lt;/p&gt;
+&lt;h4 id="la-fea-verdad"&gt;
 La fea verdad
-&lt;a href="#la-fea-verdad" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>La razón principal por la que no existe una única plataforma de desarrollo interno no tiene que ver con la tecnología, hay un número ingente de tecnologías listas para integrarse y cubrir la mayoría de los casos de uso que puedes ver en tu empresa.&lt;/p>
-&lt;p>&lt;em>Entonces, ¿cuál es el problema?&lt;/em> &lt;strong>The middle management.&lt;/strong>&lt;/p>
-&lt;p>En una empresa tradicional, verá una estructura organizativa bien definida con múltiples niveles de gestión. Desde el nivel C hasta abajo puedes encontrar 3-4-5 niveles de gestión &lt;em>(incluso más; cuanto más grande sea la empresa, más niveles encontrarás)&lt;/em>.&lt;/p>
-&lt;p>Cada directivo se preocupa por X empleados y/o directivos.
-&lt;strong>Cuantos más informes recibe el directivo, más &amp;ldquo;importante&amp;rdquo; es para la empresa&lt;/strong>, al menos, esto es lo que podemos ver en este tipo de grandes empresas. Además, están acostumbrados a trabajar por proyectos, prestando servicios a distintas áreas. Así que es de esperar que interactúen dentro de las áreas a través de tickets/formularios&amp;hellip;&lt;/p>
-&lt;p>Entonces&amp;hellip; ¿Qué pasaría si alguien intenta implementar un IDP que involucra a muchos departamentos diferentes?&lt;/p>
-&lt;img src="https://blog.barrera.dev/images/IDPCapabilities.png" alt="Capacidades IDP" class="center" style="border-radius: 8px;" />
-&lt;p>Los mandos intermedios podrían tomarse esto &lt;em>(y lo hacen)&lt;/em> como un ataque a sus responsabilidades.&lt;/p>
-&lt;h4 id="conclusión">
+&lt;a href="#la-fea-verdad" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;La razón principal por la que no existe una única plataforma de desarrollo interno no tiene que ver con la tecnología, hay un número ingente de tecnologías listas para integrarse y cubrir la mayoría de los casos de uso que puedes ver en tu empresa.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Entonces, ¿cuál es el problema?&lt;/em&gt; &lt;strong&gt;The middle management.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;En una empresa tradicional, verá una estructura organizativa bien definida con múltiples niveles de gestión. Desde el nivel C hasta abajo puedes encontrar 3-4-5 niveles de gestión &lt;em&gt;(incluso más; cuanto más grande sea la empresa, más niveles encontrarás)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cada directivo se preocupa por X empleados y/o directivos.
+&lt;strong&gt;Cuantos más informes recibe el directivo, más &amp;ldquo;importante&amp;rdquo; es para la empresa&lt;/strong&gt;, al menos, esto es lo que podemos ver en este tipo de grandes empresas. Además, están acostumbrados a trabajar por proyectos, prestando servicios a distintas áreas. Así que es de esperar que interactúen dentro de las áreas a través de tickets/formularios&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Entonces&amp;hellip; ¿Qué pasaría si alguien intenta implementar un IDP que involucra a muchos departamentos diferentes?&lt;/p&gt;
+&lt;img src="https://blog.barrera.dev/images/IDPCapabilities.png" alt="Capacidades IDP" class="center" style="border-radius: 8px;" /&gt;
+&lt;p&gt;Los mandos intermedios podrían tomarse esto &lt;em&gt;(y lo hacen)&lt;/em&gt; como un ataque a sus responsabilidades.&lt;/p&gt;
+&lt;h4 id="conclusión"&gt;
 Conclusión
-&lt;a href="#conclusi%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>No tengo una bala de plata, pero tengo algunas ideas que podrían ayudarte a empezar a pensar en este tema.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Eche un vistazo a su entorno&lt;/strong>; ¿Su jefe es consciente de la situación actual? Si no es así, intenta explicar la situación a tu jefe.&lt;/li>
-&lt;li>&lt;strong>Empieza por los desarrolladores&lt;/strong>. Los desarrolladores son los que van a utilizar la plataforma, por lo que deben ser ellos los que definan los requisitos y las capacidades de la plataforma. &lt;strong>Trátelos como a sus clientes.&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Empezar poco a poco&lt;/strong>. Empieza con un equipo pequeño e intenta implantar una microplataforma que puedan utilizar unos pocos equipos. Después, intenta ampliar la plataforma a otros equipos presentando las ventajas de utilizar esta plataforma a tu jefe.&lt;/li>
-&lt;li>&lt;strong>Empieza por lo básico&lt;/strong>. Empieza por lo básico e intenta implantar una plataforma que puedan utilizar todos los equipos de la empresa.&lt;/li>
-&lt;/ul>
-&lt;p>Deberías presentar junto con tu jefe las ventajas de utilizar la plataforma a los demás jefes.
-Deberías ser capaz de mostrarles cómo la plataforma puede ayudarles a mejorar sus procesos y cómo puede ayudarles a mejorar su forma de trabajar.&lt;/p>
-&lt;p>&lt;strong>Implementada con éxito, ahorrará mucho dinero a la empresa&lt;/strong>.&lt;/p></description></item><item><title>IOT - Dispositivos Inteligentes</title><link>https://blog.barrera.dev/posts/iot-intelligent-devices/</link><pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/iot-intelligent-devices/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/iot-intelligent-devices.jpg"/>
-&lt;p>Hace poco descubrí que mi robot aspirador dejó de funcionar durante más de tres días.&lt;/p>
-&lt;p>No podía configurar el programa de aspirado, es decir, no podía modificar el plan de limpieza para definir las habitaciones a limpiar ni modificar la potencia de succión que la aplicación te permite configurar &lt;strong>y no puedes hacerlo de ninguna otra forma&lt;/strong>.&lt;/p>
-&lt;h4 id="entonces">
+&lt;a href="#conclusi%c3%b3n" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;No tengo una bala de plata, pero tengo algunas ideas que podrían ayudarte a empezar a pensar en este tema.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Eche un vistazo a su entorno&lt;/strong&gt;; ¿Su jefe es consciente de la situación actual? Si no es así, intenta explicar la situación a tu jefe.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Empieza por los desarrolladores&lt;/strong&gt;. Los desarrolladores son los que van a utilizar la plataforma, por lo que deben ser ellos los que definan los requisitos y las capacidades de la plataforma. &lt;strong&gt;Trátelos como a sus clientes.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Empezar poco a poco&lt;/strong&gt;. Empieza con un equipo pequeño e intenta implantar una microplataforma que puedan utilizar unos pocos equipos. Después, intenta ampliar la plataforma a otros equipos presentando las ventajas de utilizar esta plataforma a tu jefe.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Empieza por lo básico&lt;/strong&gt;. Empieza por lo básico e intenta implantar una plataforma que puedan utilizar todos los equipos de la empresa.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Deberías presentar junto con tu jefe las ventajas de utilizar la plataforma a los demás jefes.
+Deberías ser capaz de mostrarles cómo la plataforma puede ayudarles a mejorar sus procesos y cómo puede ayudarles a mejorar su forma de trabajar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Implementada con éxito, ahorrará mucho dinero a la empresa&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>IOT - Dispositivos Inteligentes</title><link>https://blog.barrera.dev/posts/iot-intelligent-devices/</link><pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/iot-intelligent-devices/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/iot-intelligent-devices.jpg"/&gt;
+&lt;p&gt;Hace poco descubrí que mi robot aspirador dejó de funcionar durante más de tres días.&lt;/p&gt;
+&lt;p&gt;No podía configurar el programa de aspirado, es decir, no podía modificar el plan de limpieza para definir las habitaciones a limpiar ni modificar la potencia de succión que la aplicación te permite configurar &lt;strong&gt;y no puedes hacerlo de ninguna otra forma&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id="entonces"&gt;
 ¿Entonces?
-&lt;a href="#entonces" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>En realidad, puedes encender el robot con el botón que trae el propio aparato y este realizará el último recorrido con el que fue configurado. Con suerte será la casa completa a una potencia de succión suficiente.&lt;/p>
-&lt;p>Pasados unos días, la aplicación volvió a funcionar&amp;hellip; pero esto me hizo reflexionar. Dependemos de servicios de terceros cuando compramos ciertos productos, como robots aspirador, enchufes inteligentes, cámaras de vigilancia, etc.&lt;/p>
-&lt;p>Ante esta situación hay &lt;em>(principalmente)&lt;/em> dos grupos de personas:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Gente común&lt;/strong> que no tiene por qué conocer estos detalles y compra este tipo de dispositivos porque les gusta o los necesitan.
-Creen que pueden ser una buena solución para ellos, pero que ante este tipo de situaciones, lo único que pueden hacer es llamar al comercio donde lo compró o llamar al fabricante para gestionar la garantía.&lt;/li>
-&lt;li>&lt;strong>Informáticos&lt;/strong> o a los que nos gusta resolver problemas tecnológicos y entendemos cómo funciona este tipo de dispositivos, es decir, sabemos que estos se conectan a un servidor remoto para enviar/recibir datos &lt;em>(cosa que no nos suele gustar)&lt;/em> y que necesitamos para interactuar con ellos desde dentro y fuera de casa a través de una aplicación.&lt;/li>
-&lt;/ul>
-&lt;h4 id="cámaras-de-vigilancia">
+&lt;a href="#entonces" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;En realidad, puedes encender el robot con el botón que trae el propio aparato y este realizará el último recorrido con el que fue configurado. Con suerte será la casa completa a una potencia de succión suficiente.&lt;/p&gt;
+&lt;p&gt;Pasados unos días, la aplicación volvió a funcionar&amp;hellip; pero esto me hizo reflexionar. Dependemos de servicios de terceros cuando compramos ciertos productos, como robots aspirador, enchufes inteligentes, cámaras de vigilancia, etc.&lt;/p&gt;
+&lt;p&gt;Ante esta situación hay &lt;em&gt;(principalmente)&lt;/em&gt; dos grupos de personas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Gente común&lt;/strong&gt; que no tiene por qué conocer estos detalles y compra este tipo de dispositivos porque les gusta o los necesitan.
+Creen que pueden ser una buena solución para ellos, pero que ante este tipo de situaciones, lo único que pueden hacer es llamar al comercio donde lo compró o llamar al fabricante para gestionar la garantía.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Informáticos&lt;/strong&gt; o a los que nos gusta resolver problemas tecnológicos y entendemos cómo funciona este tipo de dispositivos, es decir, sabemos que estos se conectan a un servidor remoto para enviar/recibir datos &lt;em&gt;(cosa que no nos suele gustar)&lt;/em&gt; y que necesitamos para interactuar con ellos desde dentro y fuera de casa a través de una aplicación.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="cámaras-de-vigilancia"&gt;
 Cámaras de vigilancia
-&lt;a href="#c%c3%a1maras-de-vigilancia" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Estos aplica también a cámaras de vigilancia. El uso común de una cámara de vigilancia es ser capaz de ver lo que pasa en la vivienda en tiempo real desde cualquier lugar. Además, ante cualquier evento/movimiento recibir notificaciones de seguridad. Para esto confiamos, de forma implícita, en servicios externos.&lt;/p>
-&lt;p>¿Son conscientes los usuarios de como funciona esto? Si supieran que las imágenes pasan por un servidor de una empresa &lt;em>(que puede ser o no la fabricante del producto)&lt;/em>, se analiza el contenido y se almacena en la nube, ¿Lo comprarían? ¿Lo usarían? ¿Lo instalarían en su casa?&lt;/p>
-&lt;p>El público general no tiene por qué conocer este detalle, para la mayoría solo se trata de una aplicación la cual configura la cámara de vigilancia y mágicamente puede ver lo que pasa en su casa desde cualquier parte del mundo.&lt;/p>
-&lt;p>Pero &lt;strong>la magia no existe&lt;/strong>, en esto estamos todos de acuerdo.&lt;/p>
-&lt;h4 id="alternativas">
+&lt;a href="#c%c3%a1maras-de-vigilancia" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Estos aplica también a cámaras de vigilancia. El uso común de una cámara de vigilancia es ser capaz de ver lo que pasa en la vivienda en tiempo real desde cualquier lugar. Además, ante cualquier evento/movimiento recibir notificaciones de seguridad. Para esto confiamos, de forma implícita, en servicios externos.&lt;/p&gt;
+&lt;p&gt;¿Son conscientes los usuarios de como funciona esto? Si supieran que las imágenes pasan por un servidor de una empresa &lt;em&gt;(que puede ser o no la fabricante del producto)&lt;/em&gt;, se analiza el contenido y se almacena en la nube, ¿Lo comprarían? ¿Lo usarían? ¿Lo instalarían en su casa?&lt;/p&gt;
+&lt;p&gt;El público general no tiene por qué conocer este detalle, para la mayoría solo se trata de una aplicación la cual configura la cámara de vigilancia y mágicamente puede ver lo que pasa en su casa desde cualquier parte del mundo.&lt;/p&gt;
+&lt;p&gt;Pero &lt;strong&gt;la magia no existe&lt;/strong&gt;, en esto estamos todos de acuerdo.&lt;/p&gt;
+&lt;h4 id="alternativas"&gt;
 Alternativas
-&lt;a href="#alternativas" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Encontré un grupo de afectados &lt;em>(en telegram)&lt;/em> y resulta que no era el único&amp;hellip; El motivo fue que los servidores de esta marca se cayeron y estuvo fuera de servicio durante ese fin de semana por completo.
-En este grupo de telegram descubrí que existía una forma por la cual montar un servidor compatible por cuenta propia. De esta forma, yo sería el único responsable de mantener el servicio funcionando para poder usar mi robot aspirador y poder configurarlo sin necesidad de depender de esa tercera empresa.&lt;/p>
-&lt;p>Tras varias horas de leer información y tras estudiar &lt;em>(no es trivial)&lt;/em> cómo se podía acceder y re-configurar &lt;em>(rootear)&lt;/em> el robot para que usara este nuevo método, finalmente lo hice funcionar.
-Todo esto solo es viable si eres informático y te gustan este tipo de cosas.&lt;/p>
-&lt;h4 id="futuro">
+&lt;a href="#alternativas" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Encontré un grupo de afectados &lt;em&gt;(en telegram)&lt;/em&gt; y resulta que no era el único&amp;hellip; El motivo fue que los servidores de esta marca se cayeron y estuvo fuera de servicio durante ese fin de semana por completo.
+En este grupo de telegram descubrí que existía una forma por la cual montar un servidor compatible por cuenta propia. De esta forma, yo sería el único responsable de mantener el servicio funcionando para poder usar mi robot aspirador y poder configurarlo sin necesidad de depender de esa tercera empresa.&lt;/p&gt;
+&lt;p&gt;Tras varias horas de leer información y tras estudiar &lt;em&gt;(no es trivial)&lt;/em&gt; cómo se podía acceder y re-configurar &lt;em&gt;(rootear)&lt;/em&gt; el robot para que usara este nuevo método, finalmente lo hice funcionar.
+Todo esto solo es viable si eres informático y te gustan este tipo de cosas.&lt;/p&gt;
+&lt;h4 id="futuro"&gt;
 Futuro
-&lt;a href="#futuro" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Para el público general preveo problemas legales con las garantías, es decir:&lt;/p>
-&lt;ul>
-&lt;li>¿Qué pasa si tu robot aspirador deja de funcionar?&lt;/li>
-&lt;li>¿Qué pasa si te deja de dar cierta funcionalidad si un servidor de una empresa deja de funcionar?&lt;/li>
-&lt;li>¿Qué pasa si la empresa quiebra?&lt;/li>
-&lt;li>o&amp;hellip; cualquier otro motivo que haga que no puedas utilizar esa aplicación para configurar tu dispositivo&amp;hellip;&lt;/li>
-&lt;/ul>
-&lt;p>&lt;em>¿Existe algún tipo de ley que obligue tener que soportar y proveer servicios durante al menos la vida útil del dispositivo?&lt;/em>&lt;/p>
-&lt;p>Si no es así&amp;hellip;&lt;/p>
-&lt;p>&lt;em>¿Qué responsabilidad tiene la empresa de mantener el servidor o ese servicio más allá de un año o dos años desde la venta del producto?&lt;/em>&lt;/p>
-&lt;p>Es decir, podíamos llegar a un punto en el que tu dispositivo sea un pisapapeles. ¿Verdad? &lt;strong>Incluso estando en buen estado&lt;/strong>.
+&lt;a href="#futuro" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Para el público general preveo problemas legales con las garantías, es decir:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Qué pasa si tu robot aspirador deja de funcionar?&lt;/li&gt;
+&lt;li&gt;¿Qué pasa si te deja de dar cierta funcionalidad si un servidor de una empresa deja de funcionar?&lt;/li&gt;
+&lt;li&gt;¿Qué pasa si la empresa quiebra?&lt;/li&gt;
+&lt;li&gt;o&amp;hellip; cualquier otro motivo que haga que no puedas utilizar esa aplicación para configurar tu dispositivo&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;¿Existe algún tipo de ley que obligue tener que soportar y proveer servicios durante al menos la vida útil del dispositivo?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Si no es así&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;¿Qué responsabilidad tiene la empresa de mantener el servidor o ese servicio más allá de un año o dos años desde la venta del producto?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Es decir, podíamos llegar a un punto en el que tu dispositivo sea un pisapapeles. ¿Verdad? &lt;strong&gt;Incluso estando en buen estado&lt;/strong&gt;.
 Puede llegar el momento en que no puedas usar tu dispositivo para nada porque la empresa ha dejado de dar servicio y todo eso va directamente
-al chatarrero.&lt;/p>
-&lt;p>Preveo las siguientes situaciones:&lt;/p>
-&lt;ul>
-&lt;li>Legislar para evitar estas situaciones. Tiene lagunas:
-&lt;ul>
-&lt;li>¿Cómo se puede obligar a una empresa fuera de la unión europea a dar un servicio durante la vida útil de un dispositivo?&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Vuelta a los dispositivos no inteligentes.
-&lt;ul>
-&lt;li>El consumidor preferirá gastarse más dinero y que su dispositivo funcione independientemente de si la empresa quiebra y así poder disfrutar plenamente de su dispositivo.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Empresas que se dediquen a dar servicio de mantenimiento de estos dispositivos
-&lt;ul>
-&lt;li>&lt;em>No suele ser económicamente viable&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul></description></item><item><title>Redes sociales y sociedad</title><link>https://blog.barrera.dev/posts/social-networks-and-society/</link><pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/social-networks-and-society/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/social-networks-and-society.jpg"/>
-&lt;p>&lt;a href="https://www.bbc.com/mundo/noticias-48558989">Las redes sociales están con nosotros desde hace ya mas de &lt;strong>dos décadas&lt;/strong>&lt;/a>. Sin embargo, se está brindando poca educación a nuestros jóvenes para hacer un uso responsable de las mismas.
-No es solo un &lt;em>¿potencial?&lt;/em> problema de la gente joven; la población adulta se enfrentará a un cambio de trabajo, a solicitar una hipoteca o un préstamo en una entidad bancaria, o a pedir una beca para sus hijos&amp;hellip; todo esto puede verse afectado por el empleo de las redes sociales.&lt;/p>
-&lt;p>Y es que &lt;strong>no somos conscientes&lt;/strong> de la cantidad de información que estamos enviando, &lt;em>más allá de una foto que puede resultar inocente&lt;/em>, a una red social que a priori no debería de compartir esta información fuera de la plataforma &lt;a href="https://www.ambito.com/informacion-general/twitter/cada-vez-son-mas-los-gobiernos-que-piden-datos-sus-usuarios-n5500553">¿Verdad?&lt;/a>&lt;/p>
-&lt;h4 id="qué-publicamos-en-las-redes-sociales">
+al chatarrero.&lt;/p&gt;
+&lt;p&gt;Preveo las siguientes situaciones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Legislar para evitar estas situaciones. Tiene lagunas:
+&lt;ul&gt;
+&lt;li&gt;¿Cómo se puede obligar a una empresa fuera de la unión europea a dar un servicio durante la vida útil de un dispositivo?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vuelta a los dispositivos no inteligentes.
+&lt;ul&gt;
+&lt;li&gt;El consumidor preferirá gastarse más dinero y que su dispositivo funcione independientemente de si la empresa quiebra y así poder disfrutar plenamente de su dispositivo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Empresas que se dediquen a dar servicio de mantenimiento de estos dispositivos
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;No suele ser económicamente viable&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Redes sociales y sociedad</title><link>https://blog.barrera.dev/posts/social-networks-and-society/</link><pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/social-networks-and-society/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/social-networks-and-society.jpg"/&gt;
+&lt;p&gt;&lt;a href="https://www.bbc.com/mundo/noticias-48558989"&gt;Las redes sociales están con nosotros desde hace ya mas de &lt;strong&gt;dos décadas&lt;/strong&gt;&lt;/a&gt;. Sin embargo, se está brindando poca educación a nuestros jóvenes para hacer un uso responsable de las mismas.
+No es solo un &lt;em&gt;¿potencial?&lt;/em&gt; problema de la gente joven; la población adulta se enfrentará a un cambio de trabajo, a solicitar una hipoteca o un préstamo en una entidad bancaria, o a pedir una beca para sus hijos&amp;hellip; todo esto puede verse afectado por el empleo de las redes sociales.&lt;/p&gt;
+&lt;p&gt;Y es que &lt;strong&gt;no somos conscientes&lt;/strong&gt; de la cantidad de información que estamos enviando, &lt;em&gt;más allá de una foto que puede resultar inocente&lt;/em&gt;, a una red social que a priori no debería de compartir esta información fuera de la plataforma &lt;a href="https://www.ambito.com/informacion-general/twitter/cada-vez-son-mas-los-gobiernos-que-piden-datos-sus-usuarios-n5500553"&gt;¿Verdad?&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id="qué-publicamos-en-las-redes-sociales"&gt;
 ¿Qué publicamos en las redes sociales?
-&lt;a href="#qu%c3%a9-publicamos-en-las-redes-sociales" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Cuando publicamos en Instagram, Twitter o Facebook, no solo estamos publicando la información que pretendemos compartir, sino que también estamos regalando información relevante, como por ejemplo: días que sueles publicar fotos, hábitos/patrones de vida, ubicaciones frecuentes, ¿Estás trabajando?&amp;hellip; incluso información de tus relaciones personales, sentimentales o laborales.&lt;/p>
-&lt;p>&lt;a href="https://www.lavanguardia.com/cribeo/viral/20221119/8606573/solucion-viral-definitiva-visitas-quitan-zapatos-entrar-casa-mmn.html">Ya no es solo el meme en el que subes una foto y sales en la casa de tu amigo o amiga&lt;/a>&amp;hellip; hoy tu jefe puede ver si has subido una foto cerca de la oficina de un competidor.&lt;/p>
-&lt;blockquote>
-&lt;p>Es un tema que no tiene fácil solución porque, al fin y al cabo, el humano es un animal social y como tal, busca aceptación por parte de la sociedad. Compartir sus experiencias, sus pensamientos, sus sentimientos en las redes sociales parece ser la forma más rápida de conseguir esta aceptación.&lt;/p>
-&lt;/blockquote>
-&lt;h4 id="black-mirror-distopía-o-realidad">
+&lt;a href="#qu%c3%a9-publicamos-en-las-redes-sociales" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Cuando publicamos en Instagram, Twitter o Facebook, no solo estamos publicando la información que pretendemos compartir, sino que también estamos regalando información relevante, como por ejemplo: días que sueles publicar fotos, hábitos/patrones de vida, ubicaciones frecuentes, ¿Estás trabajando?&amp;hellip; incluso información de tus relaciones personales, sentimentales o laborales.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.lavanguardia.com/cribeo/viral/20221119/8606573/solucion-viral-definitiva-visitas-quitan-zapatos-entrar-casa-mmn.html"&gt;Ya no es solo el meme en el que subes una foto y sales en la casa de tu amigo o amiga&lt;/a&gt;&amp;hellip; hoy tu jefe puede ver si has subido una foto cerca de la oficina de un competidor.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Es un tema que no tiene fácil solución porque, al fin y al cabo, el humano es un animal social y como tal, busca aceptación por parte de la sociedad. Compartir sus experiencias, sus pensamientos, sus sentimientos en las redes sociales parece ser la forma más rápida de conseguir esta aceptación.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id="black-mirror-distopía-o-realidad"&gt;
 Black Mirror, ¿Distopía o realidad?
-&lt;a href="#black-mirror-distop%c3%ada-o-realidad" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Fue en &lt;a href="https://trakt.tv/shows/black-mirror/seasons/3/episodes/1">Black mirror&lt;/a>, la famosa serie de Netflix, donde se dejó ver una de las visiones en las que las redes sociales cobran un protagonismo realmente peligroso; expone un sistema de votación donde la gente califica tu persona y podría dejarte excluido de la sociedad si no recibes suficientes votos positivos.&lt;/p>
-&lt;p>Por otro lado, si no eres parte de estas redes sociales, no subes contenido o no compartes tus fotos de Navidad, vacaciones o de tus viajes&amp;hellip; parece que no haces nada en tu vida. ¿Qué pasa con las personas que no quieren compartir, o no saben, o no les interesa compartir su vida en las redes sociales?&lt;/p>
-&lt;p>&lt;strong>¿Podría llegar el día en el que una persona humilde, trabajadora, con ingresos demostrables, solvente, pero que no sube ningún tipo de contenido a ninguna red social, se le denegase un préstamo por no tener un mínimo de reputación en redes sociales?&lt;/strong>&lt;/p>
-&lt;p>O incluso viajando&amp;hellip; en las fronteras. Si el policía/guardia en la frontera no puede verificar tu persona, ya que no tienes presencia en redes sociales&amp;hellip; ¿Te dejaría entrar en el país? ¿Como se tratará la ausencia de información?&lt;/p>
-&lt;blockquote>
-&lt;p>La información es poder, todo el mundo lo sabe, por tanto, puedo prever ciertos problemas socio/burocráticos con personas ajenas a redes sociales que tendremos que resolver como sociedad.&lt;/p>
-&lt;/blockquote>
-&lt;p>¿Tendrán que aprender a compartir información sobre su vida en redes sociales para poder viajar? Y si es así&amp;hellip; ¿De dónde sacarán la información? ¿Cuál será su fuente oficial de información? Si hicieran consultas a plataformas como Meta, Facebook, Instagram, Twitter, Linkedin etcétera&amp;hellip; ¿Cómo podrán verificar que esos datos no han sido alterados por las propias empresas o si has sido hackeado &lt;em>(&lt;a href="https://www.xataka.com/aplicaciones/inicio-declive-anunciado-facebook-pierde-usuarios-primera-vez-su-historia">¿Quién usa Facebook a día de hoy?&lt;/a>)&lt;/em> y han publicado contenido que no es legítimo?&lt;/p>
-&lt;p>&lt;strong>No es una distopía&lt;/strong>, es una realidad que está a la vuelta de la esquina.&lt;/p></description></item><item><title>Despidos en Meta</title><link>https://blog.barrera.dev/posts/meta-layoffs/</link><pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/meta-layoffs/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/meta-layoffs.jpg"/>
-&lt;p>Hoy se ha conocido uno de los &lt;a href="https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/">mayores despidos en la historia de la tecnología&lt;/a>; en este caso el afortunado, por llamarlo de alguna forma, ha sido &lt;a href="https://about.meta.com/es/meta/">meta&lt;/a>, comúnmente conocido como: &lt;strong>Facebook&lt;/strong>.&lt;/p>
-&lt;p>Es una noticia realmente dura, son más de once mil empleados, o lo que es lo mismo, casi &lt;strong>once mil familias&lt;/strong> en todo el mundo. En las últimas semanas, hemos visto otros despidos en Stripe, Uber, Twitter&amp;hellip;
-&lt;em>&lt;a href="https://layoffs.fyi/">fuente&lt;/a>&lt;/em>.&lt;/p>
-&lt;p>Los motivos de estos despidos vienen motivados por la época &lt;em>¿post-pandémica?&lt;/em>. Recordemos que durante la pandemia, estos servicios &lt;em>(Twitter, Facebook, Instagram, Whatsapp, Twitch&amp;hellip;)&lt;/em> ganaron muchos clientes y relevancia al ser uno de los pocos entretenimientos que teníamos durante los confinamientos.&lt;/p>
-&lt;p>Además nos enfrentamos a lo que posiblemente sea la tercera guerra mundial &lt;em>(iniciada desde Rusia&amp;hellip;)&lt;/em>, crisis de semiconductores, oligopolio en la fabricación de microchips &lt;em>(liderada por TSMC)&lt;/em>, el cambio climático y políticas extremistas &lt;em>(Italia)&lt;/em>.&lt;/p>
-&lt;p>Todos los que trabajamos, de alguna u otra forma, en el mundo de la tecnología nos preguntamos si estamos a salvo de estos despidos. También nos preguntamos si es particular de las grandes empresas tecnológicas.&lt;/p>
-&lt;p>&lt;em>¿Existirá sobredimensionamiento de empleados en estas empresas tecnológicas?&lt;/em>&lt;/p>
-&lt;blockquote>
-&lt;p>Dado que este es mi primer post me gustaría aclarar que todo lo aquí expuesto son solo opiniones personales; para nada soy un investigador o un periodista. Simplemente, doy la visión de un &lt;em>(no)&lt;/em>-ingeniero que trabaja en este mundillo.&lt;/p>
-&lt;/blockquote>
-&lt;h4 id="esto-quiere-decir-o-significa-que-ha-explotado-una-burbuja-tecnológica-que-muchos-creen-que-existe">
+&lt;a href="#black-mirror-distop%c3%ada-o-realidad" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Fue en &lt;a href="https://trakt.tv/shows/black-mirror/seasons/3/episodes/1"&gt;Black mirror&lt;/a&gt;, la famosa serie de Netflix, donde se dejó ver una de las visiones en las que las redes sociales cobran un protagonismo realmente peligroso; expone un sistema de votación donde la gente califica tu persona y podría dejarte excluido de la sociedad si no recibes suficientes votos positivos.&lt;/p&gt;
+&lt;p&gt;Por otro lado, si no eres parte de estas redes sociales, no subes contenido o no compartes tus fotos de Navidad, vacaciones o de tus viajes&amp;hellip; parece que no haces nada en tu vida. ¿Qué pasa con las personas que no quieren compartir, o no saben, o no les interesa compartir su vida en las redes sociales?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¿Podría llegar el día en el que una persona humilde, trabajadora, con ingresos demostrables, solvente, pero que no sube ningún tipo de contenido a ninguna red social, se le denegase un préstamo por no tener un mínimo de reputación en redes sociales?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O incluso viajando&amp;hellip; en las fronteras. Si el policía/guardia en la frontera no puede verificar tu persona, ya que no tienes presencia en redes sociales&amp;hellip; ¿Te dejaría entrar en el país? ¿Como se tratará la ausencia de información?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La información es poder, todo el mundo lo sabe, por tanto, puedo prever ciertos problemas socio/burocráticos con personas ajenas a redes sociales que tendremos que resolver como sociedad.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;¿Tendrán que aprender a compartir información sobre su vida en redes sociales para poder viajar? Y si es así&amp;hellip; ¿De dónde sacarán la información? ¿Cuál será su fuente oficial de información? Si hicieran consultas a plataformas como Meta, Facebook, Instagram, Twitter, Linkedin etcétera&amp;hellip; ¿Cómo podrán verificar que esos datos no han sido alterados por las propias empresas o si has sido hackeado &lt;em&gt;(&lt;a href="https://www.xataka.com/aplicaciones/inicio-declive-anunciado-facebook-pierde-usuarios-primera-vez-su-historia"&gt;¿Quién usa Facebook a día de hoy?&lt;/a&gt;)&lt;/em&gt; y han publicado contenido que no es legítimo?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No es una distopía&lt;/strong&gt;, es una realidad que está a la vuelta de la esquina.&lt;/p&gt;</description></item><item><title>Despidos en Meta</title><link>https://blog.barrera.dev/posts/meta-layoffs/</link><pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/meta-layoffs/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/meta-layoffs.jpg"/&gt;
+&lt;p&gt;Hoy se ha conocido uno de los &lt;a href="https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/"&gt;mayores despidos en la historia de la tecnología&lt;/a&gt;; en este caso el afortunado, por llamarlo de alguna forma, ha sido &lt;a href="https://about.meta.com/es/meta/"&gt;meta&lt;/a&gt;, comúnmente conocido como: &lt;strong&gt;Facebook&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Es una noticia realmente dura, son más de once mil empleados, o lo que es lo mismo, casi &lt;strong&gt;once mil familias&lt;/strong&gt; en todo el mundo. En las últimas semanas, hemos visto otros despidos en Stripe, Uber, Twitter&amp;hellip;
+&lt;em&gt;&lt;a href="https://layoffs.fyi/"&gt;fuente&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Los motivos de estos despidos vienen motivados por la época &lt;em&gt;¿post-pandémica?&lt;/em&gt;. Recordemos que durante la pandemia, estos servicios &lt;em&gt;(Twitter, Facebook, Instagram, Whatsapp, Twitch&amp;hellip;)&lt;/em&gt; ganaron muchos clientes y relevancia al ser uno de los pocos entretenimientos que teníamos durante los confinamientos.&lt;/p&gt;
+&lt;p&gt;Además nos enfrentamos a lo que posiblemente sea la tercera guerra mundial &lt;em&gt;(iniciada desde Rusia&amp;hellip;)&lt;/em&gt;, crisis de semiconductores, oligopolio en la fabricación de microchips &lt;em&gt;(liderada por TSMC)&lt;/em&gt;, el cambio climático y políticas extremistas &lt;em&gt;(Italia)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Todos los que trabajamos, de alguna u otra forma, en el mundo de la tecnología nos preguntamos si estamos a salvo de estos despidos. También nos preguntamos si es particular de las grandes empresas tecnológicas.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;¿Existirá sobredimensionamiento de empleados en estas empresas tecnológicas?&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dado que este es mi primer post me gustaría aclarar que todo lo aquí expuesto son solo opiniones personales; para nada soy un investigador o un periodista. Simplemente, doy la visión de un &lt;em&gt;(no)&lt;/em&gt;-ingeniero que trabaja en este mundillo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id="esto-quiere-decir-o-significa-que-ha-explotado-una-burbuja-tecnológica-que-muchos-creen-que-existe"&gt;
 ¿Esto quiere decir o significa que ha explotado una burbuja tecnológica que muchos creen que existe?
-&lt;a href="#esto-quiere-decir-o-significa-que-ha-explotado-una-burbuja-tecnol%c3%b3gica-que-muchos-creen-que-existe" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Diría que &lt;strong>no&lt;/strong>. Si miras a tu alrededor, absolutamente todo está basado en tecnología; desde tu lavadora, tu teléfono, tu televisor, tu altavoz inteligente&amp;hellip; todo tiene un microprocesador con un software que hay que mantener; tanto el software que lleva embebido como los servicios que están detrás. Por lo tanto, no creo que estemos en una burbuja tecnológica, sino más bien una contingencia global muy compleja.&lt;/p>
-&lt;p>Solo queda esperar para conocer cuál será la próxima empresa en tener despidos &amp;ldquo;masivos&amp;rdquo;.&lt;/p></description></item><item><title/><link>https://blog.barrera.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/about/</guid><description>
-&lt;h2 id="-hola-mundo">
+&lt;a href="#esto-quiere-decir-o-significa-que-ha-explotado-una-burbuja-tecnol%c3%b3gica-que-muchos-creen-que-existe" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Diría que &lt;strong&gt;no&lt;/strong&gt;. Si miras a tu alrededor, absolutamente todo está basado en tecnología; desde tu lavadora, tu teléfono, tu televisor, tu altavoz inteligente&amp;hellip; todo tiene un microprocesador con un software que hay que mantener; tanto el software que lleva embebido como los servicios que están detrás. Por lo tanto, no creo que estemos en una burbuja tecnológica, sino más bien una contingencia global muy compleja.&lt;/p&gt;
+&lt;p&gt;Solo queda esperar para conocer cuál será la próxima empresa en tener despidos &amp;ldquo;masivos&amp;rdquo;.&lt;/p&gt;</description></item><item><title/><link>https://blog.barrera.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/about/</guid><description>
+&lt;h2 id="-hola-mundo"&gt;
 &amp;gt; Hola Mundo,
-&lt;a href="#-hola-mundo" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h2>
-&lt;p>Después de diez años trabajando en el sector tecnológico, he conseguido fuerza para escribir en un blog.
-En realidad no estoy escribiendo, sino dictando &lt;em>(esto no evita que termine editando el texto y publicando el resultado)&lt;/em>.&lt;/p>
-&lt;p>En este blog no vas a encontrar ni investigaciones, ni artículos periodísticos; tan solo quiero
-compartir con ¿el mundo? Opiniones y experiencias personales y ser un reflejo de lo que puedan entender, compartir, sentir y vivir gente que trabaja &lt;em>(o no)&lt;/em> en el mundo tecnológico.&lt;/p>
-&lt;h3 id="la-razón">
+&lt;a href="#-hola-mundo" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Después de diez años trabajando en el sector tecnológico, he conseguido fuerza para escribir en un blog.
+En realidad no estoy escribiendo, sino dictando &lt;em&gt;(esto no evita que termine editando el texto y publicando el resultado)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;En este blog no vas a encontrar ni investigaciones, ni artículos periodísticos; tan solo quiero
+compartir con ¿el mundo? Opiniones y experiencias personales y ser un reflejo de lo que puedan entender, compartir, sentir y vivir gente que trabaja &lt;em&gt;(o no)&lt;/em&gt; en el mundo tecnológico.&lt;/p&gt;
+&lt;h3 id="la-razón"&gt;
 La razón
-&lt;a href="#la-raz%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h3>
-&lt;p>La principal motivación para escribir es la de guardar un recuerdo de lo que estoy viviendo, lo que he aprendido y de como mi persona va evolucionando a lo largo de los siguientes años. Algo así como un diario, sin que sea realmente un diario.&lt;/p>
-&lt;h3 id="quién-soy">
+&lt;a href="#la-raz%c3%b3n" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;La principal motivación para escribir es la de guardar un recuerdo de lo que estoy viviendo, lo que he aprendido y de como mi persona va evolucionando a lo largo de los siguientes años. Algo así como un diario, sin que sea realmente un diario.&lt;/p&gt;
+&lt;h3 id="quién-soy"&gt;
 ¿Quién soy?
-&lt;a href="#qui%c3%a9n-soy" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h3>
-&lt;p>Nadie, quiero decir, nadie que sobresalga, ni por una cosa ni por otra. Te recomiendo no hacerme mucho caso.&lt;/p>
-&lt;h3 id="contacto">
+&lt;a href="#qui%c3%a9n-soy" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Nadie, quiero decir, nadie que sobresalga, ni por una cosa ni por otra. Te recomiendo no hacerme mucho caso.&lt;/p&gt;
+&lt;h3 id="contacto"&gt;
 Contacto
-&lt;a href="#contacto" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h3>
-&lt;p>Si quieres contactar conmigo, puedes hacerlo a través del siguiente formulario de contacto.&lt;/p>
-&lt;div class="container">
-&lt;form action="https://getform.io/f/77b72e9e-22aa-4661-9ada-b1e3dc255c6a" method="POST">
-&lt;div class="container">
-&lt;input type="text" id="name" name="name" placeholder="Name" required>
-&lt;/div>
-&lt;div class="container">
-&lt;input type="email" id="email" name="email" placeholder="Email" required>
-&lt;/div>
-&lt;div class="container">
-&lt;input type="text" id="subject" name="subject" placeholder="Subject" required>
-&lt;/div>
-&lt;div class="container">
-&lt;textarea id="message" name="message" rows="3" placeholder="Message" required>&lt;/textarea>
-&lt;/div>
-&lt;br />
-&lt;div class="container">
-&lt;button type="submit">Send&lt;/button>
-&lt;/div>
-&lt;/form>
-&lt;/div></description></item></channel></rss>
+&lt;a href="#contacto" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Si quieres contactar conmigo, puedes hacerlo a través del siguiente formulario de contacto.&lt;/p&gt;
+&lt;div class="contact-form-wrapper"&gt;
+&lt;form class="contact-form" action="https://formsubmit.co/angelbarrerasanchez&amp;#43;blog@gmail.com" method="POST"&gt;
+&lt;input type="hidden" name="_subject" value="Nuevo contacto desde el blog"&gt;
+&lt;input type="hidden" name="_captcha" value="false"&gt;
+&lt;div class="contact-grid"&gt;
+&lt;div class="contact-field"&gt;
+&lt;label for="name"&gt;Nombre&lt;/label&gt;
+&lt;input type="text" id="name" name="name" placeholder="Tu nombre" autocomplete="name" required&gt;
+&lt;/div&gt;
+&lt;div class="contact-field"&gt;
+&lt;label for="email"&gt;Correo electrónico&lt;/label&gt;
+&lt;input type="email" id="email" name="email" placeholder="tu@correo.com" autocomplete="email" required&gt;
+&lt;/div&gt;
+&lt;div class="contact-field contact-field-full"&gt;
+&lt;label for="subject"&gt;Asunto&lt;/label&gt;
+&lt;input type="text" id="subject" name="subject" placeholder="¿De qué se trata?" required&gt;
+&lt;/div&gt;
+&lt;div class="contact-field contact-field-full"&gt;
+&lt;label for="message"&gt;Mensaje&lt;/label&gt;
+&lt;textarea id="message" name="message" rows="5" placeholder="Cuéntame más..." required&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="contact-actions"&gt;
+&lt;button class="contact-submit" type="submit"&gt;Enviar mensaje&lt;/button&gt;
+&lt;/div&gt;
+&lt;/form&gt;
+&lt;/div&gt;</description></item></channel></rss>

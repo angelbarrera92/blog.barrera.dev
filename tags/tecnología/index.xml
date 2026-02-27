@@ -1,205 +1,205 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tecnología on Barrera.dev Blog</title><link>https://blog.barrera.dev/tags/tecnolog%C3%ADa/</link><description>Recent content in Tecnología on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>&lt;p>© 2024, Ángel Barrera&lt;/p>&lt;p>&lt;a href="https://github.com/angelbarrera92">&lt;i class="fa-brands fa-github">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://twitter/angelbarrera92">&lt;i class="fa-brands fa-x">&lt;/i>&lt;/a>&lt;/p>|&lt;p>&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/">&lt;i class="fa-brands fa-linkedin">&lt;/i>&lt;/a>&lt;/p></copyright><lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml"/><item><title>IDP en la empresa</title><link>https://blog.barrera.dev/posts/idp-in-the-enterprise/</link><pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/idp-in-the-enterprise/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/idp-in-the-enterprise.jpg"/>
-&lt;p>Hace unas semanas, dediqué algún tiempo a entender cómo se podía implantar un IDP en la empresa. Encontré algunos artículos y vídeos útiles, pero aún me quedaban algunas preguntas sin resolver. En particular, quería saber &lt;strong>cómo debe implantarse un IDP en un entorno político y lleno de silos&lt;/strong>. También quería saber cómo hacer frente a la inevitable resistencia al cambio de los distintos departamentos.&lt;/p>
-&lt;blockquote>
-&lt;p>IDP significa &lt;strong>Plataforma de Desarrollo Interno&lt;/strong>.&lt;/p>
-&lt;/blockquote>
-&lt;p>&lt;a href="https://github.com/angelbarrera92/idp-enterprise-research/blob/main/outcome.md">Aquí encontrarás el enfoque optimista de cómo implantar un IDP&lt;/a>, por desgracia, supone que la organización está bien estructurada y que &lt;strong>las personas están dispuestas a cambiar&lt;/strong>, incluidos los mandos intermedios, los directores y los equipos de desarrollo.&lt;/p>
-&lt;p>Desgraciadamente, este no es el caso en la mayoría de las organizaciones. La realidad es que &lt;strong>la mayoría de las organizaciones están compartimentadas y son políticas&lt;/strong>, y la gente no está dispuesta a cambiar, peor aún en tiempos de crisis económica. Por eso decidí escribir este artículo, para compartir mi punto de vista después de hablar con algunas personas del sector en la misma situación.&lt;/p>
-&lt;h4 id="la-situación">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tecnología on Barrera.dev Blog</title><link>https://blog.barrera.dev/tags/tecnolog%C3%ADa/</link><description>Recent content in Tecnología on Barrera.dev Blog</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>&lt;p&gt;© 2026, Ángel Barrera&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-github"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://x.com/angelbarrera92"&gt;&lt;i class="fa-brands fa-x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;|&lt;p&gt;&lt;a href="https://www.linkedin.com/in/angelbarrerasanchez/"&gt;&lt;i class="fa-brands fa-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</copyright><lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.barrera.dev/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml"/><item><title>IDP en la empresa</title><link>https://blog.barrera.dev/posts/idp-in-the-enterprise/</link><pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/idp-in-the-enterprise/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/idp-in-the-enterprise.jpg"/&gt;
+&lt;p&gt;Hace unas semanas, dediqué algún tiempo a entender cómo se podía implantar un IDP en la empresa. Encontré algunos artículos y vídeos útiles, pero aún me quedaban algunas preguntas sin resolver. En particular, quería saber &lt;strong&gt;cómo debe implantarse un IDP en un entorno político y lleno de silos&lt;/strong&gt;. También quería saber cómo hacer frente a la inevitable resistencia al cambio de los distintos departamentos.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;IDP significa &lt;strong&gt;Plataforma de Desarrollo Interno&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="https://github.com/angelbarrera92/idp-enterprise-research/blob/main/outcome.md"&gt;Aquí encontrarás el enfoque optimista de cómo implantar un IDP&lt;/a&gt;, por desgracia, supone que la organización está bien estructurada y que &lt;strong&gt;las personas están dispuestas a cambiar&lt;/strong&gt;, incluidos los mandos intermedios, los directores y los equipos de desarrollo.&lt;/p&gt;
+&lt;p&gt;Desgraciadamente, este no es el caso en la mayoría de las organizaciones. La realidad es que &lt;strong&gt;la mayoría de las organizaciones están compartimentadas y son políticas&lt;/strong&gt;, y la gente no está dispuesta a cambiar, peor aún en tiempos de crisis económica. Por eso decidí escribir este artículo, para compartir mi punto de vista después de hablar con algunas personas del sector en la misma situación.&lt;/p&gt;
+&lt;h4 id="la-situación"&gt;
 La situación
-&lt;a href="#la-situaci%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Es casi &lt;em>2023&lt;/em>, y todas las industrias están digitalizadas, desde la venta al por menor a los bancos, comercios, y gobiernos por lo que es un hecho que &lt;strong>necesitamos ingenieros para dirigir una sociedad moderna.&lt;/strong>&lt;/p>
-&lt;p>La mayoría de estas empresas &lt;em>tienen éxito&lt;/em> en la adopción de la nube. Algunas de ellas están &lt;a href="https://www.channelpronetwork.com/article/return-prem">volviendo a on-prem&lt;/a>, pero ese es un tema que me gustaría tratar en otro post.&lt;/p>
-&lt;p>Las empresas pasaron de &lt;em>on-premises&lt;/em> al &lt;em>cloud&lt;/em>. Algunas de ellas intentaron seguir los mismos procedimientos y procesos que seguían antes en sus centros de datos. Eso no funcionó, los ingenieros tenían dificultades para desarrollar e implementar los proyectos para los que estaban contratados, lo que provocó que los directivos y mandos intermedios no vieran ninguna mejora al pasar a la nube.&lt;/p>
-&lt;p>Llegados a este punto, tenían dos opciones:&lt;/p>
-&lt;ul>
-&lt;li>Seguir operando como lo estaban haciendo asumiendo que la nube no les iba a proporcionar mayores beneficios.&lt;/li>
-&lt;li>Cambiar la forma de trabajar adoptando la flexibilidad de la nube.&lt;/li>
-&lt;/ul>
-&lt;p>Aquellas empresas que adoptaron el segundo punto, tuvieron que sustituir ciertos roles y procesos en la empresa.
-Esto podría conllevar cambios significativos en la estructura de gestión de la empresa:&lt;/p>
-&lt;ul>
-&lt;li>¿Quién gestiona el acceso a la nube?&lt;/li>
-&lt;li>¿Quién se ocupa de las cuentas en la nube?&lt;/li>
-&lt;li>¿Pueden los empleados utilizar cualquier servicio en la nube?&lt;/li>
-&lt;li>¿Quién se encarga de gestionar el cortafuegos de las instancias en la nube?&lt;/li>
-&lt;li>¿Y la facturación?&lt;/li>
-&lt;/ul>
-&lt;p>Como puedes imaginar, esto ha causado muchas dificultades a las empresas. Estos cambios &lt;em>sólo&lt;/em> afectan a algunos departamentos de TI que adoptan procesos de automatización y prestan servicios a los desarrolladores.&lt;/p>
-&lt;h5 id="desarrolladores">
+&lt;a href="#la-situaci%c3%b3n" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Es casi &lt;em&gt;2023&lt;/em&gt;, y todas las industrias están digitalizadas, desde la venta al por menor a los bancos, comercios, y gobiernos por lo que es un hecho que &lt;strong&gt;necesitamos ingenieros para dirigir una sociedad moderna.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La mayoría de estas empresas &lt;em&gt;tienen éxito&lt;/em&gt; en la adopción de la nube. Algunas de ellas están &lt;a href="https://www.channelpronetwork.com/article/return-prem"&gt;volviendo a on-prem&lt;/a&gt;, pero ese es un tema que me gustaría tratar en otro post.&lt;/p&gt;
+&lt;p&gt;Las empresas pasaron de &lt;em&gt;on-premises&lt;/em&gt; al &lt;em&gt;cloud&lt;/em&gt;. Algunas de ellas intentaron seguir los mismos procedimientos y procesos que seguían antes en sus centros de datos. Eso no funcionó, los ingenieros tenían dificultades para desarrollar e implementar los proyectos para los que estaban contratados, lo que provocó que los directivos y mandos intermedios no vieran ninguna mejora al pasar a la nube.&lt;/p&gt;
+&lt;p&gt;Llegados a este punto, tenían dos opciones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Seguir operando como lo estaban haciendo asumiendo que la nube no les iba a proporcionar mayores beneficios.&lt;/li&gt;
+&lt;li&gt;Cambiar la forma de trabajar adoptando la flexibilidad de la nube.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aquellas empresas que adoptaron el segundo punto, tuvieron que sustituir ciertos roles y procesos en la empresa.
+Esto podría conllevar cambios significativos en la estructura de gestión de la empresa:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Quién gestiona el acceso a la nube?&lt;/li&gt;
+&lt;li&gt;¿Quién se ocupa de las cuentas en la nube?&lt;/li&gt;
+&lt;li&gt;¿Pueden los empleados utilizar cualquier servicio en la nube?&lt;/li&gt;
+&lt;li&gt;¿Quién se encarga de gestionar el cortafuegos de las instancias en la nube?&lt;/li&gt;
+&lt;li&gt;¿Y la facturación?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Como puedes imaginar, esto ha causado muchas dificultades a las empresas. Estos cambios &lt;em&gt;sólo&lt;/em&gt; afectan a algunos departamentos de TI que adoptan procesos de automatización y prestan servicios a los desarrolladores.&lt;/p&gt;
+&lt;h5 id="desarrolladores"&gt;
 Desarrolladores
-&lt;a href="#desarrolladores" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h5>
-&lt;p>Los desarrolladores, &lt;em>en su día&lt;/em>, se centraban en desarrollar los requisitos del negocio. Luego, empujan el código a otro lugar, &lt;strong>trabajo hecho&lt;/strong>.&lt;/p>
-&lt;p>Todos estamos de acuerdo en que &lt;strong>eso no es suficiente&lt;/strong>. Desafortunadamente, &lt;strong>no hay consenso sobre lo que es suficiente&lt;/strong> para un desarrollador.&lt;/p>
-&lt;ul>
-&lt;li>¿Debe un desarrollador ocuparse de un pipeline?&lt;/li>
-&lt;li>¿Es consciente el desarrollador de los pasos que debe seguir el pipeline?&lt;/li>
-&lt;li>¿Debe el desarrollador ser consciente de la seguridad del &lt;em>pipeline/código/infraestructura/datos&lt;/em>?&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Los desarrolladores quieren centrarse en escribir código y ofrecer valor de negocio&lt;/strong>, en lugar de preocuparse por la infraestructura y el despliegue.&lt;/p>
-&lt;p>Es casi 2023, &lt;em>en la nube&lt;/em>, con &lt;em>contenedores&lt;/em>, con &lt;em>APIs&lt;/em>, con &lt;em>vulnerabilidades&lt;/em>, &lt;em>contratistas&lt;/em>, &lt;em>equipos de desarrollo internos&lt;/em>, y la &lt;em>CNCF&lt;/em>.&lt;/p>
-&lt;h5 id="cncf">
+&lt;a href="#desarrolladores" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;Los desarrolladores, &lt;em&gt;en su día&lt;/em&gt;, se centraban en desarrollar los requisitos del negocio. Luego, empujan el código a otro lugar, &lt;strong&gt;trabajo hecho&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Todos estamos de acuerdo en que &lt;strong&gt;eso no es suficiente&lt;/strong&gt;. Desafortunadamente, &lt;strong&gt;no hay consenso sobre lo que es suficiente&lt;/strong&gt; para un desarrollador.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Debe un desarrollador ocuparse de un pipeline?&lt;/li&gt;
+&lt;li&gt;¿Es consciente el desarrollador de los pasos que debe seguir el pipeline?&lt;/li&gt;
+&lt;li&gt;¿Debe el desarrollador ser consciente de la seguridad del &lt;em&gt;pipeline/código/infraestructura/datos&lt;/em&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Los desarrolladores quieren centrarse en escribir código y ofrecer valor de negocio&lt;/strong&gt;, en lugar de preocuparse por la infraestructura y el despliegue.&lt;/p&gt;
+&lt;p&gt;Es casi 2023, &lt;em&gt;en la nube&lt;/em&gt;, con &lt;em&gt;contenedores&lt;/em&gt;, con &lt;em&gt;APIs&lt;/em&gt;, con &lt;em&gt;vulnerabilidades&lt;/em&gt;, &lt;em&gt;contratistas&lt;/em&gt;, &lt;em&gt;equipos de desarrollo internos&lt;/em&gt;, y la &lt;em&gt;CNCF&lt;/em&gt;.&lt;/p&gt;
+&lt;h5 id="cncf"&gt;
 CNCF
-&lt;a href="#cncf" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h5>
-&lt;p>Nos trajo muchas herramientas y mucha confusión. Quiero decir, &lt;em>Kubernetes&lt;/em>, &lt;em>Prometheus&lt;/em>, &lt;em>linkerd&lt;/em>, y otros proyectos son &lt;strong>maravillosos&lt;/strong>. Desafortunadamente, cada proyecto alojado en el CNCF es una pieza de software que no hace nada por sí sola. Así que, &lt;strong>necesitas entender cómo usarlos, y necesitas saber cómo integrarlos.&lt;/strong>&lt;/p>
-&lt;p>Esto no es fácil, &lt;strong>¿Es algo de lo que debe ocuparse el desarrollador?&lt;/strong>.&lt;/p>
-&lt;p>La CNCF es la principal razón por la que las empresas invierten hoy en equipos de plataforma.&lt;/p>
-&lt;h4 id="consecuencias">
+&lt;a href="#cncf" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;Nos trajo muchas herramientas y mucha confusión. Quiero decir, &lt;em&gt;Kubernetes&lt;/em&gt;, &lt;em&gt;Prometheus&lt;/em&gt;, &lt;em&gt;linkerd&lt;/em&gt;, y otros proyectos son &lt;strong&gt;maravillosos&lt;/strong&gt;. Desafortunadamente, cada proyecto alojado en el CNCF es una pieza de software que no hace nada por sí sola. Así que, &lt;strong&gt;necesitas entender cómo usarlos, y necesitas saber cómo integrarlos.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Esto no es fácil, &lt;strong&gt;¿Es algo de lo que debe ocuparse el desarrollador?&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;La CNCF es la principal razón por la que las empresas invierten hoy en equipos de plataforma.&lt;/p&gt;
+&lt;h4 id="consecuencias"&gt;
 Consecuencias
-&lt;a href="#consecuencias" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>La incorporación a la empresa/proyecto es un coñazo, tanto para el empleado como para el empresario:&lt;/p>
-&lt;ul>
-&lt;li>El empleado tiene que entender un montón de tecnologías diferentes y cómo se han implementado en la empresa/proyecto.&lt;/li>
-&lt;li>Para el empleador, intentar encontrar un buen ingeniero en el mercado actual es una quimera. Tendrías que pagarles mucho ya que exiges del ingeniero muchos conocimientos. Sin olvidar que estamos en plena crisis económica.&lt;/li>
-&lt;/ul>
-&lt;p>No olvides el offboarding. &lt;strong>Los ingenieros quieren ser ingenieros, ¿verdad?&lt;/strong> Así que si encuentran mejores oportunidades dentro de la misma empresa o fuera de ella, un ingeniero perseguirá esas oportunidades, por lo que acabarás con proyectos/productos inacabados.&lt;/p>
-&lt;p>Entonces, quita los permisos para ese ingeniero en particular, e &lt;strong>intenta incorporar a un nuevo empleado&lt;/strong> en el proyecto/producto estos días&amp;hellip;&lt;/p>
-&lt;h5 id="microplataformas">
+&lt;a href="#consecuencias" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;La incorporación a la empresa/proyecto es un coñazo, tanto para el empleado como para el empresario:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El empleado tiene que entender un montón de tecnologías diferentes y cómo se han implementado en la empresa/proyecto.&lt;/li&gt;
+&lt;li&gt;Para el empleador, intentar encontrar un buen ingeniero en el mercado actual es una quimera. Tendrías que pagarles mucho ya que exiges del ingeniero muchos conocimientos. Sin olvidar que estamos en plena crisis económica.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No olvides el offboarding. &lt;strong&gt;Los ingenieros quieren ser ingenieros, ¿verdad?&lt;/strong&gt; Así que si encuentran mejores oportunidades dentro de la misma empresa o fuera de ella, un ingeniero perseguirá esas oportunidades, por lo que acabarás con proyectos/productos inacabados.&lt;/p&gt;
+&lt;p&gt;Entonces, quita los permisos para ese ingeniero en particular, e &lt;strong&gt;intenta incorporar a un nuevo empleado&lt;/strong&gt; en el proyecto/producto estos días&amp;hellip;&lt;/p&gt;
+&lt;h5 id="microplataformas"&gt;
 microplataformas
-&lt;a href="#microplataformas" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h5>
-&lt;p>Encontrarás &lt;strong>microplataformas&lt;/strong> en diferentes equipos. &lt;em>¿Qué es esto?&lt;/em>&lt;/p>
-&lt;p>Son frameworks que los desarrolladores avanzados del equipo desarrollan para &lt;strong>estandarizar la forma de trabajar&lt;/strong> de su equipo, ya se están dando cuenta de que hay un problema de estandarización en la empresa en la que están trabajando.&lt;/p>
-&lt;p>&lt;em>¿Cuál es el problema inevitable?&lt;/em>&lt;/p>
-&lt;p>No tienen suficiente contexto para implementar correctamente la &lt;em>(micro)&lt;/em> plataforma, y probablemente podrían estar ligados a ciertos servicios que la empresa podría estar dando &lt;em>(sistema de tickets, alertas, ejecución, métricas&amp;hellip;)&lt;/em> y causará mucha fricción con los equipos de TI &lt;em>(infra, plataforma, nube, seguridad&amp;hellip;.)&lt;/em>.&lt;/p>
-&lt;p>Me parece claro; los equipos están desarrollando su forma de desarrollar. &lt;strong>Entonces significa que hay un requerimiento potencial en la empresa&lt;/strong>, y esto es estandarizar la forma de desarrollar &lt;em>(IDP)&lt;/em>.&lt;/p>
-&lt;h4 id="la-fea-verdad">
+&lt;a href="#microplataformas" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;Encontrarás &lt;strong&gt;microplataformas&lt;/strong&gt; en diferentes equipos. &lt;em&gt;¿Qué es esto?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Son frameworks que los desarrolladores avanzados del equipo desarrollan para &lt;strong&gt;estandarizar la forma de trabajar&lt;/strong&gt; de su equipo, ya se están dando cuenta de que hay un problema de estandarización en la empresa en la que están trabajando.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;¿Cuál es el problema inevitable?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;No tienen suficiente contexto para implementar correctamente la &lt;em&gt;(micro)&lt;/em&gt; plataforma, y probablemente podrían estar ligados a ciertos servicios que la empresa podría estar dando &lt;em&gt;(sistema de tickets, alertas, ejecución, métricas&amp;hellip;)&lt;/em&gt; y causará mucha fricción con los equipos de TI &lt;em&gt;(infra, plataforma, nube, seguridad&amp;hellip;.)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Me parece claro; los equipos están desarrollando su forma de desarrollar. &lt;strong&gt;Entonces significa que hay un requerimiento potencial en la empresa&lt;/strong&gt;, y esto es estandarizar la forma de desarrollar &lt;em&gt;(IDP)&lt;/em&gt;.&lt;/p&gt;
+&lt;h4 id="la-fea-verdad"&gt;
 La fea verdad
-&lt;a href="#la-fea-verdad" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>La razón principal por la que no existe una única plataforma de desarrollo interno no tiene que ver con la tecnología, hay un número ingente de tecnologías listas para integrarse y cubrir la mayoría de los casos de uso que puedes ver en tu empresa.&lt;/p>
-&lt;p>&lt;em>Entonces, ¿cuál es el problema?&lt;/em> &lt;strong>The middle management.&lt;/strong>&lt;/p>
-&lt;p>En una empresa tradicional, verá una estructura organizativa bien definida con múltiples niveles de gestión. Desde el nivel C hasta abajo puedes encontrar 3-4-5 niveles de gestión &lt;em>(incluso más; cuanto más grande sea la empresa, más niveles encontrarás)&lt;/em>.&lt;/p>
-&lt;p>Cada directivo se preocupa por X empleados y/o directivos.
-&lt;strong>Cuantos más informes recibe el directivo, más &amp;ldquo;importante&amp;rdquo; es para la empresa&lt;/strong>, al menos, esto es lo que podemos ver en este tipo de grandes empresas. Además, están acostumbrados a trabajar por proyectos, prestando servicios a distintas áreas. Así que es de esperar que interactúen dentro de las áreas a través de tickets/formularios&amp;hellip;&lt;/p>
-&lt;p>Entonces&amp;hellip; ¿Qué pasaría si alguien intenta implementar un IDP que involucra a muchos departamentos diferentes?&lt;/p>
-&lt;img src="https://blog.barrera.dev/images/IDPCapabilities.png" alt="Capacidades IDP" class="center" style="border-radius: 8px;" />
-&lt;p>Los mandos intermedios podrían tomarse esto &lt;em>(y lo hacen)&lt;/em> como un ataque a sus responsabilidades.&lt;/p>
-&lt;h4 id="conclusión">
+&lt;a href="#la-fea-verdad" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;La razón principal por la que no existe una única plataforma de desarrollo interno no tiene que ver con la tecnología, hay un número ingente de tecnologías listas para integrarse y cubrir la mayoría de los casos de uso que puedes ver en tu empresa.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Entonces, ¿cuál es el problema?&lt;/em&gt; &lt;strong&gt;The middle management.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;En una empresa tradicional, verá una estructura organizativa bien definida con múltiples niveles de gestión. Desde el nivel C hasta abajo puedes encontrar 3-4-5 niveles de gestión &lt;em&gt;(incluso más; cuanto más grande sea la empresa, más niveles encontrarás)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cada directivo se preocupa por X empleados y/o directivos.
+&lt;strong&gt;Cuantos más informes recibe el directivo, más &amp;ldquo;importante&amp;rdquo; es para la empresa&lt;/strong&gt;, al menos, esto es lo que podemos ver en este tipo de grandes empresas. Además, están acostumbrados a trabajar por proyectos, prestando servicios a distintas áreas. Así que es de esperar que interactúen dentro de las áreas a través de tickets/formularios&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Entonces&amp;hellip; ¿Qué pasaría si alguien intenta implementar un IDP que involucra a muchos departamentos diferentes?&lt;/p&gt;
+&lt;img src="https://blog.barrera.dev/images/IDPCapabilities.png" alt="Capacidades IDP" class="center" style="border-radius: 8px;" /&gt;
+&lt;p&gt;Los mandos intermedios podrían tomarse esto &lt;em&gt;(y lo hacen)&lt;/em&gt; como un ataque a sus responsabilidades.&lt;/p&gt;
+&lt;h4 id="conclusión"&gt;
 Conclusión
-&lt;a href="#conclusi%c3%b3n" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>No tengo una bala de plata, pero tengo algunas ideas que podrían ayudarte a empezar a pensar en este tema.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Eche un vistazo a su entorno&lt;/strong>; ¿Su jefe es consciente de la situación actual? Si no es así, intenta explicar la situación a tu jefe.&lt;/li>
-&lt;li>&lt;strong>Empieza por los desarrolladores&lt;/strong>. Los desarrolladores son los que van a utilizar la plataforma, por lo que deben ser ellos los que definan los requisitos y las capacidades de la plataforma. &lt;strong>Trátelos como a sus clientes.&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Empezar poco a poco&lt;/strong>. Empieza con un equipo pequeño e intenta implantar una microplataforma que puedan utilizar unos pocos equipos. Después, intenta ampliar la plataforma a otros equipos presentando las ventajas de utilizar esta plataforma a tu jefe.&lt;/li>
-&lt;li>&lt;strong>Empieza por lo básico&lt;/strong>. Empieza por lo básico e intenta implantar una plataforma que puedan utilizar todos los equipos de la empresa.&lt;/li>
-&lt;/ul>
-&lt;p>Deberías presentar junto con tu jefe las ventajas de utilizar la plataforma a los demás jefes.
-Deberías ser capaz de mostrarles cómo la plataforma puede ayudarles a mejorar sus procesos y cómo puede ayudarles a mejorar su forma de trabajar.&lt;/p>
-&lt;p>&lt;strong>Implementada con éxito, ahorrará mucho dinero a la empresa&lt;/strong>.&lt;/p></description></item><item><title>IOT - Dispositivos Inteligentes</title><link>https://blog.barrera.dev/posts/iot-intelligent-devices/</link><pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/iot-intelligent-devices/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/iot-intelligent-devices.jpg"/>
-&lt;p>Hace poco descubrí que mi robot aspirador dejó de funcionar durante más de tres días.&lt;/p>
-&lt;p>No podía configurar el programa de aspirado, es decir, no podía modificar el plan de limpieza para definir las habitaciones a limpiar ni modificar la potencia de succión que la aplicación te permite configurar &lt;strong>y no puedes hacerlo de ninguna otra forma&lt;/strong>.&lt;/p>
-&lt;h4 id="entonces">
+&lt;a href="#conclusi%c3%b3n" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;No tengo una bala de plata, pero tengo algunas ideas que podrían ayudarte a empezar a pensar en este tema.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Eche un vistazo a su entorno&lt;/strong&gt;; ¿Su jefe es consciente de la situación actual? Si no es así, intenta explicar la situación a tu jefe.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Empieza por los desarrolladores&lt;/strong&gt;. Los desarrolladores son los que van a utilizar la plataforma, por lo que deben ser ellos los que definan los requisitos y las capacidades de la plataforma. &lt;strong&gt;Trátelos como a sus clientes.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Empezar poco a poco&lt;/strong&gt;. Empieza con un equipo pequeño e intenta implantar una microplataforma que puedan utilizar unos pocos equipos. Después, intenta ampliar la plataforma a otros equipos presentando las ventajas de utilizar esta plataforma a tu jefe.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Empieza por lo básico&lt;/strong&gt;. Empieza por lo básico e intenta implantar una plataforma que puedan utilizar todos los equipos de la empresa.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Deberías presentar junto con tu jefe las ventajas de utilizar la plataforma a los demás jefes.
+Deberías ser capaz de mostrarles cómo la plataforma puede ayudarles a mejorar sus procesos y cómo puede ayudarles a mejorar su forma de trabajar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Implementada con éxito, ahorrará mucho dinero a la empresa&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>IOT - Dispositivos Inteligentes</title><link>https://blog.barrera.dev/posts/iot-intelligent-devices/</link><pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/iot-intelligent-devices/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/iot-intelligent-devices.jpg"/&gt;
+&lt;p&gt;Hace poco descubrí que mi robot aspirador dejó de funcionar durante más de tres días.&lt;/p&gt;
+&lt;p&gt;No podía configurar el programa de aspirado, es decir, no podía modificar el plan de limpieza para definir las habitaciones a limpiar ni modificar la potencia de succión que la aplicación te permite configurar &lt;strong&gt;y no puedes hacerlo de ninguna otra forma&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id="entonces"&gt;
 ¿Entonces?
-&lt;a href="#entonces" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>En realidad, puedes encender el robot con el botón que trae el propio aparato y este realizará el último recorrido con el que fue configurado. Con suerte será la casa completa a una potencia de succión suficiente.&lt;/p>
-&lt;p>Pasados unos días, la aplicación volvió a funcionar&amp;hellip; pero esto me hizo reflexionar. Dependemos de servicios de terceros cuando compramos ciertos productos, como robots aspirador, enchufes inteligentes, cámaras de vigilancia, etc.&lt;/p>
-&lt;p>Ante esta situación hay &lt;em>(principalmente)&lt;/em> dos grupos de personas:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Gente común&lt;/strong> que no tiene por qué conocer estos detalles y compra este tipo de dispositivos porque les gusta o los necesitan.
-Creen que pueden ser una buena solución para ellos, pero que ante este tipo de situaciones, lo único que pueden hacer es llamar al comercio donde lo compró o llamar al fabricante para gestionar la garantía.&lt;/li>
-&lt;li>&lt;strong>Informáticos&lt;/strong> o a los que nos gusta resolver problemas tecnológicos y entendemos cómo funciona este tipo de dispositivos, es decir, sabemos que estos se conectan a un servidor remoto para enviar/recibir datos &lt;em>(cosa que no nos suele gustar)&lt;/em> y que necesitamos para interactuar con ellos desde dentro y fuera de casa a través de una aplicación.&lt;/li>
-&lt;/ul>
-&lt;h4 id="cámaras-de-vigilancia">
+&lt;a href="#entonces" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;En realidad, puedes encender el robot con el botón que trae el propio aparato y este realizará el último recorrido con el que fue configurado. Con suerte será la casa completa a una potencia de succión suficiente.&lt;/p&gt;
+&lt;p&gt;Pasados unos días, la aplicación volvió a funcionar&amp;hellip; pero esto me hizo reflexionar. Dependemos de servicios de terceros cuando compramos ciertos productos, como robots aspirador, enchufes inteligentes, cámaras de vigilancia, etc.&lt;/p&gt;
+&lt;p&gt;Ante esta situación hay &lt;em&gt;(principalmente)&lt;/em&gt; dos grupos de personas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Gente común&lt;/strong&gt; que no tiene por qué conocer estos detalles y compra este tipo de dispositivos porque les gusta o los necesitan.
+Creen que pueden ser una buena solución para ellos, pero que ante este tipo de situaciones, lo único que pueden hacer es llamar al comercio donde lo compró o llamar al fabricante para gestionar la garantía.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Informáticos&lt;/strong&gt; o a los que nos gusta resolver problemas tecnológicos y entendemos cómo funciona este tipo de dispositivos, es decir, sabemos que estos se conectan a un servidor remoto para enviar/recibir datos &lt;em&gt;(cosa que no nos suele gustar)&lt;/em&gt; y que necesitamos para interactuar con ellos desde dentro y fuera de casa a través de una aplicación.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="cámaras-de-vigilancia"&gt;
 Cámaras de vigilancia
-&lt;a href="#c%c3%a1maras-de-vigilancia" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Estos aplica también a cámaras de vigilancia. El uso común de una cámara de vigilancia es ser capaz de ver lo que pasa en la vivienda en tiempo real desde cualquier lugar. Además, ante cualquier evento/movimiento recibir notificaciones de seguridad. Para esto confiamos, de forma implícita, en servicios externos.&lt;/p>
-&lt;p>¿Son conscientes los usuarios de como funciona esto? Si supieran que las imágenes pasan por un servidor de una empresa &lt;em>(que puede ser o no la fabricante del producto)&lt;/em>, se analiza el contenido y se almacena en la nube, ¿Lo comprarían? ¿Lo usarían? ¿Lo instalarían en su casa?&lt;/p>
-&lt;p>El público general no tiene por qué conocer este detalle, para la mayoría solo se trata de una aplicación la cual configura la cámara de vigilancia y mágicamente puede ver lo que pasa en su casa desde cualquier parte del mundo.&lt;/p>
-&lt;p>Pero &lt;strong>la magia no existe&lt;/strong>, en esto estamos todos de acuerdo.&lt;/p>
-&lt;h4 id="alternativas">
+&lt;a href="#c%c3%a1maras-de-vigilancia" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Estos aplica también a cámaras de vigilancia. El uso común de una cámara de vigilancia es ser capaz de ver lo que pasa en la vivienda en tiempo real desde cualquier lugar. Además, ante cualquier evento/movimiento recibir notificaciones de seguridad. Para esto confiamos, de forma implícita, en servicios externos.&lt;/p&gt;
+&lt;p&gt;¿Son conscientes los usuarios de como funciona esto? Si supieran que las imágenes pasan por un servidor de una empresa &lt;em&gt;(que puede ser o no la fabricante del producto)&lt;/em&gt;, se analiza el contenido y se almacena en la nube, ¿Lo comprarían? ¿Lo usarían? ¿Lo instalarían en su casa?&lt;/p&gt;
+&lt;p&gt;El público general no tiene por qué conocer este detalle, para la mayoría solo se trata de una aplicación la cual configura la cámara de vigilancia y mágicamente puede ver lo que pasa en su casa desde cualquier parte del mundo.&lt;/p&gt;
+&lt;p&gt;Pero &lt;strong&gt;la magia no existe&lt;/strong&gt;, en esto estamos todos de acuerdo.&lt;/p&gt;
+&lt;h4 id="alternativas"&gt;
 Alternativas
-&lt;a href="#alternativas" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Encontré un grupo de afectados &lt;em>(en telegram)&lt;/em> y resulta que no era el único&amp;hellip; El motivo fue que los servidores de esta marca se cayeron y estuvo fuera de servicio durante ese fin de semana por completo.
-En este grupo de telegram descubrí que existía una forma por la cual montar un servidor compatible por cuenta propia. De esta forma, yo sería el único responsable de mantener el servicio funcionando para poder usar mi robot aspirador y poder configurarlo sin necesidad de depender de esa tercera empresa.&lt;/p>
-&lt;p>Tras varias horas de leer información y tras estudiar &lt;em>(no es trivial)&lt;/em> cómo se podía acceder y re-configurar &lt;em>(rootear)&lt;/em> el robot para que usara este nuevo método, finalmente lo hice funcionar.
-Todo esto solo es viable si eres informático y te gustan este tipo de cosas.&lt;/p>
-&lt;h4 id="futuro">
+&lt;a href="#alternativas" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Encontré un grupo de afectados &lt;em&gt;(en telegram)&lt;/em&gt; y resulta que no era el único&amp;hellip; El motivo fue que los servidores de esta marca se cayeron y estuvo fuera de servicio durante ese fin de semana por completo.
+En este grupo de telegram descubrí que existía una forma por la cual montar un servidor compatible por cuenta propia. De esta forma, yo sería el único responsable de mantener el servicio funcionando para poder usar mi robot aspirador y poder configurarlo sin necesidad de depender de esa tercera empresa.&lt;/p&gt;
+&lt;p&gt;Tras varias horas de leer información y tras estudiar &lt;em&gt;(no es trivial)&lt;/em&gt; cómo se podía acceder y re-configurar &lt;em&gt;(rootear)&lt;/em&gt; el robot para que usara este nuevo método, finalmente lo hice funcionar.
+Todo esto solo es viable si eres informático y te gustan este tipo de cosas.&lt;/p&gt;
+&lt;h4 id="futuro"&gt;
 Futuro
-&lt;a href="#futuro" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Para el público general preveo problemas legales con las garantías, es decir:&lt;/p>
-&lt;ul>
-&lt;li>¿Qué pasa si tu robot aspirador deja de funcionar?&lt;/li>
-&lt;li>¿Qué pasa si te deja de dar cierta funcionalidad si un servidor de una empresa deja de funcionar?&lt;/li>
-&lt;li>¿Qué pasa si la empresa quiebra?&lt;/li>
-&lt;li>o&amp;hellip; cualquier otro motivo que haga que no puedas utilizar esa aplicación para configurar tu dispositivo&amp;hellip;&lt;/li>
-&lt;/ul>
-&lt;p>&lt;em>¿Existe algún tipo de ley que obligue tener que soportar y proveer servicios durante al menos la vida útil del dispositivo?&lt;/em>&lt;/p>
-&lt;p>Si no es así&amp;hellip;&lt;/p>
-&lt;p>&lt;em>¿Qué responsabilidad tiene la empresa de mantener el servidor o ese servicio más allá de un año o dos años desde la venta del producto?&lt;/em>&lt;/p>
-&lt;p>Es decir, podíamos llegar a un punto en el que tu dispositivo sea un pisapapeles. ¿Verdad? &lt;strong>Incluso estando en buen estado&lt;/strong>.
+&lt;a href="#futuro" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Para el público general preveo problemas legales con las garantías, es decir:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Qué pasa si tu robot aspirador deja de funcionar?&lt;/li&gt;
+&lt;li&gt;¿Qué pasa si te deja de dar cierta funcionalidad si un servidor de una empresa deja de funcionar?&lt;/li&gt;
+&lt;li&gt;¿Qué pasa si la empresa quiebra?&lt;/li&gt;
+&lt;li&gt;o&amp;hellip; cualquier otro motivo que haga que no puedas utilizar esa aplicación para configurar tu dispositivo&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;¿Existe algún tipo de ley que obligue tener que soportar y proveer servicios durante al menos la vida útil del dispositivo?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Si no es así&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;¿Qué responsabilidad tiene la empresa de mantener el servidor o ese servicio más allá de un año o dos años desde la venta del producto?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Es decir, podíamos llegar a un punto en el que tu dispositivo sea un pisapapeles. ¿Verdad? &lt;strong&gt;Incluso estando en buen estado&lt;/strong&gt;.
 Puede llegar el momento en que no puedas usar tu dispositivo para nada porque la empresa ha dejado de dar servicio y todo eso va directamente
-al chatarrero.&lt;/p>
-&lt;p>Preveo las siguientes situaciones:&lt;/p>
-&lt;ul>
-&lt;li>Legislar para evitar estas situaciones. Tiene lagunas:
-&lt;ul>
-&lt;li>¿Cómo se puede obligar a una empresa fuera de la unión europea a dar un servicio durante la vida útil de un dispositivo?&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Vuelta a los dispositivos no inteligentes.
-&lt;ul>
-&lt;li>El consumidor preferirá gastarse más dinero y que su dispositivo funcione independientemente de si la empresa quiebra y así poder disfrutar plenamente de su dispositivo.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Empresas que se dediquen a dar servicio de mantenimiento de estos dispositivos
-&lt;ul>
-&lt;li>&lt;em>No suele ser económicamente viable&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul></description></item><item><title>Redes sociales y sociedad</title><link>https://blog.barrera.dev/posts/social-networks-and-society/</link><pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/social-networks-and-society/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/social-networks-and-society.jpg"/>
-&lt;p>&lt;a href="https://www.bbc.com/mundo/noticias-48558989">Las redes sociales están con nosotros desde hace ya mas de &lt;strong>dos décadas&lt;/strong>&lt;/a>. Sin embargo, se está brindando poca educación a nuestros jóvenes para hacer un uso responsable de las mismas.
-No es solo un &lt;em>¿potencial?&lt;/em> problema de la gente joven; la población adulta se enfrentará a un cambio de trabajo, a solicitar una hipoteca o un préstamo en una entidad bancaria, o a pedir una beca para sus hijos&amp;hellip; todo esto puede verse afectado por el empleo de las redes sociales.&lt;/p>
-&lt;p>Y es que &lt;strong>no somos conscientes&lt;/strong> de la cantidad de información que estamos enviando, &lt;em>más allá de una foto que puede resultar inocente&lt;/em>, a una red social que a priori no debería de compartir esta información fuera de la plataforma &lt;a href="https://www.ambito.com/informacion-general/twitter/cada-vez-son-mas-los-gobiernos-que-piden-datos-sus-usuarios-n5500553">¿Verdad?&lt;/a>&lt;/p>
-&lt;h4 id="qué-publicamos-en-las-redes-sociales">
+al chatarrero.&lt;/p&gt;
+&lt;p&gt;Preveo las siguientes situaciones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Legislar para evitar estas situaciones. Tiene lagunas:
+&lt;ul&gt;
+&lt;li&gt;¿Cómo se puede obligar a una empresa fuera de la unión europea a dar un servicio durante la vida útil de un dispositivo?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vuelta a los dispositivos no inteligentes.
+&lt;ul&gt;
+&lt;li&gt;El consumidor preferirá gastarse más dinero y que su dispositivo funcione independientemente de si la empresa quiebra y así poder disfrutar plenamente de su dispositivo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Empresas que se dediquen a dar servicio de mantenimiento de estos dispositivos
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;No suele ser económicamente viable&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Redes sociales y sociedad</title><link>https://blog.barrera.dev/posts/social-networks-and-society/</link><pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/social-networks-and-society/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/social-networks-and-society.jpg"/&gt;
+&lt;p&gt;&lt;a href="https://www.bbc.com/mundo/noticias-48558989"&gt;Las redes sociales están con nosotros desde hace ya mas de &lt;strong&gt;dos décadas&lt;/strong&gt;&lt;/a&gt;. Sin embargo, se está brindando poca educación a nuestros jóvenes para hacer un uso responsable de las mismas.
+No es solo un &lt;em&gt;¿potencial?&lt;/em&gt; problema de la gente joven; la población adulta se enfrentará a un cambio de trabajo, a solicitar una hipoteca o un préstamo en una entidad bancaria, o a pedir una beca para sus hijos&amp;hellip; todo esto puede verse afectado por el empleo de las redes sociales.&lt;/p&gt;
+&lt;p&gt;Y es que &lt;strong&gt;no somos conscientes&lt;/strong&gt; de la cantidad de información que estamos enviando, &lt;em&gt;más allá de una foto que puede resultar inocente&lt;/em&gt;, a una red social que a priori no debería de compartir esta información fuera de la plataforma &lt;a href="https://www.ambito.com/informacion-general/twitter/cada-vez-son-mas-los-gobiernos-que-piden-datos-sus-usuarios-n5500553"&gt;¿Verdad?&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id="qué-publicamos-en-las-redes-sociales"&gt;
 ¿Qué publicamos en las redes sociales?
-&lt;a href="#qu%c3%a9-publicamos-en-las-redes-sociales" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Cuando publicamos en Instagram, Twitter o Facebook, no solo estamos publicando la información que pretendemos compartir, sino que también estamos regalando información relevante, como por ejemplo: días que sueles publicar fotos, hábitos/patrones de vida, ubicaciones frecuentes, ¿Estás trabajando?&amp;hellip; incluso información de tus relaciones personales, sentimentales o laborales.&lt;/p>
-&lt;p>&lt;a href="https://www.lavanguardia.com/cribeo/viral/20221119/8606573/solucion-viral-definitiva-visitas-quitan-zapatos-entrar-casa-mmn.html">Ya no es solo el meme en el que subes una foto y sales en la casa de tu amigo o amiga&lt;/a>&amp;hellip; hoy tu jefe puede ver si has subido una foto cerca de la oficina de un competidor.&lt;/p>
-&lt;blockquote>
-&lt;p>Es un tema que no tiene fácil solución porque, al fin y al cabo, el humano es un animal social y como tal, busca aceptación por parte de la sociedad. Compartir sus experiencias, sus pensamientos, sus sentimientos en las redes sociales parece ser la forma más rápida de conseguir esta aceptación.&lt;/p>
-&lt;/blockquote>
-&lt;h4 id="black-mirror-distopía-o-realidad">
+&lt;a href="#qu%c3%a9-publicamos-en-las-redes-sociales" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Cuando publicamos en Instagram, Twitter o Facebook, no solo estamos publicando la información que pretendemos compartir, sino que también estamos regalando información relevante, como por ejemplo: días que sueles publicar fotos, hábitos/patrones de vida, ubicaciones frecuentes, ¿Estás trabajando?&amp;hellip; incluso información de tus relaciones personales, sentimentales o laborales.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.lavanguardia.com/cribeo/viral/20221119/8606573/solucion-viral-definitiva-visitas-quitan-zapatos-entrar-casa-mmn.html"&gt;Ya no es solo el meme en el que subes una foto y sales en la casa de tu amigo o amiga&lt;/a&gt;&amp;hellip; hoy tu jefe puede ver si has subido una foto cerca de la oficina de un competidor.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Es un tema que no tiene fácil solución porque, al fin y al cabo, el humano es un animal social y como tal, busca aceptación por parte de la sociedad. Compartir sus experiencias, sus pensamientos, sus sentimientos en las redes sociales parece ser la forma más rápida de conseguir esta aceptación.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id="black-mirror-distopía-o-realidad"&gt;
 Black Mirror, ¿Distopía o realidad?
-&lt;a href="#black-mirror-distop%c3%ada-o-realidad" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Fue en &lt;a href="https://trakt.tv/shows/black-mirror/seasons/3/episodes/1">Black mirror&lt;/a>, la famosa serie de Netflix, donde se dejó ver una de las visiones en las que las redes sociales cobran un protagonismo realmente peligroso; expone un sistema de votación donde la gente califica tu persona y podría dejarte excluido de la sociedad si no recibes suficientes votos positivos.&lt;/p>
-&lt;p>Por otro lado, si no eres parte de estas redes sociales, no subes contenido o no compartes tus fotos de Navidad, vacaciones o de tus viajes&amp;hellip; parece que no haces nada en tu vida. ¿Qué pasa con las personas que no quieren compartir, o no saben, o no les interesa compartir su vida en las redes sociales?&lt;/p>
-&lt;p>&lt;strong>¿Podría llegar el día en el que una persona humilde, trabajadora, con ingresos demostrables, solvente, pero que no sube ningún tipo de contenido a ninguna red social, se le denegase un préstamo por no tener un mínimo de reputación en redes sociales?&lt;/strong>&lt;/p>
-&lt;p>O incluso viajando&amp;hellip; en las fronteras. Si el policía/guardia en la frontera no puede verificar tu persona, ya que no tienes presencia en redes sociales&amp;hellip; ¿Te dejaría entrar en el país? ¿Como se tratará la ausencia de información?&lt;/p>
-&lt;blockquote>
-&lt;p>La información es poder, todo el mundo lo sabe, por tanto, puedo prever ciertos problemas socio/burocráticos con personas ajenas a redes sociales que tendremos que resolver como sociedad.&lt;/p>
-&lt;/blockquote>
-&lt;p>¿Tendrán que aprender a compartir información sobre su vida en redes sociales para poder viajar? Y si es así&amp;hellip; ¿De dónde sacarán la información? ¿Cuál será su fuente oficial de información? Si hicieran consultas a plataformas como Meta, Facebook, Instagram, Twitter, Linkedin etcétera&amp;hellip; ¿Cómo podrán verificar que esos datos no han sido alterados por las propias empresas o si has sido hackeado &lt;em>(&lt;a href="https://www.xataka.com/aplicaciones/inicio-declive-anunciado-facebook-pierde-usuarios-primera-vez-su-historia">¿Quién usa Facebook a día de hoy?&lt;/a>)&lt;/em> y han publicado contenido que no es legítimo?&lt;/p>
-&lt;p>&lt;strong>No es una distopía&lt;/strong>, es una realidad que está a la vuelta de la esquina.&lt;/p></description></item><item><title>Despidos en Meta</title><link>https://blog.barrera.dev/posts/meta-layoffs/</link><pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/meta-layoffs/</guid><description>
-&lt;img src="https://blog.barrera.dev/images/meta-layoffs.jpg"/>
-&lt;p>Hoy se ha conocido uno de los &lt;a href="https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/">mayores despidos en la historia de la tecnología&lt;/a>; en este caso el afortunado, por llamarlo de alguna forma, ha sido &lt;a href="https://about.meta.com/es/meta/">meta&lt;/a>, comúnmente conocido como: &lt;strong>Facebook&lt;/strong>.&lt;/p>
-&lt;p>Es una noticia realmente dura, son más de once mil empleados, o lo que es lo mismo, casi &lt;strong>once mil familias&lt;/strong> en todo el mundo. En las últimas semanas, hemos visto otros despidos en Stripe, Uber, Twitter&amp;hellip;
-&lt;em>&lt;a href="https://layoffs.fyi/">fuente&lt;/a>&lt;/em>.&lt;/p>
-&lt;p>Los motivos de estos despidos vienen motivados por la época &lt;em>¿post-pandémica?&lt;/em>. Recordemos que durante la pandemia, estos servicios &lt;em>(Twitter, Facebook, Instagram, Whatsapp, Twitch&amp;hellip;)&lt;/em> ganaron muchos clientes y relevancia al ser uno de los pocos entretenimientos que teníamos durante los confinamientos.&lt;/p>
-&lt;p>Además nos enfrentamos a lo que posiblemente sea la tercera guerra mundial &lt;em>(iniciada desde Rusia&amp;hellip;)&lt;/em>, crisis de semiconductores, oligopolio en la fabricación de microchips &lt;em>(liderada por TSMC)&lt;/em>, el cambio climático y políticas extremistas &lt;em>(Italia)&lt;/em>.&lt;/p>
-&lt;p>Todos los que trabajamos, de alguna u otra forma, en el mundo de la tecnología nos preguntamos si estamos a salvo de estos despidos. También nos preguntamos si es particular de las grandes empresas tecnológicas.&lt;/p>
-&lt;p>&lt;em>¿Existirá sobredimensionamiento de empleados en estas empresas tecnológicas?&lt;/em>&lt;/p>
-&lt;blockquote>
-&lt;p>Dado que este es mi primer post me gustaría aclarar que todo lo aquí expuesto son solo opiniones personales; para nada soy un investigador o un periodista. Simplemente, doy la visión de un &lt;em>(no)&lt;/em>-ingeniero que trabaja en este mundillo.&lt;/p>
-&lt;/blockquote>
-&lt;h4 id="esto-quiere-decir-o-significa-que-ha-explotado-una-burbuja-tecnológica-que-muchos-creen-que-existe">
+&lt;a href="#black-mirror-distop%c3%ada-o-realidad" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Fue en &lt;a href="https://trakt.tv/shows/black-mirror/seasons/3/episodes/1"&gt;Black mirror&lt;/a&gt;, la famosa serie de Netflix, donde se dejó ver una de las visiones en las que las redes sociales cobran un protagonismo realmente peligroso; expone un sistema de votación donde la gente califica tu persona y podría dejarte excluido de la sociedad si no recibes suficientes votos positivos.&lt;/p&gt;
+&lt;p&gt;Por otro lado, si no eres parte de estas redes sociales, no subes contenido o no compartes tus fotos de Navidad, vacaciones o de tus viajes&amp;hellip; parece que no haces nada en tu vida. ¿Qué pasa con las personas que no quieren compartir, o no saben, o no les interesa compartir su vida en las redes sociales?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¿Podría llegar el día en el que una persona humilde, trabajadora, con ingresos demostrables, solvente, pero que no sube ningún tipo de contenido a ninguna red social, se le denegase un préstamo por no tener un mínimo de reputación en redes sociales?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O incluso viajando&amp;hellip; en las fronteras. Si el policía/guardia en la frontera no puede verificar tu persona, ya que no tienes presencia en redes sociales&amp;hellip; ¿Te dejaría entrar en el país? ¿Como se tratará la ausencia de información?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La información es poder, todo el mundo lo sabe, por tanto, puedo prever ciertos problemas socio/burocráticos con personas ajenas a redes sociales que tendremos que resolver como sociedad.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;¿Tendrán que aprender a compartir información sobre su vida en redes sociales para poder viajar? Y si es así&amp;hellip; ¿De dónde sacarán la información? ¿Cuál será su fuente oficial de información? Si hicieran consultas a plataformas como Meta, Facebook, Instagram, Twitter, Linkedin etcétera&amp;hellip; ¿Cómo podrán verificar que esos datos no han sido alterados por las propias empresas o si has sido hackeado &lt;em&gt;(&lt;a href="https://www.xataka.com/aplicaciones/inicio-declive-anunciado-facebook-pierde-usuarios-primera-vez-su-historia"&gt;¿Quién usa Facebook a día de hoy?&lt;/a&gt;)&lt;/em&gt; y han publicado contenido que no es legítimo?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No es una distopía&lt;/strong&gt;, es una realidad que está a la vuelta de la esquina.&lt;/p&gt;</description></item><item><title>Despidos en Meta</title><link>https://blog.barrera.dev/posts/meta-layoffs/</link><pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.barrera.dev/posts/meta-layoffs/</guid><description>
+&lt;img src="https://blog.barrera.dev/images/meta-layoffs.jpg"/&gt;
+&lt;p&gt;Hoy se ha conocido uno de los &lt;a href="https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/"&gt;mayores despidos en la historia de la tecnología&lt;/a&gt;; en este caso el afortunado, por llamarlo de alguna forma, ha sido &lt;a href="https://about.meta.com/es/meta/"&gt;meta&lt;/a&gt;, comúnmente conocido como: &lt;strong&gt;Facebook&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Es una noticia realmente dura, son más de once mil empleados, o lo que es lo mismo, casi &lt;strong&gt;once mil familias&lt;/strong&gt; en todo el mundo. En las últimas semanas, hemos visto otros despidos en Stripe, Uber, Twitter&amp;hellip;
+&lt;em&gt;&lt;a href="https://layoffs.fyi/"&gt;fuente&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Los motivos de estos despidos vienen motivados por la época &lt;em&gt;¿post-pandémica?&lt;/em&gt;. Recordemos que durante la pandemia, estos servicios &lt;em&gt;(Twitter, Facebook, Instagram, Whatsapp, Twitch&amp;hellip;)&lt;/em&gt; ganaron muchos clientes y relevancia al ser uno de los pocos entretenimientos que teníamos durante los confinamientos.&lt;/p&gt;
+&lt;p&gt;Además nos enfrentamos a lo que posiblemente sea la tercera guerra mundial &lt;em&gt;(iniciada desde Rusia&amp;hellip;)&lt;/em&gt;, crisis de semiconductores, oligopolio en la fabricación de microchips &lt;em&gt;(liderada por TSMC)&lt;/em&gt;, el cambio climático y políticas extremistas &lt;em&gt;(Italia)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Todos los que trabajamos, de alguna u otra forma, en el mundo de la tecnología nos preguntamos si estamos a salvo de estos despidos. También nos preguntamos si es particular de las grandes empresas tecnológicas.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;¿Existirá sobredimensionamiento de empleados en estas empresas tecnológicas?&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dado que este es mi primer post me gustaría aclarar que todo lo aquí expuesto son solo opiniones personales; para nada soy un investigador o un periodista. Simplemente, doy la visión de un &lt;em&gt;(no)&lt;/em&gt;-ingeniero que trabaja en este mundillo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id="esto-quiere-decir-o-significa-que-ha-explotado-una-burbuja-tecnológica-que-muchos-creen-que-existe"&gt;
 ¿Esto quiere decir o significa que ha explotado una burbuja tecnológica que muchos creen que existe?
-&lt;a href="#esto-quiere-decir-o-significa-que-ha-explotado-una-burbuja-tecnol%c3%b3gica-que-muchos-creen-que-existe" class="h-anchor" aria-hidden="true">#&lt;/a>
-&lt;/h4>
-&lt;p>Diría que &lt;strong>no&lt;/strong>. Si miras a tu alrededor, absolutamente todo está basado en tecnología; desde tu lavadora, tu teléfono, tu televisor, tu altavoz inteligente&amp;hellip; todo tiene un microprocesador con un software que hay que mantener; tanto el software que lleva embebido como los servicios que están detrás. Por lo tanto, no creo que estemos en una burbuja tecnológica, sino más bien una contingencia global muy compleja.&lt;/p>
-&lt;p>Solo queda esperar para conocer cuál será la próxima empresa en tener despidos &amp;ldquo;masivos&amp;rdquo;.&lt;/p></description></item></channel></rss>
+&lt;a href="#esto-quiere-decir-o-significa-que-ha-explotado-una-burbuja-tecnol%c3%b3gica-que-muchos-creen-que-existe" class="h-anchor" aria-hidden="true"&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Diría que &lt;strong&gt;no&lt;/strong&gt;. Si miras a tu alrededor, absolutamente todo está basado en tecnología; desde tu lavadora, tu teléfono, tu televisor, tu altavoz inteligente&amp;hellip; todo tiene un microprocesador con un software que hay que mantener; tanto el software que lleva embebido como los servicios que están detrás. Por lo tanto, no creo que estemos en una burbuja tecnológica, sino más bien una contingencia global muy compleja.&lt;/p&gt;
+&lt;p&gt;Solo queda esperar para conocer cuál será la próxima empresa en tener despidos &amp;ldquo;masivos&amp;rdquo;.&lt;/p&gt;</description></item></channel></rss>
