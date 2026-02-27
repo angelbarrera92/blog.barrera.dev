@@ -325,7 +325,7 @@ Contacto
 &lt;/h3&gt;
 &lt;p&gt;Si quieres contactar conmigo, puedes hacerlo a través del siguiente formulario de contacto.&lt;/p&gt;
 &lt;div class="contact-form-wrapper"&gt;
-&lt;form class="contact-form" action="https://formsubmit.co/angelbarrerasanchez&amp;#43;blog@gmail.com" method="POST"&gt;
+&lt;form class="contact-form" action="https://formsubmit.co/c2001a4d6f6f8cd3fab1ac412426173c" method="POST"&gt;
 &lt;input type="hidden" name="_subject" value="Nuevo contacto desde el blog"&gt;
 &lt;input type="hidden" name="_captcha" value="false"&gt;
 &lt;div class="contact-grid"&gt;
