@@ -5,6 +5,10 @@ on:
     branches:
       - hugo
 
+  # Publish posts whose publishDate has passed even if there are no new pushes.
+  schedule:
+    - cron: "0 6 * * *" # Daily at 06:00 UTC (08:00 CEST)
+
   workflow_dispatch:
 
 jobs:
